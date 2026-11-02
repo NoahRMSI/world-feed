@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>World Feed</title>
+<style>
+:root{--bg:#0e1116;--panel:#171c24;--text:#f2f4f7;--muted:#9aa4b2;--weather:#ff6b4a;--festival:#f5b83d;--artist:#4cc9a0;--actor:#6aa7ff;--film:#c77dff;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);color-scheme:dark}
+@media (prefers-color-scheme:light){:root:not([data-theme="dark"]){--bg:#f4f5f7;--panel:#fff;--text:#14181f;--muted:#5b6574;color-scheme:light}}
+:root[data-theme="dark"]{--bg:#0e1116;--panel:#171c24;--text:#f2f4f7;--muted:#9aa4b2}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body{background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;display:flex;flex-direction:column;overflow:hidden}
+header{display:flex;align-items:center;justify-content:space-between;padding:2vh 3vw;gap:2vw}
+h1{font-size:clamp(18px,2.6vw,40px);margin:0;letter-spacing:.02em}
+.key{display:flex;gap:1.5vw;font-size:clamp(12px,1.5vw,24px);color:var(--muted)}
+.key i{display:inline-block;width:.8em;height:.8em;border-radius:50%;margin-right:.4em}
+#clock{font-size:clamp(18px,2.6vw,40px);font-variant-numeric:tabular-nums}
+main{flex:1;display:grid;grid-template-columns:1.5fr 1fr;gap:2vw;padding:0 3vw 3vh;min-height:0}
+.featured{background:var(--panel);border-radius:20px;padding:4vw;display:flex;flex-direction:column;justify-content:center;border-left:.8vw solid var(--c,var(--weather));transition:opacity .6s}
+.featured.fade{opacity:0}
+.tag{font-size:clamp(14px,1.8vw,30px);font-weight:700;text-transform:uppercase;letter-spacing:.12em;color:var(--c)}
+.featured h2{font-size:clamp(26px,4.2vw,72px);line-height:1.15;margin:2vh 0}
+.meta{font-size:clamp(14px,1.8vw,30px);color:var(--muted)}
+.roll{overflow:hidden;border-radius:20px;position:relative;mask-image:linear-gradient(transparent,#000 8%,#000 92%,transparent);-webkit-mask-image:linear-gradient(transparent,#000 8%,#000 92%,transparent)}
+.track{animation:roll var(--dur,120s) linear infinite}
+@keyframes roll{to{transform:translateY(-50%)}}
+.card{background:var(--panel);border-radius:14px;padding:1.6vw;margin-bottom:1.2vw;border-left:.4vw solid var(--c)}
+.card b{display:block;font-size:clamp(11px,1.2vw,20px);letter-spacing:.1em;text-transform:uppercase;color:var(--c);margin-bottom:.5vh}
+.card p{margin:0;font-size:clamp(15px,1.9vw,32px);line-height:1.25}
+.card small{color:var(--muted);font-size:clamp(12px,1.3vw,22px)}
+@media (max-width:800px){main{grid-template-columns:1fr}.roll{display:none}}
+@media (prefers-reduced-motion:reduce){.track{animation:none}}
+</style>
+</head>
+<body>
+<header>
+  <h1>World Feed</h1>
+  <div class="key">
+    <span><i style="background:var(--weather)"></i>Weather</span>
+    <span><i style="background:var(--festival)"></i>Festivals</span>
+    <span><i style="background:var(--artist)"></i>Artists</span>
+    <span><i style="background:var(--actor)"></i>Actors</span>
+    <span><i style="background:var(--film)"></i>Film</span>
+  </div>
+  <div id="clock"></div>
+</header>
+<main>
+  <section class="featured" id="feat"></section>
+  <section class="roll"><div class="track" id="track"></div></section>
+</main>
+<script>
+// Sample data. Replace by serving a feed.json next to this page (see FEED_URL).
+const SAMPLE=[
+ {cat:"weather",title:"Wildfire evacuations ordered as strong winds fan flames",source:"GDACS",place:"Southern Europe",time:"20 min ago"},
+ {cat:"festival",title:"Headliners announced for next summer’s biggest outdoor festival",source:"IQ Magazine",place:"UK",time:"1 hr ago"},
+ {cat:"artist",title:"Surprise new album drops with no prior announcement",source:"NME",place:"Global",time:"2 hr ago"},
+ {cat:"weather",title:"Flash flooding closes roads and rail lines after record rainfall",source:"ReliefWeb",place:"South Asia",time:"2 hr ago"},
+ {cat:"artist",title:"World tour dates revealed, with first shows on sale Friday",source:"Billboard",place:"Global",time:"3 hr ago"},
+ {cat:"weather",title:"Tropical cyclone strengthens as it approaches the coast",source:"NASA EONET",place:"Pacific",time:"4 hr ago"},
+ {cat:"festival",title:"Festival cancels final day because of severe weather warnings",source:"Music Week",place:"Europe",time:"5 hr ago"},
+ {cat:"actor",title:"Award-winning actor joins cast of upcoming period drama",source:"Deadline",place:"London",time:"1 hr ago"},
+ {cat:"film",title:"Production begins on long-awaited sequel with principal photography under way",source:"Variety",place:"Los Angeles",time:"3 hr ago"},
+ {cat:"film",title:"Studio sets release date for new sci-fi feature after wrap",source:"The Hollywood Reporter",place:"Global",time:"6 hr ago"},
+ {cat:"actor",title:"Casting announced for lead role in new streaming series",source:"Screen Daily",place:"UK",time:"7 hr ago"}
+];
+const FEED_URL="feed.json";
+const COL={weather:"var(--weather)",festival:"var(--festival)",artist:"var(--artist)",actor:"var(--actor)",film:"var(--film)"};
+const LAB={weather:"Weather event",festival:"Festival",artist:"Artist",actor:"Actor",film:"Film production"};
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+let items=SAMPLE,idx=0;
+async function load(){
+  try{const r=await fetch(FEED_URL,{cache:"no-store"});if(!r.ok)throw 0;const d=await r.json();if(Array.isArray(d)&&d.length)items=d}catch(e){}
+  buildRoll();
+}
+function card(i){return `<div class="card" style="--c:${COL[i.cat]||COL.weather}"><b>${LAB[i.cat]||""}</b><p>${esc(i.title)}</p><small>${esc(i.source)} · ${esc(i.place)} · ${esc(i.time)}</small></div>`}
+function buildRoll(){
+  const t=document.getElementById("track"),h=items.map(card).join("");
+  t.innerHTML=h+h;
+  t.style.setProperty("--dur",Math.max(40,items.length*10)+"s");
+}
+function show(){
+  const f=document.getElementById("feat"),i=items[idx%items.length];
+  f.classList.add("fade");
+  setTimeout(()=>{
+    f.style.setProperty("--c",COL[i.cat]||COL.weather);
+    f.innerHTML=`<div class="tag">${LAB[i.cat]||""}</div><h2>${esc(i.title)}</h2><div class="meta">${esc(i.source)} · ${esc(i.place)} · ${esc(i.time)}</div>`;
+    f.classList.remove("fade");idx++;
+  },600);
+}
+function tick(){document.getElementById("clock").textContent=new Date().toLocaleTimeString([], {hour:"2-digit",minute:"2-digit"})}
+load();show();setInterval(show,10000);tick();setInterval(tick,10000);setInterval(load,600000);
+</script>
+</body>
+</html>
