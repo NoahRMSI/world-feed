@@ -1,0 +1,25 @@
+{
+  "maxAgeHours": 72,
+  "weatherMaxAgeHours": 240,
+  "perCategoryMax": 12,
+  "totalMax": 60,
+  "gdacsMinAlert": "Green",
+  "watch": {
+    "artists": ["Radiohead", "Dua Lipa", "Fontaines D.C."],
+    "actors": ["Cillian Murphy", "Florence Pugh", "Pedro Pascal"],
+    "festivals": ["Glastonbury", "Coachella", "Primavera Sound"],
+    "films": ["Dune", "Avatar", "Star Wars"]
+  },
+  "weatherQueries": ["wildfire evacuation", "flooding emergency", "tropical cyclone landfall"],
+  "filmProductionQueries": ["film production begins filming", "principal photography begins"],
+  "feeds": [
+    { "name": "Deadline", "url": "https://deadline.com/feed/", "cat": "film", "place": "Film industry" },
+    { "name": "Variety", "url": "https://variety.com/feed/", "cat": "film", "place": "Film industry" },
+    { "name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/feed/", "cat": "film", "place": "Film industry" },
+    { "name": "Collider", "url": "https://collider.com/feed/", "cat": "film", "place": "Film industry" },
+    { "name": "NME", "url": "https://www.nme.com/feed", "cat": "music", "place": "Music" },
+    { "name": "The Guardian", "url": "https://www.theguardian.com/music/rss", "cat": "music", "place": "Music" },
+    { "name": "Pitchfork", "url": "https://pitchfork.com/feed/feed-news/rss", "cat": "music", "place": "Music" },
+    { "name": "Billboard", "url": "https://www.billboard.com/feed/", "cat": "music", "place": "Music" }
+  ]
+}
