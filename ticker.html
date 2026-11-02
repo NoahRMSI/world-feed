@@ -4,6 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>World Feed Ticker</title>
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#0e1116">
 <style>
 :root{--bg:#0e1116;--text:#f2f4f7;--muted:#9aa4b2;--weather:#ff6b4a;--festival:#f5b83d;--artist:#4cc9a0;--actor:#6aa7ff;--film:#c77dff;color-scheme:dark}
 @media (prefers-color-scheme:light){:root{--bg:#f4f5f7;--text:#14181f;--muted:#5b6574;color-scheme:light}}
@@ -17,11 +19,16 @@ html,body{margin:0;height:100%;overflow:hidden;background:var(--bg)}
 .item b{font-size:.75em;letter-spacing:.08em;text-transform:uppercase;color:var(--c)}
 .item small{color:var(--muted);font-size:.85em}
 a.item:hover span{text-decoration:underline}
+.grip{display:none}
+@media (display-mode:window-controls-overlay){
+ .bar{position:fixed;left:env(titlebar-area-x,0);top:env(titlebar-area-y,0);width:env(titlebar-area-width,100%);height:env(titlebar-area-height,32px)}
+ .grip{display:flex;align-items:center;justify-content:center;flex:none;width:28px;height:100%;color:var(--muted);cursor:grab;-webkit-app-region:drag;app-region:drag}
+}
 @media (prefers-reduced-motion:reduce){.track{animation:none}.bar{overflow-x:auto}}
 </style>
 </head>
 <body>
-<div class="bar"><div class="track" id="track"></div></div>
+<div class="bar"><div class="grip">⋮</div><div class="track" id="track"></div></div>
 <script>
 const SAMPLE=[
  {cat:"weather",title:"Sample: wildfire evacuations ordered as winds strengthen",source:"GDACS",place:"Southern Europe"},
