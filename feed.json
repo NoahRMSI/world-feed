@@ -1,39 +1,120 @@
 [
   {
-    "cat": "weather",
-    "title": "India: Cyclone Murasu Wreaks Havoc After Landfall",
-    "source": "Tempo.co English",
-    "place": "Worldwide",
-    "time": "5 min ago",
-    "published": "2026-11-03T10:42:07.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVzZFWExCTVoyNTlhcFpGemNSMGRhcFpkWmduTklKb1RLUllHYzB4ZDRXMnhEUWFzbDhIeGE0T1h4MjFUNFRBU2FELVpzamxCSkJEam4zd2RNXzB4bkxVRzVPRGdlTlljckF4ZVFHbVVOSGNCbDg4YlYxZUd1Rmo2T3lVOGtzcFph?oc=5"
+    "cat": "film",
+    "title": "The 6 Most Amazing Books of the 2020s, Ranked",
+    "source": "Collider",
+    "place": "Film industry",
+    "time": "1 min ago",
+    "published": "2026-11-03T11:41:12.000Z",
+    "link": "https://collider.com/most-amazing-books-2020s-ranked/"
   },
   {
     "cat": "artist",
-    "title": "Courteeners announce summer 2027 UK tour dates with The Coral and more",
+    "title": "The Courteeners confirm open air concerts for 2027",
+    "source": "Live4ever Media",
+    "place": "Fontaines D.C.",
+    "time": "2 min ago",
+    "published": "2026-11-03T11:39:54.000Z",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8ycHAzUmo3S3BsNDgwYnZhcFBTVy1hNG1FSEN2bVM2dWdHSVZoQWpMNGZzMUt1WW1QbG5JVHUyMFJULW5aMHhZNEJPWm5XNjZadVRuM3FaN1QwbWFJUW02V1I4UVVjcFJ6aGxnRnBIdG15Tm8w?oc=5"
+  },
+  {
+    "cat": "weather",
+    "title": "Gov. DeSantis declares emergency in 7 counties across Florida as flooding threatens Election Day polling sites",
+    "source": "CBS News",
+    "place": "Worldwide",
+    "time": "18 min ago",
+    "published": "2026-11-03T11:24:25.000Z",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1ZRR09NZWVsRUlack5BYVJtT3dUdGdHVHotQWNSM0JNZHdLLXROQzhfUDh4dDJ0MHpJTmFCV201c0swWkR0ZXRaN19Ib3RoTzBzZWlLcGNJUlFWZFBkVFE5NlhHVHd5S2E5RmtQOWtCZ0FOd20zNllnbHM0RkE5VnQwQXlva2hzbVUyQVQ1Z2ZUZHBka1VZQUZQcHJXMEtjb0JMak5KdE9BbnZ4VFNveVZvUk55QQ?oc=5"
+  },
+  {
+    "cat": "actor",
+    "title": "‘The Celebrity Traitors’ Star James Acaster Rejects Report He Complained About Competitors: ‘Completely Fabricated’",
+    "source": "Variety",
+    "place": "Film industry",
+    "time": "20 min ago",
+    "published": "2026-11-03T11:21:40.000Z",
+    "link": "https://variety.com/2026/tv/global/celebrity-traitors-james-acaster-slams-report-complained-on-set-1236938273/"
+  },
+  {
+    "cat": "festival",
+    "title": "Kyary Pamyu Pamyu, Otoboke Beaver, Hitsujibungaku announced for first ever European ‘Matsuri’ music festival in London",
     "source": "NME",
     "place": "Music",
-    "time": "14 min ago",
-    "published": "2026-11-03T10:33:06.000Z",
-    "link": "https://www.nme.com/news/music/courteeners-announce-summer-2027-uk-tour-dates-with-the-coral-and-more-3974876?utm_source=rss&utm_medium=rss&utm_campaign=courteeners-announce-summer-2027-uk-tour-dates-with-the-coral-and-more"
+    "time": "24 min ago",
+    "published": "2026-11-03T11:18:34.000Z",
+    "link": "https://www.nme.com/news/music/kyary-pamyu-pamyu-otoboke-beaver-hitsujibungaku-announced-for-first-ever-european-matsuri-music-festival-in-london-3974885?utm_source=rss&utm_medium=rss&utm_campaign=kyary-pamyu-pamyu-otoboke-beaver-hitsujibungaku-announced-for-first-ever-european-matsuri-music-festival-in-london"
   },
   {
     "cat": "film",
-    "title": "'Resident Evil' Officially Comes Home After Making $400 Million Globally",
+    "title": "Peter Capaldi Warns the BBC About ‘Doctor Who’: “They Don’t Really Understand It”",
     "source": "Collider",
     "place": "Film industry",
-    "time": "17 min ago",
-    "published": "2026-11-03T10:30:12.000Z",
-    "link": "https://collider.com/resident-evil-digital-release-zach-cregger/"
+    "time": "12 min ago",
+    "published": "2026-11-03T11:30:12.000Z",
+    "link": "https://collider.com/doctor-who-future-peter-capaldi-bbc-comments/"
+  },
+  {
+    "cat": "artist",
+    "title": "Juan Atkins built a cybernetic future for music – but invested it with humanity",
+    "source": "The Guardian",
+    "place": "Music",
+    "time": "36 min ago",
+    "published": "2026-11-03T11:06:27.000Z",
+    "link": "https://www.theguardian.com/music/2026/nov/03/juan-atkins-cybernetic-future-detroit-techno"
+  },
+  {
+    "cat": "weather",
+    "title": "Cyclone Murasu: India Prepares to Evacuate 30,000 People as Second Storm Hits Andhra Pradesh in a Week",
+    "source": "theopenpress.in",
+    "place": "Worldwide",
+    "time": "19 min ago",
+    "published": "2026-11-03T11:23:06.000Z",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSFZZUEJ3V1RudlQwTXJuQkN6TFVOdS1ZVHNXbXFUYVk5UWJwWFFqSnZNLURQUkhHaXpLNVhPNzVhZmxaQkJFZHg2VEpSZDZscU5JS3ZlRUxCN21KN1FjVkZZcWp2TThENXhVclZGalowTzJDTnQyb2tjdlhWRzVENWpBeFFTMTVUNThXSEJ1RQ?oc=5"
+  },
+  {
+    "cat": "actor",
+    "title": "‘Alice in Borderland’ Star Isomura Hayato on the Role He Was Warned Off, Judging Tokyo’s Ethical Film Award and Why Japanese Cinema Needs Government Backing",
+    "source": "Variety",
+    "place": "Film industry",
+    "time": "55 min ago",
+    "published": "2026-11-03T10:47:29.000Z",
+    "link": "https://variety.com/2026/film/festivals/alice-in-borderland-star-isomura-hayato-role-warned-off-1236938269/"
   },
   {
     "cat": "festival",
     "title": "Huge rock legends ‘are surprise Glastonbury headliners’ say fans after they announce tour with gap for festival",
     "source": "The Sun",
     "place": "Glastonbury",
-    "time": "55 min ago",
+    "time": "2 hr ago",
     "published": "2026-11-03T09:52:00.000Z",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEl6cEF5OFpiQUVOU2htMExUcHZXdW5VT0hXY28xQXJUU09SaXJ0OHM3OWk4VjUweW16Rks3SHpPYnFOYmpUODFPTF9kWnBtelZVU1FfTTJXYzRUcU9QOVY5VEVjNE9kcjMxeExhQ0t4aWU5YVJKNGRGaFFSekZnOWxuTkg4ajZWYkZJZDRIYWR3R24tSGRJ?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "The 15 Best Horror Fantasy Movies, Ranked",
+    "source": "Collider",
+    "place": "Film industry",
+    "time": "15 min ago",
+    "published": "2026-11-03T11:27:12.000Z",
+    "link": "https://collider.com/horror-fantasy-movies-best-ranked/"
+  },
+  {
+    "cat": "artist",
+    "title": "Courteeners announce summer 2027 UK tour dates with The Coral and more",
+    "source": "NME",
+    "place": "Music",
+    "time": "1 hr ago",
+    "published": "2026-11-03T10:33:06.000Z",
+    "link": "https://www.nme.com/news/music/courteeners-announce-summer-2027-uk-tour-dates-with-the-coral-and-more-3974876?utm_source=rss&utm_medium=rss&utm_campaign=courteeners-announce-summer-2027-uk-tour-dates-with-the-coral-and-more"
+  },
+  {
+    "cat": "weather",
+    "title": "Governor DeSantis declares a state of Emergency for flooding",
+    "source": "wtsp.com",
+    "place": "Worldwide",
+    "time": "26 min ago",
+    "published": "2026-11-03T11:16:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQTmhidEVnbVVrR2FKeG9WSWNnTGhTakN5MV9ZSklDMjlPYzVBa1dFb2o3Y0V6R3V0T01jZ05IQzRHZlprbzdabGM5a2pwcGk1VkdadXpheDlKVk1SbGhZYXY3bEx5TjE5SmhyalpWZFhrZFdvaGtpRi1lU3RMbjFtdVd6R3F0LTVKQ2FuQzR5ZVhZVWctLVoyU2FhcGx3dEVfdGZfRlVMZ0ZuMS1VQTB3Sk5KLW9mN3JQeUlybVdYTk0zc0ZXMDZQdGp1OThCN0FOS3Jua1psS0s?oc=5"
   },
   {
     "cat": "actor",
@@ -45,148 +126,112 @@
     "link": "https://deadline.com/2026/11/the-celebrity-traitors-james-acaster-trashes-complaint-1237212001/"
   },
   {
-    "cat": "weather",
-    "title": "Green flood alert in Spain",
-    "source": "GDACS",
-    "place": "Spain",
-    "time": "28 min ago",
-    "published": "2026-11-03T10:19:19.000Z",
-    "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104268"
+    "cat": "festival",
+    "title": "Olivia Rodrigo to release first-ever Christmas single",
+    "source": "Beat102103.com",
+    "place": "Glastonbury",
+    "time": "3 hr ago",
+    "published": "2026-11-03T09:00:39.000Z",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2FKQzh1VGRUd3puMkRJV0Q2Z0FBZHpQaUpyZEc5bmlHMlpBTXhTeUZQeHZNVjNpVncxWEc3amdMSVBjYnZZalZybEx1REs4dlZmcnBHNFpMYURtaU5sUVQtblZSWm9WOXhuTE1DRzBhcXdzWWNmWEpiVDZtaW4wZXNRNmxmWWNFdE16MHhaMlBHY3VnOEVtc2VTU2lTMUp1SENYUQ?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "The 10 Worst Sci-Fi Movies in Film History",
+    "source": "Collider",
+    "place": "Film industry",
+    "time": "19 min ago",
+    "published": "2026-11-03T11:23:12.000Z",
+    "link": "https://collider.com/worst-sci-fi-movies-film-history/"
   },
   {
     "cat": "artist",
     "title": "Sam Fender soundtracks 2026 John Lewis Christmas advert with cover of The Rolling Stones’ ‘You Can’t Always Get What You Want’",
     "source": "NME",
     "place": "Music",
-    "time": "39 min ago",
+    "time": "2 hr ago",
     "published": "2026-11-03T10:07:43.000Z",
     "link": "https://www.nme.com/news/music/sam-fender-soundtracks-2026-john-lewis-christmas-advert-with-cover-of-the-rolling-stones-you-cant-always-get-what-you-want-3974871?utm_source=rss&utm_medium=rss&utm_campaign=sam-fender-soundtracks-2026-john-lewis-christmas-advert-with-cover-of-the-rolling-stones-you-cant-always-get-what-you-want"
   },
   {
-    "cat": "film",
-    "title": "Rashmika Mandanna ‘O Mysaa Re’ OUT: Fierce Avatar Sets Internet Buzzing",
-    "source": "Bollywood Mascot",
-    "place": "Avatar",
-    "time": "19 min ago",
-    "published": "2026-11-03T10:28:14.000Z",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT2NfbE9DYk1rd2oyaDZYSTdDV211aWxvZXhwNDdySlRsTTVBQTRtV0t2VHhrb184WFljM0FEcU41U1N2TEVIUmJVbUtMTDRfX2M5VjM2Q0RWcjRYU3hNaW9lT1F6UzV2U2tBUHhaQlRZdlJnMnVCOE9raWI5NEtnc1pzNVRya19XLXVjX0pxUGVlekxEcWlOV2RhZUJXcUVmcFVWLW01dTV3UkR4MFg2YTlB?oc=5"
-  },
-  {
-    "cat": "festival",
-    "title": "Glastonbury 2027 favourite covers iconic Rolling Stones song for John Lewis Christmas advert",
-    "source": "Metro.co.uk",
-    "place": "Glastonbury",
-    "time": "5 hr ago",
-    "published": "2026-11-03T06:00:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSHFIX1lzSm5jWXB1ak12R3Ezc2FncHVvVzBkVnJOVW0xbmJsbFlRcFlQcl8xdkVhUGhDVk13Ym8wemdySHZPRHp2NEN6NjVsbjV0Unl6ZEpIRGFwQ0pRVFFGVVprVzk2bXp1clZ1NU5Dd3VsRGZvWS1ZREthTFRGSW5CRGpidTdRMTVEelNReDVQOWZROGdUWWRCWVZsQmVLdUh2cHBOendUbXY5WmNfb0V6b1hyS1BSSFFlT3JTci1Xa0ZHVzNVa9IBzgFBVV95cUxPQmNJV2swZFFLQTkyR0xwbzAxcWhNdjdURWt5SldRR2JCN29JWkFMUC14bVVNX3cwUE9BQ1p2bHIyMHBxY19yZzB4SzNFTG8xSTRCaEczaHROakh3UjFlS0psVTAzVTRRWTFHeU42aEtOUmZTSHJvS0d3dHBscUpmY3dxb2RzbzFoQ1FFYUFYVncybXpiWndfNFFycWo5LTQ2Vk9qTUFWZW5ubXd4YTI3TFlqaW5MZHhXU2ZFcl8xV3pHaE84Uko4MWZ2bG1jUQ?oc=5"
+    "cat": "weather",
+    "title": "India: Cyclone Murasu Wreaks Havoc After Landfall",
+    "source": "Tempo.co English",
+    "place": "Worldwide",
+    "time": "1 hr ago",
+    "published": "2026-11-03T10:42:07.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVzZFWExCTVoyNTlhcFpGemNSMGRhcFpkWmduTklKb1RLUllHYzB4ZDRXMnhEUWFzbDhIeGE0T1h4MjFUNFRBU2FELVpzamxCSkJEam4zd2RNXzB4bkxVRzVPRGdlTlljckF4ZVFHbVVOSGNCbDg4YlYxZUd1Rmo2T3lVOGtzcFph?oc=5"
   },
   {
     "cat": "actor",
     "title": "Cillian Murphy's Overlooked 2024 Drama With A 94% Rotten Tomatoes Score Is A Must-Watch",
     "source": "SlashFilm",
     "place": "Cillian Murphy",
-    "time": "2 hr ago",
+    "time": "3 hr ago",
     "published": "2026-11-03T09:10:00.000Z",
     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSW14bDZuT2N2YUNuSUdwLTRnenZiS1BGQUxSSEVJS3Z2Y0l3bUNYYy1SODlHd21IM2trVDBjbC1RRHRMV2xzQlBQSXUyU2ppNmZYNGpYaWIxRFVyN1JYbGRmc01tbVZGNERkd0xxelNTZlVmd09fY1czVi1Odk5rNU1jVzVjNE9yV19yZjJxMW51c1VL?oc=5"
   },
   {
-    "cat": "weather",
-    "title": "Green flood alert in Bulgaria",
-    "source": "GDACS",
-    "place": "Bulgaria",
-    "time": "28 min ago",
-    "published": "2026-11-03T10:19:06.000Z",
-    "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104267"
+    "cat": "festival",
+    "title": "Sam Fender leads Rolling Stones cover for John Lewis Christmas campaign",
+    "source": "streamlinefeed.co.ke",
+    "place": "Glastonbury",
+    "time": "4 hr ago",
+    "published": "2026-11-03T07:38:29.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdHI2VWQxcHNROHBUWW1GWmJ1Yks0ejZkWHp2WndJa056aHV6c3hXRE9MVFYzU3BLeWZoT0RGX1NZODRJME9UbUh0TGJzdkV5RlYwOWtCZHpseGJRRERFR3FuakFHeW9wUk5fNnktd2RKSmJmS05IamVHYWxMU0praG5MTk5laVJWVDJvMkF4SzBIZXhfMWNfcWkxYTZ5VVZ0QTBCNW9DeTI?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "Before Apple TV’s ‘Neuromancer,’ One William Gibson Story Is the Perfect Starting Point",
+    "source": "Collider",
+    "place": "Film industry",
+    "time": "36 min ago",
+    "published": "2026-11-03T11:06:12.000Z",
+    "link": "https://collider.com/apple-tv-neuromancer-william-gibson-burning-chrome/"
   },
   {
     "cat": "artist",
     "title": "In 1995, Radiohead turned a songwriting competition into a classic. Now, it has been streamed over 324,000,000 times",
     "source": "Far Out Magazine",
     "place": "Radiohead",
-    "time": "40 min ago",
+    "time": "2 hr ago",
     "published": "2026-11-03T10:06:58.000Z",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMklpZV9BS0Y1WGhaVVRHLUFEdDRvSzJuazZQbVFvTFhjQkp1dDl2R3ZLbHJVNHVpWDQ1dlhVNDNYbXU1eDlJOWU0TGdmRnVpTHJ6WHh5WlhRbGtTTThWeHpjeklYMzRoYzMxSEVxNktpRHpjZHJ1WVBxYnV4SkthNHZQUVpUTE44aEMtOU5aaW9XcTlmQVBlOXdNQnFKVUQtajF5cy1RN1pINUJPRC1uaHZheGFNa0dyTzhnVg?oc=5"
   },
   {
-    "cat": "film",
-    "title": "Kevin Costner's 'The Mummy' Replacement Is Officially Back on Streaming",
-    "source": "Collider",
-    "place": "Film industry",
-    "time": "37 min ago",
-    "published": "2026-11-03T10:10:12.000Z",
-    "link": "https://collider.com/kevin-costner-robin-hood-prince-of-thieves-the-mummy-streaming-november-2026/"
-  },
-  {
-    "cat": "festival",
-    "title": "Glastonbury Festival - Page 68",
-    "source": "Daily Mirror",
-    "place": "Glastonbury",
-    "time": "10 hr ago",
-    "published": "2026-11-03T00:23:33.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2X3hkOGlkQXVXZnlNQmJkbGlCV0RoYnd2Nm5fRkhHX1VqWlJ5NWQwQnNEOWQxQXVTTXZQR2FzaUhqOWozZlJKX2dwbDNUeVdBcElocm9ma2IzTGdHM2JYWnJKdy1wd0dKeHFoTzRIdnRfSURVYTBqV3Jn?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "Last Three Star Wars Movies - Star Wars Next 3 Movies Get Reassuring Release Updates From Disney",
-    "source": "www.auroradesio.it",
-    "place": "Star Wars",
-    "time": "3 hr ago",
-    "published": "2026-11-03T07:43:55.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51dTJMaG9iQzdiX1pRc2VhLUNoU0hmSUxPMEJSLVNuMkxjX1dsNDJDbmMybE5tVEZoZmg3X2p1bXQ4bjdZSURNVzVHcjFHcHM2Yk5V?oc=5"
-  },
-  {
     "cat": "weather",
-    "title": "Cyclone Murasu 2026, Tracker, Affected Areas, Warnings, Latest Updates",
-    "source": "Vajiram & Ravi",
-    "place": "Worldwide",
-    "time": "34 min ago",
-    "published": "2026-11-03T10:13:19.000Z",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyVlVWNk5PLVhZaFJLY3lFaVBNNzZmdGtRcFRsQUx1R2JVMTU5ck53UVZCeHhhYU5WckNvSnpfMGRxVHhYMEtzT05ZQ0FpNTNhaDFGREJJMy0wenJ3UkRIeDgwM1ltRm5WOGpSX3BHYms?oc=5"
-  },
-  {
-    "cat": "artist",
-    "title": "Do Nothing’s new album is Chris Bailey’s ultimate act of service: “A song will tell you what it wants to be, and it’s not your place to get in the way of that”",
-    "source": "NME",
-    "place": "Music",
-    "time": "2 hr ago",
-    "published": "2026-11-03T09:00:23.000Z",
-    "link": "https://www.nme.com/features/music-interviews/do-nothing-friend-world-interview-3974859?utm_source=rss&utm_medium=rss&utm_campaign=do-nothing-friend-world-interview"
-  },
-  {
-    "cat": "film",
-    "title": "Quentin Tarantino's Next Movie Officially Removed From 43% of Theaters",
-    "source": "Collider",
-    "place": "Film industry",
-    "time": "47 min ago",
-    "published": "2026-11-03T10:00:12.000Z",
-    "link": "https://collider.com/cliff-booth-netflix-imax-regal-cinemark-theater-release/"
-  },
-  {
-    "cat": "festival",
-    "title": "Primavera Sound 2027: line-up by day and day tickets",
-    "source": "modofestival.es",
-    "place": "Primavera Sound",
-    "time": "16 hr ago",
-    "published": "2026-11-02T18:30:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUwySnNpQTBBSGJOZE9JMkVjaUxmUnVCQl9qMmtDTGxXNG10Qk1XOXZZNnlzamluSEQ0MjhQMjQxUzQ5NkgtVWptQUtmc1UzdHRwQVVyVzNtd3NOMVpMVFlsV21oeVg2MVEzbkRPNlNnRnc1S2hpc2VUMTZ2YjctbmtQSnRkUEg5NENKckdtbWVSNEROVmNSRVlMSGtsMHJBMjktOWVTRXdPdnIt?oc=5"
+    "title": "Green flood alert in Spain",
+    "source": "GDACS",
+    "place": "Spain",
+    "time": "1 hr ago",
+    "published": "2026-11-03T10:19:19.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104268"
   },
   {
     "cat": "actor",
-    "title": "Medha Rana Joins Ahan Shetty in 'Sanki' as Filming Begins in Bhopal",
-    "source": "Lokmat Times",
-    "place": "Film industry",
+    "title": "Avengers: Doomsday new posters tease year's biggest cinematic showdown",
+    "source": "Cinema Express",
+    "place": "Florence Pugh",
     "time": "4 hr ago",
-    "published": "2026-11-03T07:07:12.000Z",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNeV9aU29pUWtOdG02RTRDUUFyNUl0S3l3bk9JYlBmUlNPR3lSM1BnR0N3TmdPOHVRM3ZPRmdlV2RCT2RIM3J0VzU3TThHQjgyNFdsM00xclAwRTBHbzd2NFhwRVBXNXZIU1hJYXRzS3RwR1JUcktQcXRGMmhtMlZuMGtVLVNyY2tUM0d5alZoaE1mRHBKTDZJYnBiS2wwSWVTQU92U3UxRGY2eF9qV0Fmd0g5OGFXWW9WVWVtMm1n0gG-AUFVX3lxTE15X1pTb2lRa050bTZFNENRQXI1SXRLeXduT0liUGZSU09HeVIzUGdHQ3dOZ084dVEzdk9GZ2VXZEJPZEgzcnRXNTdNOEdCODI0V2wzTTFyUDBFMEdvN3Y0WHBFUFc1dkhTWElhdHNLdHBHUlRyS1BxdEYyaG0yVm4wa1UtU3Jja1QzR3lqVmhoTWZEcEpMNklicGJLbDBJZVNBT3ZTdTFEZjZ4X2pXQWZ3SDk4YVdZb1ZVZW0ybWc?oc=5"
+    "published": "2026-11-03T07:48:45.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORWJIcWcwNTludUlqRkFyLUtmQ1ZnbWxuMTc2V0lTQnVQVDd4S3dndkt2Z2JHbnZVcnh0bEhJZGR4a1dmY0thd2lYX1VHcWczUkJKNG1udVpnbnZnaUs4VWh3VWNZUlRFM0s4ZkJScDNNWnRUNURBMXN5Z3Y5VFF1UjhRN1MzSWF1V3ByV2dHWFMtclRBTktIZUlSNmRnWktLMzVKeEZtdmtGS0NGUXR1WDJNZFR3STVNbWtHQWU0VkPSAc4BQVVfeXFMTWlxcnlZakdHMlMyeVY5Z1RtSF8zNUNuYmdremtXT3E1WVJSVlZLWWhEaHdadGVYaW85eDNWMkFNMVVjOE1HRVNQYUN4R19pQ3J4R3FiYnZ0Rk5USzZCUUljZGo3ekNFekZvSlpOYzVtdjE4ajdtNnNSWmdsWmZDc0IyS0hwc0FOenI2NVBJMU1XbjZTcW1odU9FcVU3SWliV2NFRkEzSHdBdWcyQ3B0ZW5tNUJHbzRDMkdhbWNiNlNxMmFsY2ZRZ1hxTjFXY2c?oc=5"
   },
   {
-    "cat": "weather",
-    "title": "Utah issues emergency elections order after flooding",
-    "source": "NBC News",
-    "place": "Worldwide",
-    "time": "58 min ago",
-    "published": "2026-11-03T09:49:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd0xWemdFU1BsNmtfYXlTRXFYVDJyelA2Y3BvOHF6SmxmVG8wLTJVeU1uRTVlTnVWSkUzeTJPbzJNbUs5eFNxZDFITkZCWWQ5WVhhaFZZYWFGcEpYb1B2bFp3TW54T3lFMXVfM01xTEljNnFOaEpyUWttMXVMbDZiTUE5NklUTmFLOWNEWjJGWXNKajEya0NNbGdlUQ?oc=5"
+    "cat": "festival",
+    "title": "Glastonbury 2027 favourite covers iconic Rolling Stones song for John Lewis Christmas advert",
+    "source": "Metro.co.uk",
+    "place": "Glastonbury",
+    "time": "6 hr ago",
+    "published": "2026-11-03T06:00:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSHFIX1lzSm5jWXB1ak12R3Ezc2FncHVvVzBkVnJOVW0xbmJsbFlRcFlQcl8xdkVhUGhDVk13Ym8wemdySHZPRHp2NEN6NjVsbjV0Unl6ZEpIRGFwQ0pRVFFGVVprVzk2bXp1clZ1NU5Dd3VsRGZvWS1ZREthTFRGSW5CRGpidTdRMTVEelNReDVQOWZROGdUWWRCWVZsQmVLdUh2cHBOendUbXY5WmNfb0V6b1hyS1BSSFFlT3JTci1Xa0ZHVzNVa9IBzgFBVV95cUxPQmNJV2swZFFLQTkyR0xwbzAxcWhNdjdURWt5SldRR2JCN29JWkFMUC14bVVNX3cwUE9BQ1p2bHIyMHBxY19yZzB4SzNFTG8xSTRCaEczaHROakh3UjFlS0psVTAzVTRRWTFHeU42aEtOUmZTSHJvS0d3dHBscUpmY3dxb2RzbzFoQ1FFYUFYVncybXpiWndfNFFycWo5LTQ2Vk9qTUFWZW5ubXd4YTI3TFlqaW5MZHhXU2ZFcl8xV3pHaE84Uko4MWZ2bG1jUQ?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "Filming Begins on Netflix’s Spanish Disaster Movie ‘Chapapote’",
+    "source": "What's on Netflix",
+    "place": "Film industry",
+    "time": "36 min ago",
+    "published": "2026-11-03T11:05:38.000Z",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZnB6MWZFYThHN0I3QU9pQ2pKQkEzZEpMMzdaaXdOX0VndzdtZnpEYVZqbzkwSk9DTldscV9DM1VJbk9wY09XNWRJVkNNb1NxVWVlTHR2T0xZRktQTC0ya2lfU1FHOElyQ3BQR1dwcWtNd0xLUnNzek5yMmlRNU1SeEIxN21HZzZKdnk5WXRUT2JMeDhuQjZ4ZXRn?oc=5"
   },
   {
     "cat": "artist",
@@ -194,224 +239,269 @@
     "source": "BBC",
     "place": "Fontaines D.C.",
     "time": "2 hr ago",
-    "published": "2026-11-03T08:30:00.000Z",
+    "published": "2026-11-03T09:46:43.000Z",
     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOc3Y3OGhzblRmd1Vhc0xkdmhtS2lJUGhWcWdPa05scmVBZkRXSWxlTnFDUy1hSlFUSXlBc1lXcHViTFdnQ3NiTVNsUFcyOHdyY0Y5OUFhUEJzQWk3bXN4V1FWQjBLek5mSlh6WlkxWnIyRERHVVIwcDZkLWdHZzRoUlN5aw?oc=5"
   },
   {
-    "cat": "film",
-    "title": "Bosses At ‘Clangold’ Producer Beetz Brothers Hail Skydance For Backing Casey Bloys: “A Strong Sign The HBO Line Will Continue”",
-    "source": "Deadline",
-    "place": "Film industry",
-    "time": "47 min ago",
-    "published": "2026-11-03T10:00:00.000Z",
-    "link": "https://deadline.com/2026/11/beetz-brothers-clangold-launch-hbo-max-casey-bloys-1237211145/"
+    "cat": "weather",
+    "title": "Green flood alert in Bulgaria",
+    "source": "GDACS",
+    "place": "Bulgaria",
+    "time": "1 hr ago",
+    "published": "2026-11-03T10:19:06.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=FL&eventid=1104267"
+  },
+  {
+    "cat": "actor",
+    "title": "Last Three Star Wars Movies - Star Wars Next 3 Movies Get Reassuring Release Updates From Disney",
+    "source": "www.auroradesio.it",
+    "place": "Star Wars",
+    "time": "4 hr ago",
+    "published": "2026-11-03T07:43:55.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE51dTJMaG9iQzdiX1pRc2VhLUNoU0hmSUxPMEJSLVNuMkxjX1dsNDJDbmMybE5tVEZoZmg3X2p1bXQ4bjdZSURNVzVHcjFHcHM2Yk5V?oc=5"
   },
   {
     "cat": "festival",
-    "title": "Primavera Sound Announces 2026 Buenos Aires and São Paulo Lineups",
-    "source": "TicketNews",
-    "place": "Primavera Sound",
-    "time": "17 hr ago",
-    "published": "2026-11-02T17:24:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOHJYbVkzVHRjS1ExS0NnQVV1Um1FajVLckREQjRzbXhxVWotLXhURG1WTTNIYXFxVUFkcDhPNEVOZnB6emVrNHVCZzhsOGltQ2NLWmxTTjBoUWVwWE9iUWs0OG90b3NxYkxEX2hubW9uQWkxOHJ5dVUtQjJwSDJqZjZBN20yR0MxQWVaSlF5Skt0WEg1blUtV29oWFZUTlhTMFl3?oc=5"
+    "title": "Somerset village's much-loved library is saved from closure",
+    "source": "Somerset Live",
+    "place": "Glastonbury",
+    "time": "6 hr ago",
+    "published": "2026-11-03T06:00:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVGU4bzNrT2Z1ckJONmZfN05Ub0t4WU5MZjcwNFlWNUFmVllrVzUtdzhmS0hwY003T3hJejVQNWJKSmxiWVFMeWloWUpnM1JuRUpCMG5QOWdhd3dPbGFWM3VVYjFjNGoxZm94aS01blFfZjhvVU12WHg2cEE2X1d4c3I5b09ZTWRtM3I5Q0I4N2kxMkRwNFliWXBnMlFkeHot0gGgAUFVX3lxTFBUZThvM2tPZnVyQk42Zl83TlRvS3hZTkxmNzA0WVY1QWZWWWtXNS13OGZLSHBjTTdPeEl6NVA1YkpKbGJZUUx5aWhZSmczUm5FSkIwblA5Z2F3d09sYVYzdVViMWM0ajFmb3hpLTVuUV9mOG9VTXZYeDZwQTZfV3hzcjlvT1lNZG0zcjlDQjg3aTEyRHA0WWJZcGcyUWR4ei0?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "'The Royals': Ishaan Khatter starrer begins filming for Season 2",
+    "source": "NewsBytes",
+    "place": "Film industry",
+    "time": "39 min ago",
+    "published": "2026-11-03T11:02:45.000Z",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMndYYmxaWXh1T1ItVm53a2haOXFRLTg3V1JlaDBrandQQ0pZUlJZWkMzN1VGeUNISmdsSm85Vm5PNHBxckFrZDROWlB4NV84LWFOZ3g5bVRhOEp3N1BOSWMwbTRNVmM5X04zMXpxRVBZY1BrT3dUUENuRW1rMUptcC10dHdWTFpqZ2xVQTI1dFlFSlB1MnRN?oc=5"
+  },
+  {
+    "cat": "artist",
+    "title": "Do Nothing’s new album is Chris Bailey’s ultimate act of service: “A song will tell you what it wants to be, and it’s not your place to get in the way of that”",
+    "source": "NME",
+    "place": "Music",
+    "time": "3 hr ago",
+    "published": "2026-11-03T09:00:23.000Z",
+    "link": "https://www.nme.com/features/music-interviews/do-nothing-friend-world-interview-3974859?utm_source=rss&utm_medium=rss&utm_campaign=do-nothing-friend-world-interview"
+  },
+  {
+    "cat": "weather",
+    "title": "Cyclone Murasu 2026, Tracker, Affected Areas, Warnings, Latest Updates",
+    "source": "Vajiram & Ravi",
+    "place": "Worldwide",
+    "time": "1 hr ago",
+    "published": "2026-11-03T10:13:19.000Z",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyVlVWNk5PLVhZaFJLY3lFaVBNNzZmdGtRcFRsQUx1R2JVMTU5ck53UVZCeHhhYU5WckNvSnpfMGRxVHhYMEtzT05ZQ0FpNTNhaDFGREJJMy0wenJ3UkRIeDgwM1ltRm5WOGpSX3BHYms?oc=5"
   },
   {
     "cat": "actor",
     "title": "Watch: Avengers Doomsday's Robert Downey Jr and Pedro Pascal swap their Doctor Doom and Reed Richards costumes",
     "source": "Mid-Day",
     "place": "Pedro Pascal",
-    "time": "4 hr ago",
+    "time": "5 hr ago",
     "published": "2026-11-03T06:43:00.000Z",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbGpXN3FWSHNjdm53aThRVFRiclFGTHZPS0FNQ3M1YzBnbVU3Tkx6c0ZBNUMyMkJuUnBoU2ZZOEFseVVTVmZxZndwc1pmcDlEb2FTWWNsSkNrMzZ4U0NIa0NSN2lqeGUxWTBvSkd2ZkxZYzRXQUExb01sRHFnSXA1RVVIQlIzUHJUa2xHSndrQmZ5Mi1URnlicklPS3lMMndKMHpTRUU0RXBUaDZ6NURxVU5WZjdvNkFVTVN3Y3hCZjhyYnJla0VLVllRVUs5TFJkcHNualo1TmFwZTNQY0pvR1loQWrSAeoBQVVfeXFMUG8xWUUwRWVCaklsQzdTZEtFWFlaeUlFVXNtVnZFb1VZYjJRcWN2VzROdWpvLVZ6NGt2aUtXWWZTa3BzdVJoMy1mbHJFMVdjbXhpbF9BcmZ6UWw0Y0VkWEU1UkEyZnpEbkRHbjlKOG92R3VJcWdjV0VWLVFwbUY5bWgxWXY0WmlSZF9hdGhZQXFqT0U0VEtkTndlQ3k2TFdvdmJDRzdud28tQzA2cXRub3NORVZzTU9OOUl2M1VfWUNLREJjQ2tlcWZ5cHNaZFhINXFMMmRuSURJLWxMbWlEWWhnbUNYRnRLT2NB?oc=5"
   },
   {
-    "cat": "weather",
-    "title": "Cyclone Murasu Makes Landfall in Andhra Pradesh, Winds Reac…",
-    "source": "theopenpress.in",
-    "place": "Worldwide",
-    "time": "1 hr ago",
-    "published": "2026-11-03T09:39:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5INGFJTlJFX2JFbXREdWhNSnZsVjI0QXRLbEd1ZGgwNGtYcF94TEJSLS1xUFB1Zmx3bXJjcmd5bFNSUk1nQjdtV2RmY284YnVQbUNDLWJjem9mZHhFRHQzUjBJU0dBQ0VBMjdkX091T2NjWXRxVk12MDln?oc=5"
+    "cat": "festival",
+    "title": "Award-winning jazz singer and pianist to perform at special concert",
+    "source": "The Argus",
+    "place": "Glastonbury",
+    "time": "7 hr ago",
+    "published": "2026-11-03T05:00:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUG9OV3V6QTk2TE5abkNyN0lCaWNpbVU5WmduaWZMNEMwc1JOQjFXTFJ1NDRlUzBuM2JRTVBTbU5aeFdyeVJXR2tIbHBWazR4cXJILUY5ekE2MGRYa3EtR3hiUkNjSUlkRXR4dVotTTNPQkQxbmRiby1VT0xCc1RmZC1EQ1QyRUtEWDVDQnRvRHFFRXRZSWVONTY3N3c?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "Liam Neeson’s New Action Movie Is Officially One of His Worst-Rated Movies Ever",
+    "source": "Collider",
+    "place": "Film industry",
+    "time": "42 min ago",
+    "published": "2026-11-03T11:00:12.000Z",
+    "link": "https://collider.com/liam-neeson-the-mongoose-rotten-tomatoes-is-it-good/"
   },
   {
     "cat": "artist",
     "title": "The Chicks Postpone Los Angeles Concert Hours Before Showtime Due to Illness",
     "source": "Billboard",
     "place": "Music",
-    "time": "3 hr ago",
+    "time": "4 hr ago",
     "published": "2026-11-03T07:34:45.000Z",
     "link": "https://www.billboard.com/music/country/the-chicks-postpone-los-angeles-concert-1236372722/"
   },
   {
-    "cat": "film",
-    "title": "British Independent Film Awards: ‘Elsinore’ Leads Nominations",
-    "source": "Deadline",
-    "place": "Film industry",
-    "time": "47 min ago",
-    "published": "2026-11-03T10:00:00.000Z",
-    "link": "https://deadline.com/2026/11/british-independent-film-awards-elsinore-2026-1237211788/"
-  },
-  {
-    "cat": "festival",
-    "title": "Primavera Sound Barcelona 2027 unveils its day by day schedule",
-    "source": "The Needle Drop",
-    "place": "Primavera Sound",
-    "time": "18 hr ago",
-    "published": "2026-11-02T16:58:14.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObW42VDlWTHJQajVNLVA3czNvTnBkQW9wOWtjWFlZbFVjUExBVG9ub0NMT2JFeXZQQXgwZnUwWl9LTG9CRDNjT29Kak9BNUtXVVl6VHM4UV9MODNOUGIyRFFJLTI4aFhTRDgySHktaktaOWhfOE5FLXdOMTNuTUVJRHNB?oc=5"
+    "cat": "weather",
+    "title": "Treasure Coast flooding prompts local state of emergency",
+    "source": "WPBF",
+    "place": "Worldwide",
+    "time": "2 hr ago",
+    "published": "2026-11-03T10:01:15.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb1JZR2E5dGNmVFEwaUxwNEI3V1I0NHVMTkZDZmRtYXJGZ0FBM2tSVkdrb2lZQ1ZJZExhNDY0RUF2Wks2VUluWE1iMVR5S2VQNmJNZ0ZjUWsyWnZQZk56MmVqRWR4LUp5YXZYOHQwdUZUOHNHM2dMRHptV2NLdlZIZjV2bEhEcncyYTRF?oc=5"
   },
   {
     "cat": "actor",
     "title": "Avengers: Doomsday Releases 12 New Posters Featuring Pedro Pascal's Mr. Fantastic, Chris Hemsworth's Thor, James Marsden's Cyclops, And More Superheroes Using Their Powers",
     "source": "The Direct",
     "place": "Pedro Pascal",
-    "time": "4 hr ago",
+    "time": "5 hr ago",
     "published": "2026-11-03T06:39:56.000Z",
     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeHZJVmVXOXVxMnRGVUVIb2lCWVprVHppYUNGV0FlbU9PaDF1UklTRW8wcTAxdWo3U2lkRER4VVBFQlh5U3ZzeE5zV1NxLUJjbUYwQXJUVl92UUtyUFRINkJsQXphZllpckU3YlgxNk1XZlVIVVdiLXZJZ2xOQTNtekxEbkxmeXVPRlllX0lxMkU5Smg2R1ppZVJybWloOVdSeUZHcWJSQnZRdnRpeGxsVUlKbHJiTzAxUmJTbkJ4ZGk?oc=5"
   },
   {
-    "cat": "weather",
-    "title": "Cyclone Murasu: India Prepares to Evacuate 30,000 People as Second Storm Hits Andhra Pradesh in a Week",
-    "source": "theopenpress.in",
-    "place": "Worldwide",
-    "time": "1 hr ago",
-    "published": "2026-11-03T09:35:13.000Z",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSFZZUEJ3V1RudlQwTXJuQkN6TFVOdS1ZVHNXbXFUYVk5UWJwWFFqSnZNLURQUkhHaXpLNVhPNzVhZmxaQkJFZHg2VEpSZDZscU5JS3ZlRUxCN21KN1FjVkZZcWp2TThENXhVclZGalowTzJDTnQyb2tjdlhWRzVENWpBeFFTMTVUNThXSEJ1RQ?oc=5"
+    "cat": "festival",
+    "title": "Halloween-themed lectern adds fun to lively Chard folk dance event",
+    "source": "Chard and Ilminster News",
+    "place": "Glastonbury",
+    "time": "7 hr ago",
+    "published": "2026-11-03T05:00:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbjQ4MUxhcnFjWmowRXhDQ28yMDdUQk95a2gyaWdRV1ZrOFoxcTFKamlnZHQ0VUhiVDFXd0V0ai1OdnBidmFfZzN1SHNPMDJMcGp3aW9sbk4yNEpWVmw1NGZkeDl5cjZZS1lxMk93UHFCQXRsN1FsWnNGMGFLbmdsSm9UNmhRSWl1Vjc3Uk9yYkx4eTZ3XzdCNGktanZjYW50MXp0R0tFRFNZRTR1NHplOVZUZDJ3TWhL?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "ABC News Drops New Episode of ‘The Dropout’ That Tackles ‘You Can See Everything’",
+    "source": "The Hollywood Reporter",
+    "place": "Film industry",
+    "time": "42 min ago",
+    "published": "2026-11-03T11:00:00.000Z",
+    "link": "https://www.hollywoodreporter.com/business/digital/new-episode-the-dropout-podcast-released-holmes-film-1236746484/"
   },
   {
     "cat": "artist",
     "title": "Season’s 8 Biggest Style Trends: Olivia Rodrigo, Dua Lipa, Rihanna Just Set Your Festive Wardrobe",
     "source": "MusiCulture",
     "place": "Dua Lipa",
-    "time": "4 hr ago",
+    "time": "5 hr ago",
     "published": "2026-11-03T06:23:36.000Z",
     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GYkphcHhyUnN2RHJSYldwVjIyalZtVkh1ZjJjVXNZUlA2LWZXeUd3UGh2bGNOcHZQYkduY2c5OWdYZ1NraUVTczRzYWlrZ1RLbGE3bWpXNlV3SzNjaVo1N2VmdklkalRhNGptY3FCaw?oc=5"
   },
   {
-    "cat": "film",
-    "title": "‘Elsinore,’ ‘I See Buildings Fall Like Lightning’ and ‘Animol’ Lead British Independent Film Awards Nominations",
-    "source": "Variety",
-    "place": "Film industry",
-    "time": "47 min ago",
-    "published": "2026-11-03T10:00:00.000Z",
-    "link": "https://variety.com/2026/awards/global/bifa-nominations-2026-elsinore-i-see-buildings-animol-1236937954/"
-  },
-  {
-    "cat": "festival",
-    "title": "Juan Atkins, Detroit techno pioneer, dies aged 64 in Mexico City",
-    "source": "modofestival.es",
-    "place": "Primavera Sound",
-    "time": "19 hr ago",
-    "published": "2026-11-02T15:45:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOXNYVHVXY0EtaXFVR0JCMmQ1MGhwMVFnRUR1RTJoWFpheWZJdXcyRURXQ2ljbW5aX1NoTUVlRTZQS1c1THJQdlVHSXVwOGJHdzIyM0REUWl5ckxHVWRPSHZiTmJraWZJN2t0R1FFWDVIc3FUSU1wT0FBeFJ0WHZId1FOUm5rNXBvcXh5RzMtNFc4VkFU?oc=5"
+    "cat": "weather",
+    "title": "Utah issues emergency elections order after flooding",
+    "source": "NBC News",
+    "place": "Worldwide",
+    "time": "2 hr ago",
+    "published": "2026-11-03T09:49:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd0xWemdFU1BsNmtfYXlTRXFYVDJyelA2Y3BvOHF6SmxmVG8wLTJVeU1uRTVlTnVWSkUzeTJPbzJNbUs5eFNxZDFITkZCWWQ5WVhhaFZZYWFGcEpYb1B2bFp3TW54T3lFMXVfM01xTEljNnFOaEpyUWttMXVMbDZiTUE5NklUTmFLOWNEWjJGWXNKajEya0NNbGdlUQ?oc=5"
   },
   {
     "cat": "actor",
-    "title": "‘Behemoth!’ harnesses music to confront the past in Pedro Pascal-led drama",
-    "source": "The Daily Texan",
-    "place": "Pedro Pascal",
-    "time": "6 hr ago",
-    "published": "2026-11-03T04:57:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM0FUbTY5d1dfX3FPaTBGWFJKdUNEXzJDUVFOcTExQS1RVFlGUGlKMEw0MlVlYzJZMW85SW1FYUhYSTRKTmxsdW4tcWVLOVRFSVZFWW9kVmg5eW5KYW9Ga1pGNHNCZ1lQbEpVOG1NRkxfeF9fOEpWbmpiWFhGS3JhaXlvYzVLa29YRWNVaXg2ZUQxLTFSbW5oV2xBZnptVXBCa3RUMHlGSHNSOXdSX3c?oc=5"
+    "title": "The Final Trailer for 'Dune: Part Three' Just Dropped",
+    "source": "Lifestyle Asia Hong Kong",
+    "place": "Florence Pugh",
+    "time": "7 hr ago",
+    "published": "2026-11-03T05:08:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPemNiM09BT1VGN1VwVlAwb2xVaWF6RmRVeW83SXJJWUViZXFoaDJTeW9CZXNTZko4R210ekZpalJUMVI3RVVjZ2hDRTBDb1J3WDJvM2lwTlUtNERlYUpuUHRVeVBuT0w1Tmh0SFhRS1JGaE9VUFdndGdtRlRvamh3NURLQQ?oc=5"
   },
   {
-    "cat": "weather",
-    "title": "Green forest fire notification in South Sudan",
-    "source": "GDACS",
-    "place": "South Sudan",
-    "time": "2 hr ago",
-    "published": "2026-11-03T08:33:27.000Z",
-    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033357"
+    "cat": "festival",
+    "title": "Glastonbury Festival - Page 68",
+    "source": "Daily Mirror",
+    "place": "Glastonbury",
+    "time": "11 hr ago",
+    "published": "2026-11-03T00:23:33.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB2X3hkOGlkQXVXZnlNQmJkbGlCV0RoYnd2Nm5fRkhHX1VqWlJ5NWQwQnNEOWQxQXVTTXZQR2FzaUhqOWozZlJKX2dwbDNUeVdBcElocm9ma2IzTGdHM2JYWnJKdy1wd0dKeHFoTzRIdnRfSURVYTBqV3Jn?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "Shin Min-a, Ju Ji-hoon, Lee Jong-suk and Lee Se-young Take Webtoon Juggernaut ‘The Remarried Empress’ to Disney+ and Hulu",
+    "source": "Variety",
+    "place": "Film industry",
+    "time": "45 min ago",
+    "published": "2026-11-03T10:57:11.000Z",
+    "link": "https://variety.com/2026/tv/festivals/shin-min-lee-jong-suk-remarried-empress-disney-hulu-1236908746/"
   },
   {
     "cat": "artist",
     "title": "5 Seconds of Summer Bring Out The Wiggles in Melbourne",
     "source": "Billboard",
     "place": "Music",
-    "time": "5 hr ago",
+    "time": "6 hr ago",
     "published": "2026-11-03T06:06:43.000Z",
     "link": "https://www.billboard.com/music/pop/5-seconds-of-summer-the-wiggles-melbourne-1236372717/"
   },
   {
-    "cat": "film",
-    "title": "Independent Talent to Rep Outernet London for Creative Commercial Strategy (EXCLUSIVE)",
-    "source": "Variety",
-    "place": "Film industry",
-    "time": "47 min ago",
-    "published": "2026-11-03T10:00:00.000Z",
-    "link": "https://variety.com/2026/music/global/independent-talent-outernet-london-1236938228/"
-  },
-  {
-    "cat": "festival",
-    "title": "Stagecoach Announces Dates for 2027 Festival",
-    "source": "TicketNews",
-    "place": "Coachella",
-    "time": "19 hr ago",
-    "published": "2026-11-02T15:23:53.000Z",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2hFY3FfOWVkbkhQUXBRX2tSQU8wbDYtamdHYWhSTGc3YjBxNUs4NHl6cWJEOEdONkNnYVotUkQ0NDdHeldtQV9nQm81dEhwUkFOaDFTdUUxS2xoY0dJM1ZOejZBSG9XMTNteXBHbTBtV3A1R0RRWFAyTG42V1hxeE1UUUN4akE?oc=5"
+    "cat": "weather",
+    "title": "Green forest fire notification in South Sudan",
+    "source": "GDACS",
+    "place": "South Sudan",
+    "time": "3 hr ago",
+    "published": "2026-11-03T08:33:27.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033357"
   },
   {
     "cat": "actor",
-    "title": "Apple TV's 'Unfilmable' Space Opera Series Beats Star Wars at Its Own Game",
-    "source": "Comic Book Resources",
+    "title": "‘Behemoth!’ harnesses music to confront the past in Pedro Pascal-led drama",
+    "source": "The Daily Texan",
     "place": "Pedro Pascal",
-    "time": "6 hr ago",
-    "published": "2026-11-03T04:30:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HLVlvTER2R1NJOGI1RHA5OWdZcTdyUVBwMVN3QUlnMVJidnNxNkRvcUhjQzB4YWdPLVJYdXpHS21EYUprRDY4N2Rta0dNUFdNM2tOakwyWGhnaVFJbzRiR21IZFJNLVY2UWpuYUJGNm15QnNwN2FOdw?oc=5"
+    "time": "7 hr ago",
+    "published": "2026-11-03T04:57:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM0FUbTY5d1dfX3FPaTBGWFJKdUNEXzJDUVFOcTExQS1RVFlGUGlKMEw0MlVlYzJZMW85SW1FYUhYSTRKTmxsdW4tcWVLOVRFSVZFWW9kVmg5eW5KYW9Ga1pGNHNCZ1lQbEpVOG1NRkxfeF9fOEpWbmpiWFhGS3JhaXlvYzVLa29YRWNVaXg2ZUQxLTFSbW5oV2xBZnptVXBCa3RUMHlGSHNSOXdSX3c?oc=5"
   },
   {
-    "cat": "weather",
-    "title": "Green forest fire notification in Zimbabwe",
-    "source": "GDACS",
-    "place": "Zimbabwe",
-    "time": "2 hr ago",
-    "published": "2026-11-03T08:23:21.000Z",
-    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033444"
+    "cat": "festival",
+    "title": "Glastonbury Tickets Hit Record £408, Up 51% From Pre-Pandemic Asking Price",
+    "source": "TicketNews",
+    "place": "Glastonbury",
+    "time": "14 hr ago",
+    "published": "2026-11-02T21:19:40.000Z",
+    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR3dzVHo2X2VnWFlmUFlXalNWczVRcGw4OUtUUzVRQUZZcXpibThSYjJKc1hGXzdzS2ZTSlBOWlFXNTBGc3Q3UFdydXFYaUhDQ01WYmxOelE1d0kxUzVLbjlMa0RhVmF3SUNLZ1lYWWp2UHVmQ2o3SmZkd0FZbXIybmJYQQ?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "'Resident Evil' Officially Comes Home After Making $400 Million Globally",
+    "source": "Collider",
+    "place": "Film industry",
+    "time": "1 hr ago",
+    "published": "2026-11-03T10:30:12.000Z",
+    "link": "https://collider.com/resident-evil-digital-release-zach-cregger/"
   },
   {
     "cat": "artist",
     "title": "Emilia Explores New Era with ‘Bodypainting’: ‘It Speaks More of Freedom and Sensuality’",
     "source": "Billboard",
     "place": "Music",
-    "time": "5 hr ago",
+    "time": "6 hr ago",
     "published": "2026-11-03T05:41:02.000Z",
     "link": "https://www.billboard.com/music/latin/cafecito-con-emilia-bodypainting-interview-1236372139/"
   },
   {
-    "cat": "film",
-    "title": "British Independent Film Awards: ‘Elsinore’ Leads Nominations With 12",
-    "source": "The Hollywood Reporter",
-    "place": "Film industry",
-    "time": "47 min ago",
-    "published": "2026-11-03T10:00:00.000Z",
-    "link": "https://www.hollywoodreporter.com/movies/movie-news/bifa-nominations-2026-list-elsinore-andrew-scott-1236746638/"
-  },
-  {
-    "cat": "festival",
-    "title": "Major UK festival announces beloved US singer as headliner",
-    "source": "Metro.co.uk",
-    "place": "Glastonbury",
-    "time": "20 hr ago",
-    "published": "2026-11-02T14:51:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNjRkeDFHYXpuRER3dHVTZ2JzaW5sOUxZbHg0SDUtRkhpcGFjSU5ic0R4VENvWlVlbS1qeURBZHp3U01QcE5WYUxmZHJwRUVWWjJUNnRTVTFHVFo1OXB2RU1CVnJ0Tzc2NjBpSnlIUW1lREtVUkgyd1VWRHlGSjF4TVZ0czhsWGlORnF2NDhLN1RKVzNaSllHR2JvVFfSAaIBQVVfeXFMT3RpUlVROS1lODdXMExmSXJ2QnZTaWk3bHRGbkVfUXVGdmFwNlJ1Y0otRndMTWRyc25xZVhvT2h5bkh5OEJGbzBsNlo2ZnZBOEJJUHBvLV9LMnZuYXRuc0poUXlvaEFVYzhXbFhtMy1FYnZFNTN6VUxoMzNHLTJKaUlLXzd2ajFGYXBTUUplbVdlZ3VxS0pkbjJIOVVjbF9FR2ZR?oc=5"
+    "cat": "weather",
+    "title": "Green forest fire notification in Zimbabwe",
+    "source": "GDACS",
+    "place": "Zimbabwe",
+    "time": "3 hr ago",
+    "published": "2026-11-03T08:23:21.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033444"
   },
   {
     "cat": "actor",
-    "title": "Where was Peaky Blinders: The Immortal Man filmed?",
-    "source": "The Worldwide Guide To Movie Locations",
-    "place": "Cillian Murphy",
+    "title": "‘Percy Jackson’ Season 3 Debuts New Footage at Lucca Ahead of November 20 Premiere",
+    "source": "Enstarz",
+    "place": "Florence Pugh",
     "time": "7 hr ago",
-    "published": "2026-11-03T03:55:47.000Z",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBucnBIUmxCR0VkZWZDQTd3clBoNm9aczFpR2hOenBST2U1RzZrdjFNRVRtVDhBRkhkUTZaQWRNZExlblpESWkweU9nVW9fTE82R2RpbE1KX0xTOVJfRGxZV3BHZ1ptcENraGlzM1dJOVVINjc0X3BuQ3BUb1k?oc=5"
+    "published": "2026-11-03T04:40:26.000Z",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQ2lyb0JHX0JEWE13bEwzQ2dVU0s4c3FnWkRiOFh3cjVTUFJaM19Ld1Q3S3BhWkFFQVdUZFZUd3ZJUi1HNzlCVnkxNXo2UzZYSUlpcFQ1bmpvQWJKUFRuLS1IZWdoS2xkU3NrdzY5eXhqUTlxLTl0cWJYallpVGRSWk5WbEprU1lKZ0U1T1R0M1ZRZHR1bXU1eg?oc=5"
   },
   {
-    "cat": "weather",
-    "title": "Cyclone Murasu Intensifies Over Bay of Bengal, Andhra Pradesh Braces for Landfall With Winds Up to 120 kmph",
-    "source": "theopenpress.in",
-    "place": "Worldwide",
-    "time": "2 hr ago",
-    "published": "2026-11-03T08:19:47.000Z",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQc0d0UGRoQ1NLODNjaUJiM3Q0VVk4WTRKQUtuaUc2NDRHZ0dPREh1VUxHZmw2RnduTmg1ZklSbUNKRHMxQlNCcWlObkdWYVRDYTR1QmU1cW1kd09aQy1XTk1qWVdrdmlDX1NqYXZFcXhac0ZETWZwSlBfRmJhNWp2LVlLSC1ZQ0ZnVXY1bVJxMGI1cFFwTHFuTjNn?oc=5"
+    "cat": "festival",
+    "title": "Primavera Sound 2027: line-up by day and day tickets",
+    "source": "modofestival.es",
+    "place": "Primavera Sound",
+    "time": "17 hr ago",
+    "published": "2026-11-02T18:30:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUwySnNpQTBBSGJOZE9JMkVjaUxmUnVCQl9qMmtDTGxXNG10Qk1XOXZZNnlzamluSEQ0MjhQMjQxUzQ5NkgtVWptQUtmc1UzdHRwQVVyVzNtd3NOMVpMVFlsV21oeVg2MVEzbkRPNlNnRnc1S2hpc2VUMTZ2YjctbmtQSnRkUEg5NENKckdtbWVSNEROVmNSRVlMSGtsMHJBMjktOWVTRXdPdnIt?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "Rashmika Mandanna ‘O Mysaa Re’ OUT: Fierce Avatar Sets Internet Buzzing",
+    "source": "Bollywood Mascot",
+    "place": "Avatar",
+    "time": "1 hr ago",
+    "published": "2026-11-03T10:28:14.000Z",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPT2NfbE9DYk1rd2oyaDZYSTdDV211aWxvZXhwNDdySlRsTTVBQTRtV0t2VHhrb184WFljM0FEcU41U1N2TEVIUmJVbUtMTDRfX2M5VjM2Q0RWcjRYU3hNaW9lT1F6UzV2U2tBUHhaQlRZdlJnMnVCOE9raWI5NEtnc1pzNVRya19XLXVjX0pxUGVlekxEcWlOV2RhZUJXcUVmcFVWLW01dTV3UkR4MFg2YTlB?oc=5"
   },
   {
     "cat": "artist",
@@ -423,120 +513,30 @@
     "link": "https://www.billboard.com/culture/tv-film/kelly-clarkson-the-voice-singer-whitney-houston-1236372715/"
   },
   {
-    "cat": "film",
-    "title": "The 15 Best Miniseries of the 1970s, Ranked",
-    "source": "Collider",
-    "place": "Film industry",
-    "time": "49 min ago",
-    "published": "2026-11-03T09:58:12.000Z",
-    "link": "https://collider.com/70s-miniseries-best-ranked/"
-  },
-  {
-    "cat": "festival",
-    "title": "Queens of the Stone Age to return the Europe for summer 2027 tour with Glastonbury-shaped gap",
-    "source": "Far Out Magazine",
-    "place": "Glastonbury",
-    "time": "21 hr ago",
-    "published": "2026-11-02T13:52:19.000Z",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVjFCMFQ4UDVZZHF4ZWtjUW5wa2ltaWQ0S1duSm5BcWVJby13MmpnQjVrMmRJVno0S1ZfNXEzOEM2TjZ5WVdOcHExVmZXdm5KT2ZFVDVJenNUZG5fdlkwUi1yOGgyNlNFZDJnM29SVFJiZ0dYUTk4cnF1N2dpbVhBYzg0VU1vSjdxZmtZaG12aE9WMVpxNDhJ?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "‘Jimmy’ Review: KJ Apa Expertly Channels James Stewart In An Inspiring Movie That Tells The Story The Beloved Oscar Winning Star Kept To Himself",
-    "source": "Deadline",
-    "place": "Film industry",
-    "time": "8 hr ago",
-    "published": "2026-11-03T03:03:19.000Z",
-    "link": "https://deadline.com/2026/11/jimmy-review-kj-apa-james-stewart-world-war-2-biopic-1237211897/"
-  },
-  {
     "cat": "weather",
     "title": "Green forest fire notification in Central African Republic",
     "source": "GDACS",
     "place": "Central African Republic",
-    "time": "3 hr ago",
+    "time": "4 hr ago",
     "published": "2026-11-03T08:12:25.000Z",
     "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033442"
   },
   {
-    "cat": "artist",
-    "title": "‘It brings soul into this sterile world’: the Birmingham clubbers fighting to save their patch – and Britain’s nightlife",
-    "source": "The Guardian",
-    "place": "Music",
-    "time": "6 hr ago",
-    "published": "2026-11-03T05:00:39.000Z",
-    "link": "https://www.theguardian.com/culture/2026/nov/03/birmingham-clubbers-fighting-to-save-britain-nightlife-digbeth"
-  },
-  {
-    "cat": "film",
-    "title": "Tallinn Black Nights Festival: New Artistic Director Triin Tramberg on Making Sure That at 30 It Stays ‘Bold, Unpredictable Yet Accessible’",
-    "source": "Variety",
-    "place": "Film industry",
-    "time": "59 min ago",
-    "published": "2026-11-03T09:48:23.000Z",
-    "link": "https://variety.com/2026/film/global/tallinn-black-nights-triin-tramberg-new-artistic-director-1236938233/"
-  },
-  {
-    "cat": "festival",
-    "title": "Somerset station and key Glastonbury Festival travel route set for redevelopment",
-    "source": "Somerset County Gazette",
-    "place": "Glastonbury",
-    "time": "23 hr ago",
-    "published": "2026-11-02T12:00:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNURWWXpDQVlxWUxNUlJGTVVhUkpLSFpoWTJRMkNsNl9pbDdLclpfWDNBRENkc2Y2NThXMWlsczNYREIwWUJVWEgzdmhJdFU5eVpTWmRpejRrdVBXVWx3NmZCbmtUSHlac3duOHZTN0FwTzJuMG90VVBxckN2aHRoZFEyRXNHa3dzNDhYclBBWlRUMHdqWFVDc3dPblRieWtiVE5qLUhHVE91bnRj?oc=5"
-  },
-  {
     "cat": "actor",
-    "title": "‘Dancing With The Stars’ Season 35 Recap: Team Dances Shake Up The Competition On Disney Night",
-    "source": "Deadline",
-    "place": "Film industry",
-    "time": "8 hr ago",
-    "published": "2026-11-03T02:58:36.000Z",
-    "link": "https://deadline.com/2026/11/dancing-with-the-stars-season-35-recap-disney-night-1237211461/"
-  },
-  {
-    "cat": "weather",
-    "title": "Green forest fire notification in Burkina Faso",
-    "source": "GDACS",
-    "place": "Burkina Faso",
-    "time": "3 hr ago",
-    "published": "2026-11-03T08:12:22.000Z",
-    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033407"
-  },
-  {
-    "cat": "artist",
-    "title": "‘At my age, I can rant!’ Bernie Taupin on Elton John, hellraising vampires and competing in full-blown rodeos",
-    "source": "The Guardian",
-    "place": "Music",
-    "time": "6 hr ago",
-    "published": "2026-11-03T05:00:38.000Z",
-    "link": "https://www.theguardian.com/music/2026/nov/03/bernie-taupin-interview-elton-john-rodeos-rocket-man"
-  },
-  {
-    "cat": "film",
-    "title": "‘Queen Silvia’ Team Hopes For Multiple Seasons After Royal Drama’s Cannes Premiere",
-    "source": "Deadline",
-    "place": "Film industry",
-    "time": "1 hr ago",
-    "published": "2026-11-03T09:21:50.000Z",
-    "link": "https://deadline.com/2026/11/queen-silvia-series-world-premiere-cannes-prime-video-1237209352/"
-  },
-  {
-    "cat": "festival",
-    "title": "Primavera Sound Barcelona continues to connect the dots of its 25th edition by announcing the line-up for each day",
-    "source": "Primavera Sound",
-    "place": "Primavera Sound",
-    "time": "23 hr ago",
-    "published": "2026-11-02T11:46:26.000Z",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOMmxXYW9xMUczUzVEa0dXbzhGR2RrVi1xUm1WZkliQmYwSFhLR3lGbDNuajV3OE1ZelNVR3ZJX2JiS01xSTVYSmZOTVMyR2VUZnVidm1XOUZ4ODJkN25Uc1NaTUJQaXd4TUEyRVUxdmZWWkV2TVhoRVYwcmxMLVptTVBjT0JHNEpZY1Y1MjdFQ2hkRGZDZDZja1Q2MUl0clF1dGt1MXVPZV9rdTd1bEhPVnlOWmZNeUZjbDh6NVJPem5pa0psN3FUWWlxLXh6a2s1c3V4bzQzYWI4bkZYMHlZNWw2QnpJenh4ei1n?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "Netflix’s 7-Part Hit Based on Classic Quadruples Viewership in Near-Historic Surge",
+    "title": "Apple TV's 'Unfilmable' Space Opera Series Beats Star Wars at Its Own Game",
     "source": "Comic Book Resources",
-    "place": "Florence Pugh",
-    "time": "8 hr ago",
-    "published": "2026-11-03T02:40:52.000Z",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UdVVva0RCZWl0RUpsbUUyU2dLbkhsNEhySC12dzVaSW5UQnNKbjBYVUo3WTI4V3gzb2FiaENRSjZlUVd1NzRpZEItemNON1RrdUplUG5FRkxmLXZtbndxZThtbm9MMjhFenprbGE1Xzg?oc=5"
+    "place": "Pedro Pascal",
+    "time": "7 hr ago",
+    "published": "2026-11-03T04:30:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5HLVlvTER2R1NJOGI1RHA5OWdZcTdyUVBwMVN3QUlnMVJidnNxNkRvcUhjQzB4YWdPLVJYdXpHS21EYUprRDY4N2Rta0dNUFdNM2tOakwyWGhnaVFJbzRiR21IZFJNLVY2UWpuYUJGNm15QnNwN2FOdw?oc=5"
+  },
+  {
+    "cat": "festival",
+    "title": "Primavera Sound Announces 2026 Buenos Aires and São Paulo Lineups",
+    "source": "TicketNews",
+    "place": "Primavera Sound",
+    "time": "18 hr ago",
+    "published": "2026-11-02T17:24:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOHJYbVkzVHRjS1ExS0NnQVV1Um1FajVLckREQjRzbXhxVWotLXhURG1WTTNIYXFxVUFkcDhPNEVOZnB6emVrNHVCZzhsOGltQ2NLWmxTTjBoUWVwWE9iUWs0OG90b3NxYkxEX2hubW9uQWkxOHJ5dVUtQjJwSDJqZjZBN20yR0MxQWVaSlF5Skt0WEg1blUtV29oWFZUTlhTMFl3?oc=5"
   }
 ]
