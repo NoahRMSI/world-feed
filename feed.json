@@ -1,129 +1,39 @@
 [
   {
-    "cat": "actor",
-    "title": "BAFTA Unveils 2026 Breakthrough U.K. Cohort, Including ‘The Other Bennet Sister’ Star Ella Bruccoleri",
-    "source": "Variety",
-    "place": "Film industry",
-    "time": "1 min ago",
-    "published": "2026-11-04T00:01:00.000Z",
-    "link": "https://variety.com/2026/film/news/bafta-breakthrough-2026-other-bennet-sister-ella-bruccoleri-1236938267/"
-  },
-  {
     "cat": "film",
-    "title": "BAFTA Breakthrough U.K.: Ella Bruccoleri, Sophie Stone, Izuka Hoyle Among 21 Rising Creatives",
-    "source": "The Hollywood Reporter",
-    "place": "Film industry",
-    "time": "1 min ago",
-    "published": "2026-11-04T00:01:00.000Z",
-    "link": "https://www.hollywoodreporter.com/news/general-news/2026-bafta-breakthrough-uk-ella-bruccoleri-sophie-stone-1236745982/"
-  },
-  {
-    "cat": "artist",
-    "title": "Laneway festival 2027 sideshows: the complete headline line-up",
-    "source": "RUSSH",
-    "place": "Fontaines D.C.",
-    "time": "18 min ago",
-    "published": "2026-11-03T23:44:11.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTcWZWMUZVTU1WdFRQVUNJNHZHX1R2cmFPMHNvSVlMZlNiM2lRcG0zN1RKVWxUQkxLcmI4dTdOZE1CazJZeTNQRHN4bXdFWEpQclFKa2tvNXRxeDQ1OHViRzlKMlk?oc=5"
-  },
-  {
-    "cat": "weather",
-    "title": "As potential El Niño disasters loom, few San Diegans have signed up for emergency alerts",
-    "source": "San Diego Union-Tribune",
-    "place": "Worldwide",
-    "time": "37 min ago",
-    "published": "2026-11-03T23:25:45.000Z",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVjRuTWY1RmotV3FLY2VPMUYtR2NWc25ySXFuRy1CZGlXLTZsNXRTNXVTczJzWWZKRVlVbnhPal9HRW5mQ3BJRktZdld1ZEQtV3MzVmUwbW41UEtYbHIyY20teU1Mb0NSc3BmTXhEX1JYQkNGMUZfUC1feC11cFZDUE1VY3RzSzctMDhCVWd6dHZPUmZuaDc3NTVQbDFjcnA4N2liQUpQLTJ6WTlybzNLeTl4Q2x0NmwtUXhhWkNfTUJId1FSNExNQWphS2MtcXlubXc?oc=5"
-  },
-  {
-    "cat": "festival",
-    "title": "Dolly Parton’s nephew asks for estate’s lawsuit against him to be thrown out",
-    "source": "MOViN 92.5",
-    "place": "Glastonbury",
-    "time": "6 hr ago",
-    "published": "2026-11-03T18:30:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNQURMYkpVdk1mVXNYUjc0dDEyd3FiU0N5Sm1zM3NjdVlpWENiMHNhSGVRV01UeGgwNFBjdmEwU21pbUxZNi1GYW00Q2ZsNWE0X3AzSXFWb1RnY2ZTOE9BWFJhVlVmSHJmay12MnlDMTRmNnlyWExzd1JZX21VZ0ptZ20wWVVwQ1h5UVhsMkhtMkhicXdmOHZrTF9rdUctU3cxM3c?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "BAFTA Breakthrough: ‘Ish’ Filmmaker Imran Perretta & ‘The Other Bennet Sister’ Star Ella Bruccoleri Among 2026 Cohort",
-    "source": "Deadline",
-    "place": "Film industry",
-    "time": "1 min ago",
-    "published": "2026-11-04T00:01:00.000Z",
-    "link": "https://deadline.com/2026/11/bafta-breakthrough-imran-perretta-2026-1237212332/"
-  },
-  {
-    "cat": "film",
-    "title": "The Worst Show of 2025 Officially Returns for Season 2 Tomorrow",
+    "title": "7 Greatest Netflix Miniseries That Are Worth Watching Over and Over",
     "source": "Collider",
     "place": "Film industry",
     "time": "2 min ago",
-    "published": "2026-11-04T00:00:12.000Z",
-    "link": "https://collider.com/alls-fair-season-2-release-date-disney-plus-hulu-november-2026/"
-  },
-  {
-    "cat": "artist",
-    "title": "23 Best Christmas Gifts for Teens, From TikTok-Approved Finds to Pop Culture Favorites",
-    "source": "Billboard",
-    "place": "Music",
-    "time": "22 min ago",
-    "published": "2026-11-03T23:40:42.000Z",
-    "link": "https://www.billboard.com/culture/product-recommendations/best-christmas-gifts-for-teens-2026-buy-online-viral-1236373344/"
-  },
-  {
-    "cat": "weather",
-    "title": "Catastrophic flooding in Riviera traps residents, sends cars floating",
-    "source": "The Palm Beach Post",
-    "place": "Worldwide",
-    "time": "37 min ago",
-    "published": "2026-11-03T23:25:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUndnclpDcEZCSTh6MlRDN280ZkRTSlRmdnV6SG04cnZzR3FtdldOemo0ZGVkd2hEVVRHcjY4bHRVNjBOZ1ZEVWhVM0NVbjVFaGpoRkQxb1VUMHdfbjNCcjNJU09jMmhnLTZnX0xJSFFla3pfUFBvNWZvMzlYMjZMUUpwMmoyOW9nY2N4dE8weXVuVlBqYk80WUdMQ25MLUo3Q2MxQ1IyUW11MjlVZG9EN1E0YnN5UzNNVndlQlRINV9hdzBOeGc?oc=5"
-  },
-  {
-    "cat": "festival",
-    "title": "Ditching the Flower Crown: A Review of Homecoming: A Film by Beyoncé",
-    "source": "The Tiger's Roar",
-    "place": "Coachella",
-    "time": "6 hr ago",
-    "published": "2026-11-03T18:24:32.000Z",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdmltOWZtQll2QkhMVnF0bVd5eHZhZnRiSnJ3aU9xOVNnSGI5NV9ncUhjOVJRNENRdmRoMU4wbFZZQmFCS1FORFNXdzNETnpncW9aQ2QxNDNuenEzRURVQWJNak0zejJBTVd4VVZLenVyTW1WVUo0Ql80RkV5TlgtaUpFMUIyc2lmaUtoaFh3?oc=5"
+    "published": "2026-11-04T01:11:12.000Z",
+    "link": "https://collider.com/netflix-miniseries-worth-watching-over-and-over/"
   },
   {
     "cat": "actor",
-    "title": "BAFTA unveils 2026 Breakthrough UK Cohort championing 21 emerging stars across film tv and games",
-    "source": "Film-News.co.uk",
-    "place": "Florence Pugh",
-    "time": "5 min ago",
-    "published": "2026-11-03T23:57:03.000Z",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeFE2dEtMXzFuSVJ0V0FxYUZjWmdvSTRBV19oYXkzS05kdWFySm8zMDBVUXkyOXYyNnZGZk9SY3dSWUJucnhRVmRLNF9iRENYQ0ZRSVNYaFdreTNuNVpNVHNra0FZNlBjUENlZjRhTUFPZnI0MllrNGNSd1U0NzItbXFwcUxEOVROckVjYlNYUk9IcmFMOUxfd3ZaM2ZxQktYeVFPNTNjb3RPUjVQeHk1Q29UZHM0YmxVcDNTQlNILXZlcVhQR2R1S2JGLUVPVS02QkxUckdqYVJ6RHp6RDFSekFR?oc=5"
-  },
-  {
-    "cat": "film",
-    "title": "Doc Talk Podcast: Hot Springs Documentary Film Festival’s Ken Jacobson On State Of Nonfiction Filmmaking, Competitive Oscar Race And More",
-    "source": "Deadline",
+    "title": "Lucy Liu’s ‘The Pirate Queen’ Expands With Graphic Novel, New Game and International Tour as Creator Eloise Singer Joins BAFTA Breakthrough Cohort (EXCLUSIVE)",
+    "source": "Variety",
     "place": "Film industry",
-    "time": "2 min ago",
-    "published": "2026-11-04T00:00:00.000Z",
-    "link": "https://deadline.com/2026/11/hot-springs-documentary-festival-ken-jacobson-doc-talk-1237212399/"
+    "time": "4 min ago",
+    "published": "2026-11-04T01:09:16.000Z",
+    "link": "https://variety.com/2026/gaming/news/lucy-liu-pirate-queen-graphic-novel-game-tour-1236938962/"
   },
   {
     "cat": "artist",
-    "title": "The Lettermen’s Tony Butala Dies at 87",
+    "title": "JISOO Announces ‘Sun Showers,’ New Song for ‘The Angry Birds Movie 3’",
     "source": "Billboard",
     "place": "Music",
-    "time": "49 min ago",
-    "published": "2026-11-03T23:13:35.000Z",
-    "link": "https://www.billboard.com/music/music-news/tony-butala-death-lettermen-1236373500/"
+    "time": "12 min ago",
+    "published": "2026-11-04T01:01:24.000Z",
+    "link": "https://www.billboard.com/culture/tv-film/jisoo-sun-showers-angry-birds-movie-3-song-1236373617/"
   },
   {
     "cat": "weather",
-    "title": "Florida starts November with a soaking as heavy rain brings historic flooding",
-    "source": "FOX Weather",
-    "place": "Worldwide",
-    "time": "43 min ago",
-    "published": "2026-11-03T23:19:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYll4cWFOZE9reXFnQlljZGlIYnYwZ2VJWEkyRnNlOHBvV3UxNGhDOGRkZFRxMXRsMU9LNy1YN011czFNQ1NoQ18wRUc1Wm5ES0NhWmFnZ1lZYkFJYTJGZXo3MXRxSlFwdzRnblF5UWRrRkpXUlRHcGlrNHpJVHlOOG96TFg5dF9kTUtKQVpzakxMR3fSAZgBQVVfeXFMTzR1cGVfa05ocm5mWnJBSl8wQ2ZrbldBMWNZYlZ6Rkd4VVh1eTJMQS0yN0c4aVhrUno3N0xmdktOTDZYckxoTllLdHFWUU1XX3hMZHg2QVFHSGtfVTllMnBqVmdHWlVLdWJ0WUpDbjlnb3RtY3AyVmxPdXFRQkFITmxVOW95QWtCN0w5TmNFLUloYzJZYVJ3SzA?oc=5"
+    "title": "Green forest fire notification in Sudan",
+    "source": "GDACS",
+    "place": "Sudan",
+    "time": "24 min ago",
+    "published": "2026-11-04T00:48:56.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033476"
   },
   {
     "cat": "festival",
@@ -131,412 +41,502 @@
     "source": "That Grape Juice.net",
     "place": "Coachella",
     "time": "7 hr ago",
-    "published": "2026-11-03T17:26:45.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPNU1QVXkwT3NKVE9jb1ZoQW9zNHpzczdFd3hTNDZJOHp1dGM3dTAwZHAyQ05DWWxYU2xRNExSaURhcm9xNERVSkEzeC1lXzJVUVA4dkMtUk1zOHpxY192MkxobXdWNUZaTWZTbjZuZTFoRUF2NnRHcl80OHdPeGhuN2Z4QTExVXdCRk14dzlIZVJPN3hEZ1NLdkFRRW45YWlYRkJYeGgxRkE1Sld1T3MzVTNsVW4zTDlVdlBXZFJycTNwNEVyZW9OZjFJZnJrWkxvdWthUUFJd2d1V3NONnloWmVYT3hheWJaZTJiMUVxcWVMeHp2OUhMbmR3WjhMVktxaWROeExybmwwMGhxTm1peHVRMEpicmpEUU9pQVZydllnUdIBnwFBVV95cUxPeWFRVzV0ZnRLVEtnTS1VNlVGTUh2XzZxTURkWTFpVlpMMFRVdXE0VzNGWWR3WkYxWlhmeUR3MU9ROWJJV2VseU1mejU1a3VaSUZ6UlpFY0RoNTJ5SlhSVnNRVlFxX0pUb3hwLWdjR29uWm14SXMtY3h0czNTc3VKSnRJdE80X0dWSVlPVVVDQmV5Mjdib05mU0gxT18ySUk?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "Celebrities' Election-Day Photos: See Who Voted & Who They Voted For",
-    "source": "Deadline",
-    "place": "Pedro Pascal",
-    "time": "6 min ago",
-    "published": "2026-11-03T23:56:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNalN5VEs3aWRDSkVNaFRQQTFMcEtPR0t4dm1vQUdRSkhiYTBRMURsclI4TVI1REpUVUswdW1KM0NEcHkyQW9TUy1UYk1pZ3hLNW0xdHF6OFNlcE53ZlRQX0JqQUlGbXVRcWxUUmlKVWd1T2ZmS1VMWWRaUDlkd3d2MndaVXJpa1dQcmc?oc=5"
+    "published": "2026-11-03T18:11:27.000Z",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeWFRVzV0ZnRLVEtnTS1VNlVGTUh2XzZxTURkWTFpVlpMMFRVdXE0VzNGWWR3WkYxWlhmeUR3MU9ROWJJV2VseU1mejU1a3VaSUZ6UlpFY0RoNTJ5SlhSVnNRVlFxX0pUb3hwLWdjR29uWm14SXMtY3h0czNTc3VKSnRJdE80X0dWSVlPVVVDQmV5Mjdib05mU0gxT18ySUnSAZ8BQVVfeXFMT3lhUVc1dGZ0S1RLZ00tVTZVRk1Idl82cU1EZFkxaVZaTDBUVXVxNFczRllkd1pGMVpYZnlEdzFPUTliSVdlbHlNZno1NWt1WklGelJaRWNEaDUyeUpYUlZzUVZRcV9KVG94cC1nY0dvblpteElzLWN4dHMzU3N1Skp0SXRPNF9HVklZT1VVQ0JleTI3Ym9OZlNIMU9fMklJ?oc=5"
   },
   {
     "cat": "film",
-    "title": "Midterm Elections: Donald Trump Rages At Jessica Tarlov Of Fox News’ ‘The Five,’ Complains About Poll Questions",
-    "source": "Deadline",
+    "title": "How Jon Ossoff Won Re-Election and Became the Midterms’ Main Character in the Process",
+    "source": "The Hollywood Reporter",
     "place": "Film industry",
     "time": "12 min ago",
-    "published": "2026-11-03T23:50:00.000Z",
-    "link": "https://deadline.com/2026/11/election-2026-latest-1237212469/"
+    "published": "2026-11-04T01:01:25.000Z",
+    "link": "https://www.hollywoodreporter.com/news/politics-news/jon-ossoff-election-results-midterm-georgia-senate-1236747081/"
+  },
+  {
+    "cat": "actor",
+    "title": "BAFTA Unveils 2026 Breakthrough U.K. Cohort, Including ‘The Other Bennet Sister’ Star Ella Bruccoleri",
+    "source": "IMDb",
+    "place": "Florence Pugh",
+    "time": "6 min ago",
+    "published": "2026-11-04T01:06:52.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DQVJlaXJpR3JEZWYwbHp0YXhDYnhTZGo5QUNGandNNGlnTU1MSnZLYk9tQlVhVWMzUVBDNG9aTmU2VDJrWlA2Y3laNE54M2dFeEdHeG5WbzF3ZVFHN05Yc1F1RVJoUQ?oc=5"
   },
   {
     "cat": "artist",
-    "title": "Laneway Festival Reveals 2027 Sideshows",
-    "source": "themusic.com.au",
-    "place": "Fontaines D.C.",
-    "time": "58 min ago",
-    "published": "2026-11-03T23:04:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnpveERYWjlDWVB4YkM5SW1Lc3lqSFhrc1paSUlEaDl2OHNxTVJmaERTLWhxZ1ptUThXRVM2V2Rod2lPSUlnbEJ5ZXVXX1Awbk5RQzRPZHZ2VUx4LXB6X00tVXhiMG9MZmE3S2NCdEhvVXp6X0l2cWhCdm1TUVZtMjRqTmJHU0ZRakNwWnBTWWJXNUk?oc=5"
+    "title": "My Chemical Romance Leads ‘Parade’ of Reissues Marching Onto Billboard 200 Albums Chart",
+    "source": "Billboard",
+    "place": "Music",
+    "time": "18 min ago",
+    "published": "2026-11-04T00:55:05.000Z",
+    "link": "https://www.billboard.com/media/podcasts/my-chemical-romance-reissues-billboard-200-pop-shop-podcast-1236373369/"
   },
   {
     "cat": "weather",
-    "title": "Riviera Beach overwhelmed by historic flooding as mayor warns recovery could take months",
-    "source": "WPEC",
+    "title": "Southwest Colorado Flooding: A Resource Guide",
+    "source": "Rocky Mountain PBS",
     "place": "Worldwide",
-    "time": "1 hr ago",
-    "published": "2026-11-03T22:59:21.000Z",
-    "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxOWUt4N0xXXzNNQ3FERlYtTFJvXzhES3FGM1dreVdySU0xdUp5SnBzWjFhaHFnWmJocDdpQWtfc1ltWndkVnZCZXBFX2FfaUY3ODJDRUZIODU2MXdOVm5Mazk4MFp3bU9jQ0FQNG9pTmxRM1A3eUVSZzBtdEx5Y2VTeGJlbUpFVy13c0JLT3hpT3FHSXlZV2tGenJBQjhVQVZrblBNSkR3RFYwMHJJMk5GU3QwNlBfbnlIdDVUY2RVT0ppQlZ6U2xZNzczMkcwamtITWJDVE9LNGRWSlF6N0g4YTB3Rnh0QUVnYWZka3FMOEdtTU0ycjVwS1BkOEluQ3dNRW9FajJaM1ZfSDZIcnpxemVCLVZsRmhIbzJERW80aWczSG5KN3J3UlFQQ2FyZnpab2lLSUh2bHJaYzlyOGFVR3VUUUdTRHVhb1BwU09DbjBGU01vcVBrejZMTlNnbEFfelVGZDlKejBjSFN6MzhIZkJWN25wblVLSl9mNEVoU1NQX2xoSnc?oc=5"
+    "time": "49 min ago",
+    "published": "2026-11-04T00:23:44.000Z",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWJWcnlETlNFelFZbVYyQjJmS0RjYXNLRjEwRTlsRUtJX0E0LTJZVi1rZHVWdzgyRkFvZlBNWmF4R2tQR0RzNXBZUF93VWk5b0xEU3hoVUhWU1FITm5Pb0NZWmVqZkY2ZjNsa0Q4SlBuMVRWaHBIelNaRlRnNVloRGpCRlA?oc=5"
   },
   {
     "cat": "festival",
-    "title": "The Cure have more shows and new music to come in 2027, says Robert Smith",
-    "source": "Contactmusic.com",
-    "place": "Primavera Sound",
+    "title": "Ditching the Flower Crown: A Review of Homecoming: A Film by Beyoncé",
+    "source": "The Tiger's Roar",
+    "place": "Coachella",
     "time": "8 hr ago",
-    "published": "2026-11-03T16:18:45.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUTdBVHY5MVhpTkpSWUlhbURDWUpQanZqVHRWYi1xcWNSdzgxMnJ5Ry0zLWtIOXZoaEVqdmIwWTA3di12UkFaNTF6TXJLYW9kR3lJMDVROUpkdTk0VElydU5yekpsS2FVY1I2eDg4U3NxWDdRWVZwNlAyWDJGUjY1Zkl6S1ZKdWtaNllGbTBtRGx6ZEpNclZSQ2RRWjVWUHpZY2I2TXhPaFNTdUkxSTU4LXFtZWJ0cXhNSnpZ?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "Eric Dane’s Posthumous Memoir Reveals Actor’s Fight With Josh Duhamel on Set: ‘Let’s Go, You P—- Ass Actor!’",
-    "source": "Variety",
-    "place": "Film industry",
-    "time": "27 min ago",
-    "published": "2026-11-03T23:35:03.000Z",
-    "link": "https://variety.com/2026/tv/news/eric-dane-memoir-fight-josh-duhamel-set-1236938856/"
+    "published": "2026-11-03T17:21:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdmltOWZtQll2QkhMVnF0bVd5eHZhZnRiSnJ3aU9xOVNnSGI5NV9ncUhjOVJRNENRdmRoMU4wbFZZQmFCS1FORFNXdzNETnpncW9aQ2QxNDNuenEzRURVQWJNak0zejJBTVd4VVZLenVyTW1WVUo0Ql80RkV5TlgtaUpFMUIyc2lmaUtoaFh3?oc=5"
   },
   {
     "cat": "film",
-    "title": "‘Dune 3’ Production Designer Patrice Vermette Created a 55-Ton Spaceship for Sci-Fi Epic: It’s a ‘Major Spectacle’",
-    "source": "Variety",
-    "place": "Film industry",
-    "time": "14 min ago",
-    "published": "2026-11-03T23:48:36.000Z",
-    "link": "https://variety.com/2026/artisans/news/dune-3-spaceship-55-tons-1236937875/"
-  },
-  {
-    "cat": "artist",
-    "title": "George Benson Feted by Wyclef Jean & More at Jazz Foundation Fundraiser: ‘Just One Way to Give Back’",
-    "source": "Billboard",
-    "place": "Music",
-    "time": "1 hr ago",
-    "published": "2026-11-03T22:34:34.000Z",
-    "link": "https://www.billboard.com/pro/george-benson-honored-wyclef-jean-jazz-foundation-event/"
-  },
-  {
-    "cat": "weather",
-    "title": "Katy Perry’s Proposed Youth Camp Sparks Backlash Over Noise and Wildfire Concerns",
-    "source": "intouchweekly.com",
-    "place": "Worldwide",
-    "time": "1 hr ago",
-    "published": "2026-11-03T22:42:04.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQakRCRWJhSlFxSl95NHo1aUI4M3JhYlREbUllYmFxUExQeDV2cHBDSXI2UkN3N1RUTFZGVzMtV0VlMFZ1T005YWZoZUNoT2QxYjhPbVpMSTR0R29hV2Fzc3NhUXNHNjdPaFlxa25IVWl3NU9KcDdJN0kyR2VMVm1UbGpBdmdnVUlZSllDNDVuUGlNeTNlaDljZ3RZOU5XRjdzRlJxcEpSTmttVTg?oc=5"
-  },
-  {
-    "cat": "festival",
-    "title": "Men tried to grab child in Weston-super-Mare",
-    "source": "Somerset Live",
-    "place": "Glastonbury",
-    "time": "9 hr ago",
-    "published": "2026-11-03T15:25:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUXhxLXlKSXFwb2hRdG13ZWlpemNtX2xzdGpPUHVEblhNVjd5a2sxMC11SThab2lvWWRaUDJHTkc4d1NZT25peUpYNk1vM0ttUnhOeHQ0UXVsZHpKOE05NlpyUjUyY2VxSGc4LVJjbFc2ZGhGUzZpQVFUdm9HM2xlenV2NkI3d0thUXcwbjRfaEJndzZR0gGUAUFVX3lxTFBReHEteUpJcXBvaFF0bXdlaWl6Y21fbHN0ak9QdURuWE1WN3lrazEwLXVJOFpvaW9ZZFpQMkdORzh3U1lPbml5Slg2TW8zS21SeE54dDRRdWxkeko4TTk2WnJSNTJjZXFIZzgtUmNsVzZkaEZTNmlBUVR2b0czbGV6dXY2Qjd3S2FRdzBuNF9oQmd3NlE?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "We Officially Ranked Every Star Wars Movie",
+    "title": "‘Resident Evil’ Meets ‘Backrooms’ in the Video Game Horror Hit Taking Over Streaming",
     "source": "Collider",
     "place": "Film industry",
-    "time": "1 hr ago",
-    "published": "2026-11-03T22:55:12.000Z",
-    "link": "https://collider.com/star-wars-movies-ranked-officially/"
-  },
-  {
-    "cat": "film",
-    "title": "Jennifer Lawrence Cites ‘Hunger Games’ While Encouraging Fans to Vote: “Don’t Forget Who Burns With Us”",
-    "source": "The Hollywood Reporter",
-    "place": "Film industry",
-    "time": "36 min ago",
-    "published": "2026-11-03T23:26:51.000Z",
-    "link": "https://www.hollywoodreporter.com/movies/movie-news/jennifer-lawrence-hunger-games-midterms-dont-forget-burns-with-us-1236747170/"
-  },
-  {
-    "cat": "artist",
-    "title": "Karol G Sweeps Latin Airplay’s Top 3 With ‘No Me Arrepiento de Sentir Tanto’ Tracks",
-    "source": "Billboard",
-    "place": "Music",
-    "time": "1 hr ago",
-    "published": "2026-11-03T22:33:48.000Z",
-    "link": "https://www.billboard.com/music/chart-beat/karol-g-latin-airplay-top-3-songs-no-me-arrepiento-album-1236373554/"
-  },
-  {
-    "cat": "weather",
-    "title": "Katy Perry faces opposition from more than 360 neighbours over proposed 110-acre California youth camp; r",
-    "source": "The Times of India",
-    "place": "Worldwide",
-    "time": "1 hr ago",
-    "published": "2026-11-03T22:40:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOOHpMQTU3WXJrSktPNDc5akNxa2l5Mk1CSHA2cTZubjNuYml6WVRhZVQzRWw2UXh4QzV6V09kOUZ6U21vSlpVdTdISUdpaGtMX0p4dnB5OXpIemRTdGVNeGgxYUs4eGdzZHBnWldPb0hTYXRMc0dLQXJLaHlsSnZhX3A5bVpQTGVwMzd1XzU0MWJ0UzI5d0x4SWM4VjdSQXNqaVJUbE9neWpHbThJeDVQRzlIa2tBRThYWTh0MzZlYTRZV0syLWl4YmxQQVdwRGd1a0ZqVzU2SU16UWV5RkYxOHBvTnFvNWFTYy1zODlEOEtFejVXa3JFdkN5NU1RaVRLcWYzaTRzTnlPNzFYMHFvZFp3aDBoZzZLVGFpQXo0am9ud0U5NmFwMVBFcVQ0NTRSQmI4RkZ2VVA4Z2gxNkFiNjIxWFlzQ1U3R1hmdlJON0RvZ0o1dWJ2dE1Gb2pRZkdCUVMyTXpHcEtOTi0tZktlX1dRTVhYdGhtdUdRQ21JaktzY3Q4Q2NyUUVRN2NNcHNVMnfSAZcDQVVfeXFMTjF0UmxRRHVRZmxteFdBYjd1cHZ4UUl0ZGdQdEZITnI0Njd6THlxZ1NRVklpWnlMbHlKdXBWVEZOTFRXSGl0YXRXaDl4aVpSdkdDalpfbXB2ZTBnaHV3NlZMMTVERmoyUUV2UVBMSXpDZk0yalVHdTNUY3o3ZnVvS3NFZzdkR1NhMV95UXRhVXZ2N0lId2ZrYUZ5U1VMZ091R2xuYW9jLVlnMEdWWEV3V0d4SFlzNXpqN05kMVd3NEFMcXU4X1hWNXNzYUtMWFg5RkEycEthWVZzOVN2a2h0cHVJZXFnYzFDSUdhQUZqY1ZlN1YtekNWVGtzc2JnM0d4cVBJbjBLSVpiQ1hfTFFna194Ukl4aV8xVFN0MTFZR19FMzA2bVdFLVl0dV93WjNIZUN0YjJWUG9HRUhqWmZxb3k2SWkyeERtdy0xdE9tS2U5cEZvcHktTjZtZjhMbURodjhzTmpWNWtMZkZ5NDhPejZCaTFiNzc4NXlVaUg0SkxCRFdsSWdfeUN4SDlXVUxrMlJNdkhlV0U?oc=5"
-  },
-  {
-    "cat": "festival",
-    "title": "Days to go until readers and authors will travel the country for this book festival",
-    "source": "Northampton Chronicle and Echo",
-    "place": "Glastonbury",
-    "time": "9 hr ago",
-    "published": "2026-11-03T15:04:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRDliY2ZNVWFaQ1p1OVJoMUNaa1gzMVJPTFhaUHlGZk9fekQ4dktJTjJsQ0JCX1lPd1ZvemxMSEVncWp4Z19Ob1owYU5iOUtVekVzTThOaHNPdzZKNF9WT2JmNjE0RjJ2dWtPdkQ3RjR0UEdKLXdaSEhEcGVzTFp4aHFLcUhsYXFnOW5HejBoRGlob05JclNERHhyNU9fbGE5akU1TXJlUkRzcWNkc2d3RmtfSERyMF9peEVZQlQ2QUphRWJuVVlXWVVOdFMwN2F4SzRrYjlZak5FdVFDQlBxOXlR?oc=5"
+    "time": "12 min ago",
+    "published": "2026-11-04T01:01:12.000Z",
+    "link": "https://collider.com/exit-8-streaming-success-paramount-plus-november-2026/"
   },
   {
     "cat": "actor",
-    "title": "Canada’s CBC Joins Microdrama Boom",
-    "source": "The Hollywood Reporter",
-    "place": "Film industry",
-    "time": "1 hr ago",
-    "published": "2026-11-03T22:53:15.000Z",
-    "link": "https://www.hollywoodreporter.com/business/digital/canada-cbc-microdrama-boom-1236747052/"
-  },
-  {
-    "cat": "film",
-    "title": "Jisoo to Release Original Song for Upcoming ‘The Angry Birds Movie 3’ (Exclusive)",
-    "source": "The Hollywood Reporter",
-    "place": "Film industry",
-    "time": "40 min ago",
-    "published": "2026-11-03T23:22:49.000Z",
-    "link": "https://www.hollywoodreporter.com/music/film-tv-music-news/jisoo-original-song-the-angry-birds-movie-3-exclusive-1236747168/"
-  },
-  {
-    "cat": "artist",
-    "title": "Suno Says Jason Isbell Lawsuit Over Artist ‘Identities’ Must Be Dismissed: ‘Nothing Unlawful About That’",
-    "source": "Billboard",
-    "place": "Music",
-    "time": "2 hr ago",
-    "published": "2026-11-03T22:25:48.000Z",
-    "link": "https://www.billboard.com/pro/suno-responds-jason-isbell-ai-music-lawsuit/"
-  },
-  {
-    "cat": "weather",
-    "title": "Riviera Beach emergency response restricted in flooded areas after 6 p.m.",
-    "source": "WPBF",
-    "place": "Worldwide",
-    "time": "1 hr ago",
-    "published": "2026-11-03T22:34:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPY1FMM1QwTVVLQ0NLbVExbWtlSGJMaXVJRlJUcHNoNXJ0WnRyNXo2aGppVEFBRHpRck1fQ0k4cW4tRVRaY3lLTG1wTUZERVpvaWpSZ2NGWEQyVVl1TUhTMzItQXVOWUxUZFhqOWRvd1lxWTBSd0pITS0tellNTEp0VzRSU1E?oc=5"
-  },
-  {
-    "cat": "festival",
-    "title": "Sónar 2027: first 30 artists, new format and passes",
-    "source": "modofestival.es",
-    "place": "Primavera Sound",
-    "time": "9 hr ago",
-    "published": "2026-11-03T14:40:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcDJMTjVCTF93dTExNzBQaGoySkRFdlNXN2hMRWJucGNGT2Q4cjB4YTdheVJkZDBJSk9feDRBU0gycnNqc2xrempmMmpXMk1UVVFRc1Z4TkVibTlncXlQX29vbkZIbUEtcDFwbXg2bmd1bVlYVWtScVZFS05UVWgwSUlrNi02U1plbzdjdm5QLW1xNVJGSi1XYjFqVXREcHp2ZTd0dG5kOEc?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "Tami Roman to Star in and Executive Produce Lifetime’s Double Double Trouble 2",
-    "source": "Mezha.net",
-    "place": "Dune",
-    "time": "1 hr ago",
-    "published": "2026-11-03T22:37:35.000Z",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTTGRGUU1RWmZwUnZaSmJfa0hxeTFWaGpTTEtEazlhd0IxWEszYUFSRks0bWZ5VzFUTFowejVBSE0yNFhlN3NON3N0T3Budm9ZNTlaSGFkMDRGbmF6d2ZJazZSZk43a0RVZWdNOW9CTEJuajdONl9ETl9JdXk?oc=5"
-  },
-  {
-    "cat": "film",
-    "title": "Midterm Elections: Piers Morgan & Rashida Jones On How ‘Uncensored’s Going Into Uncharted Territory Tonight, The Trump Wild Card",
+    "title": "BAFTA Breakthrough: ‘Ish’ Filmmaker Imran Perretta & ‘The Other Bennet Sister’ Star Ella Bruccoleri Among 2026 Cohort",
     "source": "Deadline",
     "place": "Film industry",
     "time": "1 hr ago",
-    "published": "2026-11-03T22:58:43.000Z",
-    "link": "https://deadline.com/2026/11/election-2026-piers-morgan-interview-1237212489/"
+    "published": "2026-11-04T00:01:00.000Z",
+    "link": "https://deadline.com/2026/11/bafta-breakthrough-imran-perretta-2026-1237212332/"
   },
   {
     "cat": "artist",
-    "title": "Steve Ellis, Love Affair Singer, Dies at 76",
-    "source": "Billboard",
+    "title": "Today’s Wordle answer and hints for #1964 on November 04",
+    "source": "NME",
     "place": "Music",
-    "time": "2 hr ago",
-    "published": "2026-11-03T21:36:10.000Z",
-    "link": "https://www.billboard.com/music/music-news/steve-ellis-death-love-affair-singer-dies-obituary-1236373405/"
-  },
-  {
-    "cat": "weather",
-    "title": "Hardee County flooding: River crest expected overnight after downpours",
-    "source": "FOX 13 Tampa Bay",
-    "place": "Worldwide",
-    "time": "2 hr ago",
-    "published": "2026-11-03T22:25:02.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNc1hzclI2UjFRbG5WTXVOX3hLSTh0WEZKc3FVbTFCSDhISlEzQ0x5UEhSbkdCdkdyMTg4TU81ZUlxc05rVjdHdlc1bWItMzhFbVMxVERxVnhUdEhUTXNoa3VqOXVNMExXX1VtQkViWkg0N2FrZXNFSjBvaU9rSFMwUVUxRXpScGdHN0NBRDhMd3RCaURNVVlRejVNR0pySUZ2bVE?oc=5"
-  },
-  {
-    "cat": "festival",
-    "title": "Extremúsika 2027: Boikot, Saratoga and Sho-Hai join the line-up",
-    "source": "modofestival.es",
-    "place": "Primavera Sound",
-    "time": "10 hr ago",
-    "published": "2026-11-03T14:30:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZWlObHBjQ1pKeFVGd1VSRXowaWY5X1hPcWV4cW54bXlBN3dYZGxPaDFVT3hwZnloVXN3RkFCbEFnd0tFbmtJUTlIMFNPbnZGWDlMampTRVRMNHptd2JzWmdLb2pSRHIxdWw4cHpOeFVQSzNpN2p3SmdOdGFzcno0UEt3OFRLVDRldTFPQThhLWdTTHp5czVzTTR0NW5Fdw?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
-    "source": "Deadline",
-    "place": "Film industry",
-    "time": "2 hr ago",
-    "published": "2026-11-03T22:32:27.000Z",
-    "link": "https://deadline.com/2026/11/tami-roman-lifetime-movie-double-double-trouble-2-1237212406/"
-  },
-  {
-    "cat": "film",
-    "title": "‘La Bola Negra’ Caliente At Box Office With $43M Worldwide, Becomes Spain’s Top-Grossing Local Pic Of 2026",
-    "source": "Deadline",
-    "place": "Film industry",
     "time": "1 hr ago",
-    "published": "2026-11-03T22:45:53.000Z",
-    "link": "https://deadline.com/2026/11/la-bola-negra-box-office-spain-1237212446/"
-  },
-  {
-    "cat": "artist",
-    "title": "Country Music’s Global Boom Is Another “Glocalization” Wave",
-    "source": "Luminate",
-    "place": "Fontaines D.C.",
-    "time": "3 hr ago",
-    "published": "2026-11-03T21:26:59.000Z",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSk9ONXJuM2syNXFjMVVZdG9JeE9idUVCYlhPQ2s1TC16eHIyRHVzTFR0amppcnk2eExOMVYtYmRDelZBdlFRdXNiYWVjMW5kYUkzbUpySi1NYlZaNkd2cUxMWDhNRDNTVlNvYVM0ZWtkdFJQX2taUnVIRnFlMUdkbkhzS2szSlplUmNVRmZyc1E?oc=5"
+    "published": "2026-11-04T00:01:34.000Z",
+    "link": "https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240?utm_source=rss&utm_medium=rss&utm_campaign=heres-the-wordle-answer-for-today"
   },
   {
     "cat": "weather",
-    "title": "Cyclone Murasu 2026, Tracker, Affected Areas, Warnings, Latest Updates",
-    "source": "Vajiram & Ravi",
-    "place": "Worldwide",
-    "time": "2 hr ago",
-    "published": "2026-11-03T22:18:25.000Z",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyVlVWNk5PLVhZaFJLY3lFaVBNNzZmdGtRcFRsQUx1R2JVMTU5ck53UVZCeHhhYU5WckNvSnpfMGRxVHhYMEtzT05ZQ0FpNTNhaDFGREJJMy0wenJ3UkRIeDgwM1ltRm5WOGpSX3BHYms?oc=5"
+    "title": "Green forest fire notification in Nigeria",
+    "source": "GDACS",
+    "place": "Nigeria",
+    "time": "49 min ago",
+    "published": "2026-11-04T00:23:31.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033475"
   },
   {
     "cat": "festival",
-    "title": "Low Festival 2027: first names and passes at €55.99",
-    "source": "modofestival.es",
-    "place": "Primavera Sound",
-    "time": "10 hr ago",
-    "published": "2026-11-03T14:25:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORm5mblhNSGxFdzZKSGRrVXNndDd0dDlmVndUOV9LLXoyVDBqaDlsZG9ZRG1uQlZKUml6aXpvUm80LUktQUNfMWNWM3BZbEF0VDZBdEl2RkxlSDQxV0R1NWxHQjN1QTZNbkluZ1FLUTExUHBuQ3RIbVRDeGJEUU83Z1pTZ3hZUHR3NmZaOVdNUXdwX3NtMUJiRWRyQVdVa1RzNUZwdnI0cw?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "‘The Greatest’ Review: Jaalen Best Gives a Star-Making Performance in Amazon’s Uneven but Impressive Muhammad Ali Series",
-    "source": "The Hollywood Reporter",
-    "place": "Film industry",
-    "time": "2 hr ago",
-    "published": "2026-11-03T22:22:24.000Z",
-    "link": "https://www.hollywoodreporter.com/tv/tv-reviews/the-greatest-review-jaalen-best-amazon-muhammad-ali-1236746481/"
-  },
-  {
-    "cat": "film",
-    "title": "The 10 Best American Rock Bands of All Time, Ranked",
-    "source": "Collider",
-    "place": "Film industry",
-    "time": "1 hr ago",
-    "published": "2026-11-03T22:45:12.000Z",
-    "link": "https://collider.com/best-american-rock-bands-all-time-ranked/"
-  },
-  {
-    "cat": "artist",
-    "title": "Mastodon Fights Lawsuit From Late Guitarist Brent Hinds’ Estate: ‘The Truth Will Be Addressed in Due Course’",
-    "source": "Billboard",
-    "place": "Music",
-    "time": "3 hr ago",
-    "published": "2026-11-03T21:19:57.000Z",
-    "link": "https://www.billboard.com/pro/mastodon-fights-lawsuit-estate-guitarist-brent-hinds/"
-  },
-  {
-    "cat": "weather",
-    "title": "After ‘one-two punch’ of storms, flooded southeastern Utah braces for a possible new threat",
-    "source": "The Salt Lake Tribune",
-    "place": "Worldwide",
-    "time": "2 hr ago",
-    "published": "2026-11-03T22:13:19.000Z",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwUS1NajdpWlZ2WHQyU3lHS2dKRFlqVmlkNEpZY2ZVTHp6ak15R29oYjJWUTlpU2lnUEZ4Rk1jeGFOei1qTFFhdktEUmplRDdCT0VFNHhjT1VPOXV3YVd0eU1TMFFYZ25iemhTYmZaZWtDRTVTUUFhUERmNA?oc=5"
-  },
-  {
-    "cat": "festival",
-    "title": "RAYE Brings Her Mercury Prize Winning ‘THIS MUSIC MAY CONTAIN HOPE’ To BST Hyde Park 2027",
-    "source": "RockShot Magazine",
-    "place": "Glastonbury",
+    "title": "NO11 – Coachella Music | Legal Download",
+    "source": "TrendyHipHop",
+    "place": "Coachella",
     "time": "11 hr ago",
-    "published": "2026-11-03T13:06:10.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMlBtbEpsNUxMeTNSelF6aXdyTTRyd2RwSDMzdGVwTFZNcFFQU002RFhxaXk5T21ieTIxdGNOTGNxeWxva3VhbVFxdS1fdkpnb1VmMXN1VkQ5RmF3OGlFSlZDMzV4V2R1U3VSWFEwbkQ2UHd6UGxNMGM4bmJaVDhYOHlPR0ZSQUxqRUhWb3YzRllpbHhyT0ZLaDRiWVBqdXlvdkUtVktQYjI5UUtqbXVtWDdDT0ZWSlNw?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "Music links past, present for Pedro Pascal's cellist in 'Behemoth!'",
-    "source": "AFP.com",
-    "place": "Pedro Pascal",
-    "time": "4 hr ago",
-    "published": "2026-11-03T20:27:10.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ub0NsU2tpUnZUX0xhZW5WcVlVYlJNMXVQSzVPTWgxQUNkeDkwUDZ0Nl85eXQzdW0xbzJub091SXJ1RWl6eGZhaVpncw?oc=5"
+    "published": "2026-11-03T13:48:02.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LRGZXUEU5VWxrZ1FLWTNSZTV4NjE3eGVvWnoyd18tcFR5Uzc4LWlyNUNpQ3RDU2pHemVhbXZKN210UGhsN01kUjBPQm5vY2ZxYmpLT1o0WDZTYnR4MFZhTw?oc=5"
   },
   {
     "cat": "film",
-    "title": "Jennifer Lawrence Quotes ‘The Hunger Games’ While Urging Fans to Vote on Election Day: ‘Don’t Forget Who Burns With Us’",
-    "source": "Variety",
+    "title": "Park Hoon-jung’s ‘Tristes Tropiques’ Sells To Well Go USA For North America; Swift For France",
+    "source": "Deadline",
     "place": "Film industry",
+    "time": "13 min ago",
+    "published": "2026-11-04T01:00:15.000Z",
+    "link": "https://deadline.com/2026/11/well-go-usa-park-hoon-jung-tristes-tropiques-finecut-swift-1237211994/"
+  },
+  {
+    "cat": "actor",
+    "title": "BAFTA unveils 2026 Breakthrough UK Cohort championing 21 emerging stars across film tv and games",
+    "source": "Film-News.co.uk",
+    "place": "Florence Pugh",
     "time": "1 hr ago",
-    "published": "2026-11-03T22:45:02.000Z",
-    "link": "https://variety.com/2026/film/news/jennifer-lawrence-hunger-games-election-day-voting-1236938876/"
+    "published": "2026-11-03T23:57:03.000Z",
+    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQeFE2dEtMXzFuSVJ0V0FxYUZjWmdvSTRBV19oYXkzS05kdWFySm8zMDBVUXkyOXYyNnZGZk9SY3dSWUJucnhRVmRLNF9iRENYQ0ZRSVNYaFdreTNuNVpNVHNra0FZNlBjUENlZjRhTUFPZnI0MllrNGNSd1U0NzItbXFwcUxEOVROckVjYlNYUk9IcmFMOUxfd3ZaM2ZxQktYeVFPNTNjb3RPUjVQeHk1Q29UZHM0YmxVcDNTQlNILXZlcVhQR2R1S2JGLUVPVS02QkxUckdqYVJ6RHp6RDFSekFR?oc=5"
   },
   {
     "cat": "artist",
-    "title": "Sharon Horgan’s YOUTH renewed for a second season by HBO",
-    "source": "Extra.ie",
-    "place": "Fontaines D.C.",
-    "time": "3 hr ago",
-    "published": "2026-11-03T21:01:11.000Z",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE12RHNwc0oyeGZoYVNNX1ZORTBhVm5DNU1TZ2d5UElzQTJSZk5aUnVOQUhVeFhzSkxTTE1BcU1ZSDJCb1VSZmtiZURDOF9pUkZpb0czOXdjVF90NE5kTVhhTDJ5TVNDcUNLSWNDRVR3bEVpYzg?oc=5"
+    "title": "Globle answer today – here’s the answer and hints for November 04",
+    "source": "NME",
+    "place": "Music",
+    "time": "1 hr ago",
+    "published": "2026-11-04T00:00:17.000Z",
+    "link": "https://www.nme.com/guides/gaming-guides/globle-hint-answer-today-3213991?utm_source=rss&utm_medium=rss&utm_campaign=globle-hint-answer-today"
   },
   {
     "cat": "weather",
-    "title": "Coconino County declares State of Emergency",
-    "source": "Coconino.az.gov",
+    "title": "Highlands County sees flooding, power outages amid state of emergency",
+    "source": "WFLA",
     "place": "Worldwide",
-    "time": "2 hr ago",
-    "published": "2026-11-03T21:50:32.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DSTdvdGFHcDExM1B2UXFCNzhsOXd0Qm9FNElQNFZlTUdQeTlRNWM1M1dSTVcyQTdNaTRZWklmc3h1ck05RGFfME5WaV9jZU5IV1EycDJWNENtQVVLM0pyWlRsOHRHYjg?oc=5"
+    "time": "51 min ago",
+    "published": "2026-11-04T00:21:40.000Z",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQSzNBbkEtZVdWNHZGclNNa0tvQWlSQktQanFNTkJNMkw5ZWdaenRXdnAtcTN6a1ZXbWhtRFpfUmlyUl9OM1A4SHVPQWxDWnhsX3BCRWotMDh6OWRZMXN2VzFxSG1XQTZiRXU3Wk05TWdfbU9qY1drX1BjMUtsS3dDQmgxeDZwMmloaF9yUVVTRWtYMnVjMXNpdFJUTVV0dFo4dXl4N2NJLTZaQ1c2NWJnQUhR0gG3AUFVX3lxTE00Rzl4TTlsb1JPem5rQkNPcXFpVUFzZWZZVkRfcEpQcUxWajhBRkQtR2NURkJET3NhLVVjajFEV1BQSnJuV204VHZuU2RUdEcybVNMZXlWWUp1N2R1VVZjTWxWdWJQTXZONXowMzhvam4tcnVRNjNacTJvVlVURmJPVmpjNWgzSTVaRXV0Tm9NV1dOZmRRX2xoSUs4MjhVVnhyNHhGSlNrMWNjVTdld0hRT1hadmdjZw?oc=5"
   },
   {
     "cat": "festival",
     "title": "Kyary Pamyu Pamyu, Otoboke Beaver, Hitsujibungaku announced for first ever European ‘Matsuri’ music festival in London",
     "source": "NME",
     "place": "Music",
-    "time": "13 hr ago",
+    "time": "14 hr ago",
     "published": "2026-11-03T11:18:34.000Z",
     "link": "https://www.nme.com/news/music/kyary-pamyu-pamyu-otoboke-beaver-hitsujibungaku-announced-for-first-ever-european-matsuri-music-festival-in-london-3974885?utm_source=rss&utm_medium=rss&utm_campaign=kyary-pamyu-pamyu-otoboke-beaver-hitsujibungaku-announced-for-first-ever-european-matsuri-music-festival-in-london"
   },
   {
-    "cat": "actor",
-    "title": "‘Much Ado About Nothing’ Starring Tom Hiddleston Joins Sell Outs ‘A Few Good Men’, ‘Other Desert Cities’ & ‘Hamilton’ – Broadway Box Office",
-    "source": "Deadline",
+    "cat": "film",
+    "title": "Park Hoon-jung’s Assassin Noir ‘Tristes Tropiques’ Sells to North America, France, Spain",
+    "source": "Variety",
     "place": "Film industry",
-    "time": "4 hr ago",
-    "published": "2026-11-03T20:21:47.000Z",
-    "link": "https://deadline.com/2026/11/broadway-box-office-tom-hiddleston-much-ado-about-nothing-1237212200/"
+    "time": "13 min ago",
+    "published": "2026-11-04T01:00:00.000Z",
+    "link": "https://variety.com/2026/film/news/park-hoon-jung-assassin-noir-tristes-tropiques-sales-1236938950/"
   },
   {
-    "cat": "film",
-    "title": "GOG seeks a way to bring Dune II back to PC amid a five-way licensing tangle",
-    "source": "Mezha.net",
-    "place": "Dune",
+    "cat": "actor",
+    "title": "Celebrities' Election-Day Photos: See Who Voted & Who They Voted For",
+    "source": "Deadline",
+    "place": "Pedro Pascal",
     "time": "1 hr ago",
-    "published": "2026-11-03T22:37:35.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBFUmhoLTVjMHhJQmxhWTJWUTF3bWtfeHdtMnB0MnFFVVczY004RVBtT3JYVmh0SWVCTDRBUjlYZFA5YVZudndVcUdabHBkdnFYNkh2aG80OEZXd05EWWs4cmpPcmNjMmh2c25tU3JVaGx6ZzNvSkhFdFp3?oc=5"
+    "published": "2026-11-03T23:56:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNalN5VEs3aWRDSkVNaFRQQTFMcEtPR0t4dm1vQUdRSkhiYTBRMURsclI4TVI1REpUVUswdW1KM0NEcHkyQW9TUy1UYk1pZ3hLNW0xdHF6OFNlcE53ZlRQX0JqQUlGbXVRcWxUUmlKVWd1T2ZmS1VMWWRaUDlkd3d2MndaVXJpa1dQcmc?oc=5"
   },
   {
     "cat": "artist",
-    "title": "Laneway sideshows for 2027 are here - triple j",
-    "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-    "place": "Fontaines D.C.",
-    "time": "3 hr ago",
-    "published": "2026-11-03T21:00:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQN0FtN280V2F0bjJYYkVMRXlIQ2tudmZEeGJpcDNOS1ZwOEE4NG1sRXJxVng4bTlBTzZQQ2JpeTB2S1phNFI0cFRNRTRvS1FZZktpTFAxM3RfNGdHeE42LUZwZ0Z2cXh6RnF1UlBJVTd4NGRIdzRDSUhaeDUxWTcxNm5mcUoyelFOYy1mVm5kVFBvVmR3SEs2TmgxREJRR0tK?oc=5"
+    "title": "Framed answer today – here’s the solution for November 04",
+    "source": "NME",
+    "place": "Music",
+    "time": "1 hr ago",
+    "published": "2026-11-04T00:00:09.000Z",
+    "link": "https://www.nme.com/guides/gaming-guides/framed-answer-today-3192186?utm_source=rss&utm_medium=rss&utm_campaign=framed-answer-today"
   },
   {
     "cat": "weather",
-    "title": "Cyclone Murasu Makes Landfall in Andhra Pradesh, Winds Reac…",
-    "source": "theopenpress.in",
-    "place": "Worldwide",
-    "time": "2 hr ago",
-    "published": "2026-11-03T21:35:43.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5INGFJTlJFX2JFbXREdWhNSnZsVjI0QXRLbEd1ZGgwNGtYcF94TEJSLS1xUFB1Zmx3bXJjcmd5bFNSUk1nQjdtV2RmY284YnVQbUNDLWJjem9mZHhFRHQzUjBJU0dBQ0VBMjdkX091T2NjWXRxVk12MDln?oc=5"
+    "title": "Green forest fire notification in China",
+    "source": "GDACS",
+    "place": "China",
+    "time": "52 min ago",
+    "published": "2026-11-04T00:20:53.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033375"
   },
   {
     "cat": "festival",
-    "title": "Huge rock legends ‘are surprise Glastonbury headliners’ say fans after they announce tour with gap for festival",
-    "source": "The Sun",
-    "place": "Glastonbury",
-    "time": "14 hr ago",
-    "published": "2026-11-03T09:52:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNEl6cEF5OFpiQUVOU2htMExUcHZXdW5VT0hXY28xQXJUU09SaXJ0OHM3OWk4VjUweW16Rks3SHpPYnFOYmpUODFPTF9kWnBtelZVU1FfTTJXYzRUcU9QOVY5VEVjNE9kcjMxeExhQ0t4aWU5YVJKNGRGaFFSekZnOWxuTkg4ajZWYkZJZDRIYWR3R24tSGRJ?oc=5"
+    "title": "Teddy Swims Announces 2026 ‘The Ugly Tour’ North American Dates",
+    "source": "TicketNews",
+    "place": "Coachella",
+    "time": "15 hr ago",
+    "published": "2026-11-03T09:44:51.000Z",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc29tTi1VNXo4ZTk0T3kxeUdPMHpPakdUSWxtcTU5aFhwVG1OOUZqd1JZeUgyN0M5NjktS2h0X09TbWkweUcyZEVNT1JRc1hYQ1RtelBMZWstRnR4UTVrMnZXNzktOWg5ZG5oaklQWWZfZ0tzLWFLaWVjbm5IYkJhOUF0YnlSRVZZVHFSRXNVMlR0RXVJVnJ1bzNTMnF5UQ?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "Midterm Elections: Jon Ossoff Wins Reelection To Georgia U.S. Senate Seat, Networks Project",
+    "source": "Deadline",
+    "place": "Film industry",
+    "time": "17 min ago",
+    "published": "2026-11-04T00:56:00.000Z",
+    "link": "https://deadline.com/2026/11/election-2026-latest-1237212469/"
+  },
+  {
+    "cat": "actor",
+    "title": "Eric Dane’s Posthumous Memoir Reveals Actor’s Fight With Josh Duhamel on Set: ‘Let’s Go, You P—- Ass Actor!’",
+    "source": "Variety",
+    "place": "Film industry",
+    "time": "2 hr ago",
+    "published": "2026-11-03T23:35:03.000Z",
+    "link": "https://variety.com/2026/tv/news/eric-dane-memoir-fight-josh-duhamel-set-1236938856/"
+  },
+  {
+    "cat": "artist",
+    "title": "Fontaines D.C. – Six Shot Morning",
+    "source": "TrendyHipHop",
+    "place": "Fontaines D.C.",
+    "time": "1 hr ago",
+    "published": "2026-11-03T23:46:07.000Z",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yQmI2THFIb0pSUmRraVhKaFROSnRXUkFPZ3ZxME1Lc1pOSkxuYkxkd1RYQ1BOa3pMb3ZLRnVXQjIyUm5GS0RwOUtZVUZWX2J1dVFqb2tiZVZEaXFmUmlPbzNVLVZGNGlwVkRnODAtcjZCcmc3cFE?oc=5"
+  },
+  {
+    "cat": "weather",
+    "title": "Green forest fire notification in Central African Republic",
+    "source": "GDACS",
+    "place": "Central African Republic",
+    "time": "52 min ago",
+    "published": "2026-11-04T00:20:44.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033442"
+  },
+  {
+    "cat": "festival",
+    "title": "One of top music stars of early 2000s returns to the Bay Area",
+    "source": "The Mercury News",
+    "place": "Coachella",
+    "time": "1 day ago",
+    "published": "2026-11-02T22:37:23.000Z",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOS2w3bUFRNGdwZUdiVnlfcF9Ea09UaVlPVDNUYzh6QWtQbkVXWTlsNjMtZmNkdUUyRk5Uc0hpVW93ZV9XcllNRjhjTXd4TFk5UGdjdDZCbVVST2tmLUpzbWJWTF9qRTAxLVNXVlFDQ0ZBTjJxckU2TWRfSE0teTBBRDJaSElKUQ?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "ABC's 'Rookie' Replacement Is Still the Best Procedural of All Time",
+    "source": "Collider",
+    "place": "Film industry",
+    "time": "31 min ago",
+    "published": "2026-11-04T00:42:12.000Z",
+    "link": "https://collider.com/9-1-1-the-rookie-replacement-best-procedural/"
+  },
+  {
+    "cat": "actor",
+    "title": "We Officially Ranked Every Star Wars Movie",
+    "source": "Collider",
+    "place": "Film industry",
+    "time": "2 hr ago",
+    "published": "2026-11-03T22:55:12.000Z",
+    "link": "https://collider.com/star-wars-movies-ranked-officially/"
+  },
+  {
+    "cat": "artist",
+    "title": "23 Best Christmas Gifts for Teens, From TikTok-Approved Finds to Pop Culture Favorites",
+    "source": "Billboard",
+    "place": "Music",
+    "time": "2 hr ago",
+    "published": "2026-11-03T23:40:42.000Z",
+    "link": "https://www.billboard.com/culture/product-recommendations/best-christmas-gifts-for-teens-2026-buy-online-viral-1236373344/"
+  },
+  {
+    "cat": "weather",
+    "title": "Green forest fire notification in South Sudan",
+    "source": "GDACS",
+    "place": "South Sudan",
+    "time": "54 min ago",
+    "published": "2026-11-04T00:19:20.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033472"
+  },
+  {
+    "cat": "festival",
+    "title": "Jack White Joins Coachella Lineup Last-Minute",
+    "source": "TicketNews",
+    "place": "Coachella",
+    "time": "1 day ago",
+    "published": "2026-11-02T21:41:56.000Z",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb3laQks1NTY2Sk05Y1lhWC1sZnF4TEs0SGJMSkN1anByNVBqYUQzZEpYcnhGdkdmQ0FGeEJ6SUJqdENITHFXbldjWmNvZnJVSEdpLVVSUGdRWmpXQUhsY1ZPU21jWEF3Y0hEbkxEeVhxa3BIWEUxaURTb0ctWUVXZA?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "‘Dune 3’ Production Designer Patrice Vermette Created a 55-Ton Spaceship for Sci-Fi Epic: It’s a ‘Major Spectacle’",
+    "source": "IMDb",
+    "place": "Dune",
+    "time": "39 min ago",
+    "published": "2026-11-04T00:33:45.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE00MHlOUWhuY1N3endoRUlRb0pOTWVzZXpGc3kwMmxheWxMZW9HZ0hXajdUdmwzVnBrZjhQaEpUUFVNdzNqdnh3NU9nZi10aE5TUzFiNXVJOW1mN2s0TEhTYWhDdXhPUQ?oc=5"
+  },
+  {
+    "cat": "actor",
+    "title": "Canada’s CBC Joins Microdrama Boom",
+    "source": "The Hollywood Reporter",
+    "place": "Film industry",
+    "time": "2 hr ago",
+    "published": "2026-11-03T22:53:15.000Z",
+    "link": "https://www.hollywoodreporter.com/business/digital/canada-cbc-microdrama-boom-1236747052/"
+  },
+  {
+    "cat": "artist",
+    "title": "The Lettermen’s Tony Butala Dies at 87",
+    "source": "Billboard",
+    "place": "Music",
+    "time": "2 hr ago",
+    "published": "2026-11-03T23:13:35.000Z",
+    "link": "https://www.billboard.com/music/music-news/tony-butala-death-lettermen-1236373500/"
+  },
+  {
+    "cat": "weather",
+    "title": "Green forest fire notification in Ethiopia, Sudan",
+    "source": "GDACS",
+    "place": "Ethiopia, Sudan",
+    "time": "54 min ago",
+    "published": "2026-11-04T00:19:07.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033471"
+  },
+  {
+    "cat": "festival",
+    "title": "TASTE Food & Drink Fest Brings a Delicious Holiday Celebration to Palm Springs on Small Business Saturday",
+    "source": "Hollywood Times",
+    "place": "Coachella",
+    "time": "1 day ago",
+    "published": "2026-11-02T18:55:32.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOGFEUEJBdnotMElIYXpVeE9jVTFyQzRBREhram05Uk5ZX3poYlYtSGZZbk9Ic29zdlQwd01PZHg1b3R6NEsxYllzU0U4NXRoOEVvUVh6bldTc3hNVXY1Z0toZW5MS0t4S01rcXdlWmdlRWpJbC0zY0tlS2d5VGRCaXF6Zkt1Tld3SkFpYTlBWC1EWTdLYXpYQW5Ta0hUMlU4Mmo3M2pmemFIUXpKZFQ2M1BFLVJqZExmMlplck9WQmg3S3ZTRWk0OW1PYw?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "‘Ramayana’ producer Malhotra likens film to ‘Avatar’, ‘LOTR’, ‘Odyssey’",
+    "source": "Indian Broadcasting World",
+    "place": "Avatar",
+    "time": "43 min ago",
+    "published": "2026-11-04T00:30:10.000Z",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GN1JzVzhGS3dhMDk0TjlJcWZKNVZsOG41MV9yXzhjSzdFYUtBclR6cC1VVFU1RktRMjdqcFplMjZaYUhWMkFZVXFNcEhIWlRSQXJydVpENHhjNEdzSWZXOFVGck9sbk5vSjRFSVk3eF8xLXlTVnFUQw?oc=5"
+  },
+  {
+    "cat": "actor",
+    "title": "Tami Roman to Star in and Executive Produce Lifetime’s Double Double Trouble 2",
+    "source": "Mezha.net",
+    "place": "Dune",
+    "time": "3 hr ago",
+    "published": "2026-11-03T22:37:35.000Z",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTTGRGUU1RWmZwUnZaSmJfa0hxeTFWaGpTTEtEazlhd0IxWEszYUFSRks0bWZ5VzFUTFowejVBSE0yNFhlN3NON3N0T3Budm9ZNTlaSGFkMDRGbmF6d2ZJazZSZk43a0RVZWdNOW9CTEJuajdONl9ETl9JdXk?oc=5"
+  },
+  {
+    "cat": "artist",
+    "title": "George Benson Feted by Wyclef Jean & More at Jazz Foundation Fundraiser: ‘Just One Way to Give Back’",
+    "source": "Billboard",
+    "place": "Music",
+    "time": "3 hr ago",
+    "published": "2026-11-03T22:34:34.000Z",
+    "link": "https://www.billboard.com/pro/george-benson-honored-wyclef-jean-jazz-foundation-event/"
+  },
+  {
+    "cat": "weather",
+    "title": "Green forest fire notification in Botswana",
+    "source": "GDACS",
+    "place": "Botswana",
+    "time": "55 min ago",
+    "published": "2026-11-04T00:17:31.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033406"
+  },
+  {
+    "cat": "festival",
+    "title": "Primavera Sound 2027: line-up by day and day tickets",
+    "source": "modofestival.es",
+    "place": "Primavera Sound",
+    "time": "1 day ago",
+    "published": "2026-11-02T18:30:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYUwySnNpQTBBSGJOZE9JMkVjaUxmUnVCQl9qMmtDTGxXNG10Qk1XOXZZNnlzamluSEQ0MjhQMjQxUzQ5NkgtVWptQUtmc1UzdHRwQVVyVzNtd3NOMVpMVFlsV21oeVg2MVEzbkRPNlNnRnc1S2hpc2VUMTZ2YjctbmtQSnRkUEg5NENKckdtbWVSNEROVmNSRVlMSGtsMHJBMjktOWVTRXdPdnIt?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "Are the Midterms About to Be a Blowout Ratings Night for Cable News?",
+    "source": "The Hollywood Reporter",
+    "place": "Film industry",
+    "time": "45 min ago",
+    "published": "2026-11-04T00:27:31.000Z",
+    "link": "https://www.hollywoodreporter.com/tv/tv-news/midterm-elections-2026-cable-news-ratings-projections-1236747211/"
+  },
+  {
+    "cat": "actor",
+    "title": "Tami Roman To Star In & EP ‘Double Double Trouble’ Sequel At Lifetime; Roger Cross To Co-Lead",
+    "source": "Deadline",
+    "place": "Film industry",
+    "time": "3 hr ago",
+    "published": "2026-11-03T22:32:27.000Z",
+    "link": "https://deadline.com/2026/11/tami-roman-lifetime-movie-double-double-trouble-2-1237212406/"
+  },
+  {
+    "cat": "artist",
+    "title": "Karol G Sweeps Latin Airplay’s Top 3 With ‘No Me Arrepiento de Sentir Tanto’ Tracks",
+    "source": "Billboard",
+    "place": "Music",
+    "time": "3 hr ago",
+    "published": "2026-11-03T22:33:48.000Z",
+    "link": "https://www.billboard.com/music/chart-beat/karol-g-latin-airplay-top-3-songs-no-me-arrepiento-album-1236373554/"
+  },
+  {
+    "cat": "weather",
+    "title": "Emergency responders and neighbors rescue residents from Animas Valley floodwaters",
+    "source": "Durango Herald",
+    "place": "Worldwide",
+    "time": "56 min ago",
+    "published": "2026-11-04T00:16:53.000Z",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNR0w0d0htSUd4NGcxZGhqUTJiZk15dGFFVVBDcmRiWjdRWHdVZGtiY2pwOEY3SzNINVZDa1lSc1Z2TjdTR1lSWjNfTUkwOXBwV1dZT3UwTDRNODk4V3p1QjNhMjE1NW5yYThVS1dPdEk3VUVuQkU2Rkx2OVBvZFo5MTRfWXJoNElrakV1RUNaVzN5VnFEcVUtV3Q3Q0I1b3I3NWd4TWZSc1FLTjZJWmNwMFFXN2YzZTR6WDRDWF9mRlZRQU9PSHc?oc=5"
+  },
+  {
+    "cat": "festival",
+    "title": "Primavera Sound Announces 2026 Buenos Aires and São Paulo Lineups",
+    "source": "TicketNews",
+    "place": "Primavera Sound",
+    "time": "1 day ago",
+    "published": "2026-11-02T17:24:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOHJYbVkzVHRjS1ExS0NnQVV1Um1FajVLckREQjRzbXhxVWotLXhURG1WTTNIYXFxVUFkcDhPNEVOZnB6emVrNHVCZzhsOGltQ2NLWmxTTjBoUWVwWE9iUWs0OG90b3NxYkxEX2hubW9uQWkxOHJ5dVUtQjJwSDJqZjZBN20yR0MxQWVaSlF5Skt0WEg1blUtV29oWFZUTlhTMFl3?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "‘Ish’ Has Resonated Widely Amid “Authoritarian Turn,” Says Its BAFTA Breakthrough Writer-Director",
+    "source": "The Hollywood Reporter",
+    "place": "Film industry",
+    "time": "1 hr ago",
+    "published": "2026-11-04T00:05:00.000Z",
+    "link": "https://www.hollywoodreporter.com/movies/movie-news/ish-film-bafta-breakthrough-uk-2026-interview-authoritarian-1236745871/"
+  },
+  {
+    "cat": "actor",
+    "title": "‘The Greatest’ Review: Jaalen Best Gives a Star-Making Performance in Amazon’s Uneven but Impressive Muhammad Ali Series",
+    "source": "The Hollywood Reporter",
+    "place": "Film industry",
+    "time": "3 hr ago",
+    "published": "2026-11-03T22:22:24.000Z",
+    "link": "https://www.hollywoodreporter.com/tv/tv-reviews/the-greatest-review-jaalen-best-amazon-muhammad-ali-1236746481/"
+  },
+  {
+    "cat": "artist",
+    "title": "HARAKIRI FOR THE SKY premiere \"Funeral Dreams\" live performance video",
+    "source": "Lambgoat",
+    "place": "Radiohead",
+    "time": "3 hr ago",
+    "published": "2026-11-03T22:32:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTDlNMUxINTFWajdkajRsaHg4ZjN6VFl2Zm5YVlJJMkc1b1ZiNjlZVFc0emJ4V0tMYUJJYUhKaDBCZHRzWUtNanNzMXI1anhkSVM0UEhBbzZndWdtSWNoQWlMbTNQVS1WRGZkdVh3SVBVOXNfYUlNQ0NiR1BtTjh1WGQtaEpmTTR3dnJRSDk0cnZuSVVSVmdVb3RHbWdOcVBhWFE?oc=5"
+  },
+  {
+    "cat": "weather",
+    "title": "Green forest fire notification in Central African Republic, Chad",
+    "source": "GDACS",
+    "place": "Central African Republic, Chad",
+    "time": "57 min ago",
+    "published": "2026-11-04T00:16:16.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033473"
+  },
+  {
+    "cat": "festival",
+    "title": "Primavera Sound Barcelona 2027 unveils its day by day schedule",
+    "source": "The Needle Drop",
+    "place": "Primavera Sound",
+    "time": "1 day ago",
+    "published": "2026-11-02T16:58:14.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxObW42VDlWTHJQajVNLVA3czNvTnBkQW9wOWtjWFlZbFVjUExBVG9ub0NMT2JFeXZQQXgwZnUwWl9LTG9CRDNjT29Kak9BNUtXVVl6VHM4UV9MODNOUGIyRFFJLTI4aFhTRDgySHktaktaOWhfOE5FLXdOMTNuTUVJRHNB?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "BAFTA Breakthrough U.K.: Ella Bruccoleri, Sophie Stone, Izuka Hoyle Among 21 Rising Creatives",
+    "source": "The Hollywood Reporter",
+    "place": "Film industry",
+    "time": "1 hr ago",
+    "published": "2026-11-04T00:01:00.000Z",
+    "link": "https://www.hollywoodreporter.com/news/general-news/2026-bafta-breakthrough-uk-ella-bruccoleri-sophie-stone-1236745982/"
+  },
+  {
+    "cat": "actor",
+    "title": "Music links past, present for Pedro Pascal's cellist in 'Behemoth!'",
+    "source": "AFP.com",
+    "place": "Pedro Pascal",
+    "time": "5 hr ago",
+    "published": "2026-11-03T20:27:10.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ub0NsU2tpUnZUX0xhZW5WcVlVYlJNMXVQSzVPTWgxQUNkeDkwUDZ0Nl85eXQzdW0xbzJub091SXJ1RWl6eGZhaVpncw?oc=5"
+  },
+  {
+    "cat": "artist",
+    "title": "Suno Says Jason Isbell Lawsuit Over Artist ‘Identities’ Must Be Dismissed: ‘Nothing Unlawful About That’",
+    "source": "Billboard",
+    "place": "Music",
+    "time": "3 hr ago",
+    "published": "2026-11-03T22:25:48.000Z",
+    "link": "https://www.billboard.com/pro/suno-responds-jason-isbell-ai-music-lawsuit/"
+  },
+  {
+    "cat": "weather",
+    "title": "Green forest fire notification in Central African Republic, Sudan",
+    "source": "GDACS",
+    "place": "Central African Republic, Sudan",
+    "time": "1 hr ago",
+    "published": "2026-11-04T00:12:32.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033468"
+  },
+  {
+    "cat": "festival",
+    "title": "Juan Atkins, Detroit techno pioneer, dies aged 64 in Mexico City",
+    "source": "modofestival.es",
+    "place": "Primavera Sound",
+    "time": "1 day ago",
+    "published": "2026-11-02T15:45:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOXNYVHVXY0EtaXFVR0JCMmQ1MGhwMVFnRUR1RTJoWFpheWZJdXcyRURXQ2ljbW5aX1NoTUVlRTZQS1c1THJQdlVHSXVwOGJHdzIyM0REUWl5ckxHVWRPSHZiTmJraWZJN2t0R1FFWDVIc3FUSU1wT0FBeFJ0WHZId1FOUm5rNXBvcXh5RzMtNFc4VkFU?oc=5"
   }
 ]
