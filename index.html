@@ -80,6 +80,7 @@ const SAMPLE=[
  {cat:"motorsport",title:"Sample: red flag after heavy crash in opening practice",source:"Autosport",place:"Motorsport",time:"5 hr ago"}
 ];
 const ALIAS={festival:"contingency",venue:"live"};
+{const t=new URLSearchParams(location.search).get("theme");if(t==="dark")document.documentElement.dataset.theme="dark"}
 const FEED_URL="feed.json", ROT=12000;
 const CATS=[["weather","Weather / Nat Cat"],["conflict","Conflict"],["security","Terror & Unrest"],["contingency","Contingency"],["film","Film & TV"],["live","Live"],["motorsport","Motorsport"]];
 const LAB=Object.fromEntries(CATS);
@@ -109,6 +110,8 @@ function show(){
 }
 function tick(){const d=new Date();document.getElementById("time").textContent=d.toLocaleTimeString([],{hour:"2-digit",minute:"2-digit"});document.getElementById("date").textContent=d.toLocaleDateString([],{weekday:"long",day:"numeric",month:"long"})}
 load();tick();setInterval(tick,10000);setInterval(load,600000);
+// Ask the browser to keep the screen awake (not every TV browser supports this).
+(function(){try{if(!("wakeLock" in navigator))return;const lock=()=>navigator.wakeLock.request("screen").catch(()=>{});lock();document.addEventListener("visibilitychange",()=>{if(document.visibilityState==="visible")lock()})}catch(e){}})();
 </script>
 </body>
 </html>
