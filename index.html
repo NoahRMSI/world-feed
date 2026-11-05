@@ -30,6 +30,7 @@ header{display:flex;justify-content:space-between;align-items:flex-end;padding:3
 .cat i{width:.7em;height:.7em;background:var(--c);border-radius:1px}
 .cat b{font-weight:500;color:var(--text);font-variant-numeric:tabular-nums}
 .cat.zero{opacity:.4}
+.cap{font-size:clamp(11px,1.2vw,20px);color:var(--muted);padding-right:1.2vw;border-right:1px solid var(--line)}
 main{flex:1;display:grid;grid-template-columns:1.6fr 1fr;gap:3vw;padding:3vh 3.2vw 3.5vh;min-height:0}
 .lead{position:relative;display:flex;flex-direction:column;justify-content:center;padding:0 0 4vh 3vw;border-left:.7vw solid var(--c,var(--weather));transition:opacity .5s}
 .lead.fade{opacity:0}
@@ -90,11 +91,11 @@ async function load(){
   draw();
 }
 function draw(){
-  document.getElementById("cats").innerHTML=CATS.map(([k,n])=>{const c=items.filter(i=>i.cat===k).length;return `<span class="cat${c?"":" zero"}" style="--c:${col(k)}"><i></i>${n} <b>${c}</b></span>`}).join("");
+  document.getElementById("cats").innerHTML='<span class="cap">Last 24 hours</span>'+CATS.map(([k,n])=>{const day=Date.now()-864e5,c=items.filter(i=>i.cat===k&&(!i.published||new Date(i.published)>day)).length;return `<span class="cat${c?"":" zero"}" style="--c:${col(k)}"><i></i>${n} <b>${c}</b></span>`}).join("");
   const row=i=>`<div class="row" style="--c:${col(i.cat)}"><div class="bar"></div><div><div class="k">${LAB[i.cat]||""}</div><p>${esc(i.title)}</p><small>${esc(i.source)}&nbsp;&nbsp;${esc(i.time)}</small></div></div>`;
   const h=items.map(row).join(""),t=document.getElementById("track");
   t.innerHTML=h+h;t.style.setProperty("--dur",Math.max(40,items.length*9)+"s");
-  clearInterval(timer);idx=0;show();timer=setInterval(show,ROT);
+  if(!timer){show();timer=setInterval(show,ROT)}
 }
 function show(){
   const f=document.getElementById("lead"),i=items[idx%items.length],n=items.length;

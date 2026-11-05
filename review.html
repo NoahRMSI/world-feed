@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>RMSI News Feed: filtered out</title>
+<style>
+:root{--bg:#0e1a2b;--text:#eef2f7;--muted:#93a3ba;--line:#26385a;--accent:#5eb0ff;color-scheme:dark}
+@media (prefers-color-scheme:light){:root{--bg:#f3f5f9;--text:#14202f;--muted:#5a6a82;--line:#d6dde8;--accent:#1f7ae0;color-scheme:light}}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.4 "IBM Plex Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;padding:24px;max-width:900px;margin-inline:auto}
+h1{margin:0 0 6px;font-size:24px}
+p{color:var(--muted);margin:0 0 16px}
+.tools{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:12px}
+button,input{font:inherit;color:var(--text);background:transparent;border:1px solid var(--line);border-radius:6px;padding:6px 12px}
+button.on{border-color:var(--accent);color:var(--accent)}
+input{flex:1;min-width:160px}
+ul{list-style:none;padding:0;margin:0}
+li{padding:10px 0;border-bottom:1px solid var(--line)}
+a{color:var(--text);text-decoration:none}a:hover{text-decoration:underline}
+small{display:block;color:var(--muted)}
+</style>
+</head>
+<body>
+<h1>Filtered out in the last 24 hours</h1>
+<p>Stories the feed saw but didn’t show. If something here should have appeared, add a keyword to config.json.</p>
+<div class="tools">
+  <button data-r="" class="on">All</button>
+  <button data-r="no keyword match">No keyword match</button>
+  <button data-r="blocked word">Blocked word</button>
+  <input id="q" placeholder="Search headlines" aria-label="Search headlines">
+</div>
+<ul id="list"></ul>
+<script>
+let data=[],reason="",q="";
+const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const ago=iso=>{const m=Math.max(1,Math.round((Date.now()-new Date(iso))/60000));return m<60?m+" min ago":Math.round(m/60)+" hr ago"};
+function draw(){
+  const rows=data.filter(d=>(!reason||d.reason===reason)&&d.title.toLowerCase().includes(q));
+  document.getElementById("list").innerHTML=rows.length?rows.map(d=>{
+    const t=/^https?:\/\//.test(d.link||"")?`<a href="${esc(d.link)}" target="_blank" rel="noopener">${esc(d.title)}</a>`:esc(d.title);
+    return `<li>${t}<small>${esc(d.source)}&nbsp;&nbsp;${ago(d.published)}&nbsp;&nbsp;${esc(d.reason)}</small></li>`}).join(""):"<li>Nothing to show.</li>";
+}
+document.querySelectorAll("button").forEach(b=>b.onclick=()=>{document.querySelectorAll("button").forEach(x=>x.classList.remove("on"));b.classList.add("on");reason=b.dataset.r;draw()});
+document.getElementById("q").oninput=e=>{q=e.target.value.toLowerCase();draw()};
+fetch("review.json",{cache:"no-store"}).then(r=>r.json()).then(d=>{data=d;draw()}).catch(()=>{document.getElementById("list").innerHTML="<li>No review data yet. Run the Update feed workflow first.</li>"});
+</script>
+</body>
+</html>

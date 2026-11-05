@@ -1,8 +1,8 @@
 {
   "maxAgeHours": 72,
   "weatherMaxAgeHours": 240,
-  "perCategoryMax": 10,
-  "totalMax": 80,
+  "perCategoryMax": 150,
+  "totalMax": 600,
   "gdacs": {
     "types": [
       "TC",
