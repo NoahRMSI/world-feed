@@ -1,25 +1,440 @@
 {
   "maxAgeHours": 72,
   "weatherMaxAgeHours": 240,
-  "perCategoryMax": 12,
-  "totalMax": 60,
-  "gdacsMinAlert": "Green",
-  "watch": {
-    "artists": ["Radiohead", "Dua Lipa", "Fontaines D.C."],
-    "actors": ["Cillian Murphy", "Florence Pugh", "Pedro Pascal"],
-    "festivals": ["Glastonbury", "Coachella", "Primavera Sound"],
-    "films": ["Dune", "Avatar", "Star Wars"]
+  "perCategoryMax": 10,
+  "totalMax": 80,
+  "gdacs": {
+    "types": [
+      "TC",
+      "FL",
+      "WF",
+      "VO",
+      "DR",
+      "EQ"
+    ],
+    "minAlert": "Green",
+    "minAlertByType": {
+      "EQ": "Orange"
+    }
   },
-  "weatherQueries": ["wildfire evacuation", "flooding emergency", "tropical cyclone landfall"],
-  "filmProductionQueries": ["film production begins filming", "principal photography begins"],
+  "keywords": {
+    "risk": [
+      "cancel*",
+      "postpone*",
+      "evacuat*",
+      "collaps*",
+      "fire",
+      "fires",
+      "blaze",
+      "crush",
+      "stampede",
+      "injur*",
+      "death",
+      "deaths",
+      "died",
+      "killed",
+      "fatal*",
+      "accident*",
+      "crash*",
+      "safety",
+      "security",
+      "terror*",
+      "shooting",
+      "stabbing",
+      "bomb*",
+      "threat*",
+      "banned",
+      "licence",
+      "license",
+      "insolven*",
+      "administration",
+      "closure",
+      "closes",
+      "shut*",
+      "halt*",
+      "paus*",
+      "suspend*",
+      "delay*",
+      "strike",
+      "strikes",
+      "walkout",
+      "storm*",
+      "flood*",
+      "heatwave",
+      "mud",
+      "overdose*",
+      "drug*",
+      "unrest",
+      "riot*",
+      "protest*",
+      "fined",
+      "sanction*"
+    ],
+    "film": [
+      "guild",
+      "union",
+      "SAG-AFTRA",
+      "WGA",
+      "Equity",
+      "stunt*",
+      "on set",
+      "film set",
+      "crew",
+      "permit*",
+      "lockdown",
+      "principal photography",
+      "production resumes",
+      "relocat*"
+    ],
+    "motorsport": [
+      "red flag",
+      "marshal*",
+      "hospital",
+      "barrier*",
+      "grandstand*",
+      "spectator*",
+      "medical"
+    ],
+    "conflict": [
+      "war",
+      "wars",
+      "invasion",
+      "invade*",
+      "offensive",
+      "airstrike*",
+      "air strike*",
+      "missile*",
+      "drone strike*",
+      "drone attack*",
+      "shelling",
+      "shelled",
+      "troops",
+      "ceasefire",
+      "cease-fire",
+      "hostage*",
+      "coup",
+      "martial law",
+      "state of emergency",
+      "curfew",
+      "attack*",
+      "militia*",
+      "insurgen*",
+      "rebels",
+      "blockade",
+      "warship*",
+      "sanction*",
+      "escalat*"
+    ],
+    "security": [
+      "terror*",
+      "extremis*",
+      "jihad*",
+      "bombing",
+      "suicide bomb*",
+      "car bomb*",
+      "gunman",
+      "gunmen",
+      "mass shooting",
+      "shooting",
+      "stabbing",
+      "knife attack",
+      "riot*",
+      "civil unrest",
+      "unrest",
+      "looting",
+      "violent protest*",
+      "tear gas",
+      "kidnap*",
+      "assassinat*",
+      "political violence",
+      "explosion",
+      "blast"
+    ]
+  },
+  "exclude": [
+    "halloween",
+    "outfit*",
+    "red carpet",
+    "dating",
+    "engaged",
+    "engagement",
+    "pregnan*",
+    "baby bump",
+    "feud*",
+    "net worth",
+    "ranked",
+    "greatest",
+    "top 10",
+    "trailer*",
+    "teaser*",
+    "box office",
+    "fashion*",
+    "wedding*",
+    "married",
+    "divorce*",
+    "costume*",
+    "girlfriend",
+    "boyfriend",
+    "gossip",
+    "rumou*"
+  ],
   "feeds": [
-    { "name": "Deadline", "url": "https://deadline.com/feed/", "cat": "film", "place": "Film industry" },
-    { "name": "Variety", "url": "https://variety.com/feed/", "cat": "film", "place": "Film industry" },
-    { "name": "The Hollywood Reporter", "url": "https://www.hollywoodreporter.com/feed/", "cat": "film", "place": "Film industry" },
-    { "name": "Collider", "url": "https://collider.com/feed/", "cat": "film", "place": "Film industry" },
-    { "name": "NME", "url": "https://www.nme.com/feed", "cat": "music", "place": "Music" },
-    { "name": "The Guardian", "url": "https://www.theguardian.com/music/rss", "cat": "music", "place": "Music" },
-    { "name": "Pitchfork", "url": "https://pitchfork.com/feed/feed-news/rss", "cat": "music", "place": "Music" },
-    { "name": "Billboard", "url": "https://www.billboard.com/feed/", "cat": "music", "place": "Music" }
+    {
+      "name": "BBC World",
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "cat": "geo",
+      "place": "World"
+    },
+    {
+      "name": "Al Jazeera",
+      "url": "https://www.aljazeera.com/xml/rss/all.xml",
+      "cat": "geo",
+      "place": "World"
+    },
+    {
+      "name": "The Guardian",
+      "url": "https://www.theguardian.com/world/rss",
+      "cat": "geo",
+      "place": "World"
+    },
+    {
+      "name": "UN News",
+      "url": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+      "cat": "geo",
+      "place": "World"
+    },
+    {
+      "name": "Deadline",
+      "url": "https://deadline.com/feed/",
+      "cat": "film",
+      "keywords": [
+        "risk",
+        "film"
+      ],
+      "place": "Film & TV"
+    },
+    {
+      "name": "Variety",
+      "url": "https://variety.com/feed/",
+      "cat": "film",
+      "keywords": [
+        "risk",
+        "film"
+      ],
+      "place": "Film & TV"
+    },
+    {
+      "name": "The Hollywood Reporter",
+      "url": "https://www.hollywoodreporter.com/feed/",
+      "cat": "film",
+      "keywords": [
+        "risk",
+        "film"
+      ],
+      "place": "Film & TV"
+    },
+    {
+      "name": "IQ Magazine",
+      "url": "https://www.iq-mag.net/feed/",
+      "cat": "live",
+      "keywords": [
+        "risk"
+      ],
+      "place": "Live music"
+    },
+    {
+      "name": "Festival Insights",
+      "url": "https://www.festivalinsights.com/feed/",
+      "cat": "live",
+      "keywords": [
+        "risk"
+      ],
+      "place": "Live music"
+    },
+    {
+      "name": "Access All Areas",
+      "url": "https://www.accessaa.co.uk/feed/",
+      "cat": "live",
+      "keywords": [
+        "risk"
+      ],
+      "place": "Live music"
+    },
+    {
+      "name": "Billboard",
+      "url": "https://www.billboard.com/feed/",
+      "cat": "live",
+      "keywords": [
+        "risk"
+      ],
+      "place": "Live music"
+    },
+    {
+      "name": "Autosport",
+      "url": "https://www.autosport.com/rss/feed/all",
+      "cat": "motorsport",
+      "keywords": [
+        "risk",
+        "motorsport"
+      ],
+      "place": "Motorsport"
+    },
+    {
+      "name": "Motorsport.com",
+      "url": "https://www.motorsport.com/rss/all/news/",
+      "cat": "motorsport",
+      "keywords": [
+        "risk",
+        "motorsport"
+      ],
+      "place": "Motorsport"
+    },
+    {
+      "name": "RaceFans",
+      "url": "https://www.racefans.net/feed/",
+      "cat": "motorsport",
+      "keywords": [
+        "risk",
+        "motorsport"
+      ],
+      "place": "Motorsport"
+    }
+  ],
+  "searches": [
+    {
+      "cat": "weather",
+      "place": "Worldwide",
+      "when": "3d",
+      "queries": [
+        "wildfire evacuation",
+        "flooding emergency",
+        "tropical cyclone landfall",
+        "severe storm warning",
+        "earthquake damage"
+      ]
+    },
+    {
+      "cat": "conflict",
+      "place": "World",
+      "when": "2d",
+      "queries": [
+        "war escalation",
+        "missile strike",
+        "ceasefire talks",
+        "shipping attack Red Sea"
+      ]
+    },
+    {
+      "cat": "security",
+      "place": "World",
+      "when": "2d",
+      "queries": [
+        "terror attack",
+        "terrorism arrests",
+        "riot OR civil unrest",
+        "violent protests",
+        "general strike"
+      ]
+    },
+    {
+      "cat": "contingency",
+      "place": "Events",
+      "when": "3d",
+      "queries": [
+        "concert cancelled",
+        "event postponed",
+        "tour postponed",
+        "cancels due to illness",
+        "event cancellation insurance"
+      ]
+    },
+    {
+      "cat": "film",
+      "place": "Film & TV",
+      "when": "7d",
+      "queries": [
+        "film production halted",
+        "film set accident",
+        "production shut down filming",
+        "filming suspended",
+        "film television production strike"
+      ]
+    },
+    {
+      "cat": "contingency",
+      "place": "Festivals",
+      "when": "7d",
+      "queries": [
+        "festival cancelled",
+        "festival evacuated",
+        "festival licence refused",
+        "festival insolvency"
+      ]
+    },
+    {
+      "cat": "live",
+      "place": "Live",
+      "when": "7d",
+      "queries": [
+        "music venue closure",
+        "venue fire",
+        "nightclub fire",
+        "crowd crush",
+        "venue evacuated",
+        "venue licence revoked"
+      ]
+    },
+    {
+      "cat": "motorsport",
+      "place": "Motorsport",
+      "when": "7d",
+      "queries": [
+        "race cancelled",
+        "grand prix postponed",
+        "motorsport crash fatal",
+        "circuit safety red flag",
+        "circuit closure"
+      ]
+    }
+  ],
+  "watch": [
+    {
+      "cat": "conflict",
+      "when": "2d",
+      "template": "\"{name}\" (attack OR strike OR ceasefire OR shelling OR clashes)",
+      "names": [
+        "Ukraine",
+        "Gaza",
+        "Red Sea",
+        "Sudan",
+        "Taiwan Strait",
+        "Iran"
+      ]
+    },
+    {
+      "cat": "contingency",
+      "when": "7d",
+      "template": "\"{name}\" (cancelled OR postponed OR safety OR weather OR evacuated)",
+      "names": [
+        "Glastonbury",
+        "Coachella",
+        "Primavera Sound",
+        "Tomorrowland",
+        "Reading Festival",
+        "Burning Man"
+      ]
+    },
+    {
+      "cat": "motorsport",
+      "when": "7d",
+      "template": "\"{name}\" (cancelled OR postponed OR crash OR safety OR red flag)",
+      "names": [
+        "Formula 1",
+        "MotoGP",
+        "Isle of Man TT",
+        "Dakar Rally",
+        "Le Mans"
+      ]
+    }
   ]
 }

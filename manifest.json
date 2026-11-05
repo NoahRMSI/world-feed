@@ -1,5 +1,5 @@
 {
-  "name": "World Feed Ticker",
+  "name": "RMSI News Feed Ticker",
   "short_name": "Ticker",
   "start_url": "./ticker.html",
   "scope": "./",

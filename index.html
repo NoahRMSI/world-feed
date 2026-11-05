@@ -3,93 +3,111 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>World Feed</title>
+<title>RMSI News Feed</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@500;600;700&family=IBM+Plex+Sans:wght@400;500&display=swap" rel="stylesheet">
 <style>
-:root{--bg:#0e1116;--panel:#171c24;--text:#f2f4f7;--muted:#9aa4b2;--weather:#ff6b4a;--festival:#f5b83d;--artist:#4cc9a0;--actor:#6aa7ff;--film:#c77dff;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);color-scheme:dark}
-@media (prefers-color-scheme:light){:root:not([data-theme="dark"]){--bg:#f4f5f7;--panel:#fff;--text:#14181f;--muted:#5b6574;color-scheme:light}}
-:root[data-theme="dark"]{--bg:#0e1116;--panel:#171c24;--text:#f2f4f7;--muted:#9aa4b2}
+:root{--bg:#0e1a2b;--surface:#14233a;--text:#eef2f7;--muted:#93a3ba;--line:#26385a;
+--weather:#5eb0ff;--conflict:#ff6b6b;--security:#ffa94d;--contingency:#ffd166;--film:#c9a0ff;--live:#3dd6e0;--motorsport:#ff8fc7;
+--head:"IBM Plex Sans Condensed","Arial Narrow","Roboto Condensed",system-ui,sans-serif;
+--body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px);color-scheme:dark}
+@media (prefers-color-scheme:light){:root:not([data-theme="dark"]){--bg:#f3f5f9;--surface:#fff;--text:#14202f;--muted:#5a6a82;--line:#d6dde8;--weather:#1f7ae0;--conflict:#d6333a;--security:#c2640a;--contingency:#a87a00;--film:#7b3fd1;--live:#0b8a96;--motorsport:#c7367f;color-scheme:light}}
+:root[data-theme="dark"]{--bg:#0e1a2b;--surface:#14233a;--text:#eef2f7;--muted:#93a3ba;--line:#26385a}
 *{box-sizing:border-box}
 html,body{height:100%;margin:0}
-body{background:var(--bg);color:var(--text);font-family:system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;display:flex;flex-direction:column;overflow:hidden}
-header{display:flex;align-items:center;justify-content:space-between;padding:2vh 3vw;gap:2vw}
-h1{font-size:clamp(18px,2.6vw,40px);margin:0;letter-spacing:.02em}
-.key{display:flex;gap:1.5vw;font-size:clamp(12px,1.5vw,24px);color:var(--muted)}
-.key i{display:inline-block;width:.8em;height:.8em;border-radius:50%;margin-right:.4em}
-#clock{font-size:clamp(18px,2.6vw,40px);font-variant-numeric:tabular-nums}
-main{flex:1;display:grid;grid-template-columns:1.5fr 1fr;gap:2vw;padding:0 3vw 3vh;min-height:0}
-.featured{background:var(--panel);border-radius:20px;padding:4vw;display:flex;flex-direction:column;justify-content:center;border-left:.8vw solid var(--c,var(--weather));transition:opacity .6s}
-.featured.fade{opacity:0}
-.tag{font-size:clamp(14px,1.8vw,30px);font-weight:700;text-transform:uppercase;letter-spacing:.12em;color:var(--c)}
-.featured h2{font-size:clamp(26px,4.2vw,72px);line-height:1.15;margin:2vh 0}
-.meta{font-size:clamp(14px,1.8vw,30px);color:var(--muted)}
-.roll{overflow:hidden;border-radius:20px;position:relative;mask-image:linear-gradient(transparent,#000 8%,#000 92%,transparent);-webkit-mask-image:linear-gradient(transparent,#000 8%,#000 92%,transparent)}
+body{background:var(--bg);color:var(--text);font-family:var(--body);display:flex;flex-direction:column;overflow:hidden}
+header{display:flex;justify-content:space-between;align-items:flex-end;padding:3vh 3.2vw 1.8vh}
+.brand h1{font:700 clamp(22px,3vw,48px)/1 var(--head);margin:0;letter-spacing:.01em}
+.brand p{margin:.7vh 0 0;color:var(--muted);font-size:clamp(12px,1.3vw,22px)}
+.clock{text-align:right}
+.clock b{display:block;font:600 clamp(24px,3.4vw,56px)/1 var(--head);font-variant-numeric:tabular-nums}
+.clock span{color:var(--muted);font-size:clamp(12px,1.3vw,22px)}
+.live{display:inline-block;width:.55em;height:.55em;border-radius:50%;background:#4ade80;margin-right:.5em;animation:pulse 2.4s ease-in-out infinite}
+@keyframes pulse{50%{opacity:.25}}
+.cats{display:flex;flex-wrap:wrap;gap:.8vh 2.2vw;padding:0 3.2vw 2vh;margin:0 3.2vw;padding-left:0;padding-right:0;border-bottom:1px solid var(--line)}
+.cat{display:flex;align-items:center;gap:.55em;font-size:clamp(11px,1.2vw,20px);color:var(--muted)}
+.cat i{width:.7em;height:.7em;background:var(--c);border-radius:1px}
+.cat b{font-weight:500;color:var(--text);font-variant-numeric:tabular-nums}
+.cat.zero{opacity:.4}
+main{flex:1;display:grid;grid-template-columns:1.6fr 1fr;gap:3vw;padding:3vh 3.2vw 3.5vh;min-height:0}
+.lead{position:relative;display:flex;flex-direction:column;justify-content:center;padding:0 0 4vh 3vw;border-left:.7vw solid var(--c,var(--weather));transition:opacity .5s}
+.lead.fade{opacity:0}
+.kind{font:600 clamp(16px,2vw,34px)/1 var(--head);color:var(--c)}
+.lead h2{font:600 clamp(30px,4.8vw,84px)/1.08 var(--head);margin:2.4vh 0 3vh;text-wrap:balance}
+.meta{display:flex;gap:2vw;flex-wrap:wrap;color:var(--muted);font-size:clamp(14px,1.7vw,28px)}
+.meta strong{color:var(--text);font-weight:500}
+.prog{position:absolute;left:3vw;right:0;bottom:0;height:3px;background:var(--line)}
+.prog i{display:block;height:100%;width:0;background:var(--c)}
+.prog i.run{animation:fill var(--rot,12s) linear forwards}
+@keyframes fill{to{width:100%}}
+.pos{position:absolute;right:0;bottom:1.4vh;color:var(--muted);font-size:clamp(11px,1.2vw,20px);font-variant-numeric:tabular-nums}
+.side{display:flex;flex-direction:column;min-height:0}
+.side h3{font:600 clamp(14px,1.5vw,24px)/1 var(--head);color:var(--muted);margin:0 0 1.2vh;letter-spacing:.04em}
+.roll{flex:1;overflow:hidden;mask-image:linear-gradient(transparent,#000 6%,#000 94%,transparent);-webkit-mask-image:linear-gradient(transparent,#000 6%,#000 94%,transparent)}
 .track{animation:roll var(--dur,120s) linear infinite}
 @keyframes roll{to{transform:translateY(-50%)}}
-.card{background:var(--panel);border-radius:14px;padding:1.6vw;margin-bottom:1.2vw;border-left:.4vw solid var(--c)}
-.card b{display:block;font-size:clamp(11px,1.2vw,20px);letter-spacing:.1em;text-transform:uppercase;color:var(--c);margin-bottom:.5vh}
-.card p{margin:0;font-size:clamp(15px,1.9vw,32px);line-height:1.25}
-.card small{color:var(--muted);font-size:clamp(12px,1.3vw,22px)}
-@media (max-width:800px){main{grid-template-columns:1fr}.roll{display:none}}
-@media (prefers-reduced-motion:reduce){.track{animation:none}}
+.row{display:grid;grid-template-columns:.45vw 1fr;gap:1.2vw;padding:1.5vh 0;border-bottom:1px solid var(--line)}
+.row .bar{background:var(--c);border-radius:1px}
+.row .k{font:600 clamp(11px,1.15vw,19px)/1 var(--head);color:var(--c);margin-bottom:.7vh}
+.row p{margin:0;font:500 clamp(15px,1.8vw,30px)/1.22 var(--head)}
+.row small{display:block;margin-top:.7vh;color:var(--muted);font-size:clamp(11px,1.2vw,20px)}
+@media (max-width:800px){main{grid-template-columns:1fr}.side{display:none}}
+@media (prefers-reduced-motion:reduce){.track,.live{animation:none}.prog i.run{animation-duration:.01s}}
 </style>
 </head>
 <body>
 <header>
-  <h1>World Feed</h1>
-  <div class="key">
-    <span><i style="background:var(--weather)"></i>Weather</span>
-    <span><i style="background:var(--festival)"></i>Festivals</span>
-    <span><i style="background:var(--artist)"></i>Artists</span>
-    <span><i style="background:var(--actor)"></i>Actors</span>
-    <span><i style="background:var(--film)"></i>Film</span>
-  </div>
-  <div id="clock"></div>
+  <div class="brand"><h1>RMSI News Feed</h1><p>Live risk monitor</p></div>
+  <div class="clock"><b id="time"></b><span><i class="live"></i><span id="date"></span></span></div>
 </header>
+<div class="cats" id="cats"></div>
 <main>
-  <section class="featured" id="feat"></section>
-  <section class="roll"><div class="track" id="track"></div></section>
+  <section class="lead" id="lead"></section>
+  <section class="side"><h3>Latest</h3><div class="roll"><div class="track" id="track"></div></div></section>
 </main>
 <script>
-// Sample data. Replace by serving a feed.json next to this page (see FEED_URL).
+// Sample headlines, replaced automatically when feed.json is available.
 const SAMPLE=[
- {cat:"weather",title:"Wildfire evacuations ordered as strong winds fan flames",source:"GDACS",place:"Southern Europe",time:"20 min ago"},
- {cat:"festival",title:"Headliners announced for next summer’s biggest outdoor festival",source:"IQ Magazine",place:"UK",time:"1 hr ago"},
- {cat:"artist",title:"Surprise new album drops with no prior announcement",source:"NME",place:"Global",time:"2 hr ago"},
- {cat:"weather",title:"Flash flooding closes roads and rail lines after record rainfall",source:"ReliefWeb",place:"South Asia",time:"2 hr ago"},
- {cat:"artist",title:"World tour dates revealed, with first shows on sale Friday",source:"Billboard",place:"Global",time:"3 hr ago"},
- {cat:"weather",title:"Tropical cyclone strengthens as it approaches the coast",source:"NASA EONET",place:"Pacific",time:"4 hr ago"},
- {cat:"festival",title:"Festival cancels final day because of severe weather warnings",source:"Music Week",place:"Europe",time:"5 hr ago"},
- {cat:"actor",title:"Award-winning actor joins cast of upcoming period drama",source:"Deadline",place:"London",time:"1 hr ago"},
- {cat:"film",title:"Production begins on long-awaited sequel with principal photography under way",source:"Variety",place:"Los Angeles",time:"3 hr ago"},
- {cat:"film",title:"Studio sets release date for new sci-fi feature after wrap",source:"The Hollywood Reporter",place:"Global",time:"6 hr ago"},
- {cat:"actor",title:"Casting announced for lead role in new streaming series",source:"Screen Daily",place:"UK",time:"7 hr ago"}
+ {cat:"weather",title:"Sample: wildfire evacuations ordered as strong winds fan flames",source:"GDACS",place:"Southern Europe",time:"20 min ago"},
+ {cat:"conflict",title:"Sample: missile strike reported near port as ceasefire talks stall",source:"BBC World",place:"World",time:"35 min ago"},
+ {cat:"security",title:"Sample: police investigate explosion at city centre market",source:"Al Jazeera",place:"World",time:"1 hr ago"},
+ {cat:"contingency",title:"Sample: arena tour postponed after headline act cancels due to illness",source:"Google News",place:"Events",time:"1 hr ago"},
+ {cat:"film",title:"Sample: production halted on streaming series after stunt injury",source:"Deadline",place:"Film & TV",time:"2 hr ago"},
+ {cat:"contingency",title:"Sample: festival cancelled after severe storm warning",source:"IQ Magazine",place:"Live music",time:"3 hr ago"},
+ {cat:"live",title:"Sample: nightclub licence revoked following crowd crush",source:"Access All Areas",place:"Live music",time:"4 hr ago"},
+ {cat:"motorsport",title:"Sample: red flag after heavy crash in opening practice",source:"Autosport",place:"Motorsport",time:"5 hr ago"}
 ];
-const FEED_URL="feed.json";
-const COL={weather:"var(--weather)",festival:"var(--festival)",artist:"var(--artist)",actor:"var(--actor)",film:"var(--film)"};
-const LAB={weather:"Weather event",festival:"Festival",artist:"Artist",actor:"Actor",film:"Film production"};
+const ALIAS={festival:"contingency",venue:"live"};
+const FEED_URL="feed.json", ROT=12000;
+const CATS=[["weather","Weather / Nat Cat"],["conflict","Conflict"],["security","Terror & Unrest"],["contingency","Contingency"],["film","Film & TV"],["live","Live"],["motorsport","Motorsport"]];
+const LAB=Object.fromEntries(CATS);
+const col=k=>LAB[k]?`var(--${k})`:"var(--weather)";
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-let items=SAMPLE,idx=0;
+let items=SAMPLE,idx=0,timer;
 async function load(){
-  try{const r=await fetch(FEED_URL,{cache:"no-store"});if(!r.ok)throw 0;const d=await r.json();if(Array.isArray(d)&&d.length)items=d}catch(e){}
-  buildRoll();
+  try{const r=await fetch(FEED_URL,{cache:"no-store"});if(!r.ok)throw 0;const d=await r.json();if(Array.isArray(d)&&d.length)items=d.map(i=>({...i,cat:ALIAS[i.cat]||i.cat}))}catch(e){}
+  draw();
 }
-function card(i){return `<div class="card" style="--c:${COL[i.cat]||COL.weather}"><b>${LAB[i.cat]||""}</b><p>${esc(i.title)}</p><small>${esc(i.source)} · ${esc(i.place)} · ${esc(i.time)}</small></div>`}
-function buildRoll(){
-  const t=document.getElementById("track"),h=items.map(card).join("");
-  t.innerHTML=h+h;
-  t.style.setProperty("--dur",Math.max(40,items.length*10)+"s");
+function draw(){
+  document.getElementById("cats").innerHTML=CATS.map(([k,n])=>{const c=items.filter(i=>i.cat===k).length;return `<span class="cat${c?"":" zero"}" style="--c:${col(k)}"><i></i>${n} <b>${c}</b></span>`}).join("");
+  const row=i=>`<div class="row" style="--c:${col(i.cat)}"><div class="bar"></div><div><div class="k">${LAB[i.cat]||""}</div><p>${esc(i.title)}</p><small>${esc(i.source)}&nbsp;&nbsp;${esc(i.time)}</small></div></div>`;
+  const h=items.map(row).join(""),t=document.getElementById("track");
+  t.innerHTML=h+h;t.style.setProperty("--dur",Math.max(40,items.length*9)+"s");
+  clearInterval(timer);idx=0;show();timer=setInterval(show,ROT);
 }
 function show(){
-  const f=document.getElementById("feat"),i=items[idx%items.length];
+  const f=document.getElementById("lead"),i=items[idx%items.length],n=items.length;
   f.classList.add("fade");
   setTimeout(()=>{
-    f.style.setProperty("--c",COL[i.cat]||COL.weather);
-    f.innerHTML=`<div class="tag">${LAB[i.cat]||""}</div><h2>${esc(i.title)}</h2><div class="meta">${esc(i.source)} · ${esc(i.place)} · ${esc(i.time)}</div>`;
+    f.style.setProperty("--c",col(i.cat));f.style.setProperty("--rot",ROT/1000+"s");
+    f.innerHTML=`<div class="kind">${LAB[i.cat]||""}</div><h2>${esc(i.title)}</h2><div class="meta"><strong>${esc(i.source)}</strong><span>${esc(i.place)}</span><span>${esc(i.time)}</span></div><div class="pos">${idx%n+1} of ${n}</div><div class="prog"><i></i></div>`;
+    const p=f.querySelector(".prog i");void p.offsetWidth;p.classList.add("run");
     f.classList.remove("fade");idx++;
-  },600);
+  },500);
 }
-function tick(){document.getElementById("clock").textContent=new Date().toLocaleTimeString([], {hour:"2-digit",minute:"2-digit"})}
-load();show();setInterval(show,10000);tick();setInterval(tick,10000);setInterval(load,600000);
+function tick(){const d=new Date();document.getElementById("time").textContent=d.toLocaleTimeString([],{hour:"2-digit",minute:"2-digit"});document.getElementById("date").textContent=d.toLocaleDateString([],{weekday:"long",day:"numeric",month:"long"})}
+load();tick();setInterval(tick,10000);setInterval(load,600000);
 </script>
 </body>
 </html>

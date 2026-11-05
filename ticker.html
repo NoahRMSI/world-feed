@@ -3,20 +3,19 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>World Feed Ticker</title>
+<title>RMSI News Feed Ticker</title>
 <link rel="manifest" href="manifest.json">
 <meta name="theme-color" content="#0e1116">
 <style>
-:root{--bg:#0e1116;--text:#f2f4f7;--muted:#9aa4b2;--weather:#ff6b4a;--festival:#f5b83d;--artist:#4cc9a0;--actor:#6aa7ff;--film:#c77dff;color-scheme:dark}
+:root{--bg:#0e1a2b;--text:#f2f4f7;--muted:#9aa4b2;--weather:#5eb0ff;--conflict:#ff6b6b;--security:#ffa94d;--contingency:#ffd166;--film:#c9a0ff;--live:#3dd6e0;--motorsport:#ff8fc7;color-scheme:dark}
 @media (prefers-color-scheme:light){:root{--bg:#f4f5f7;--text:#14181f;--muted:#5b6574;color-scheme:light}}
 html,body{margin:0;height:100%;overflow:hidden;background:var(--bg)}
 .bar{height:100%;min-height:28px;display:flex;align-items:center;overflow:hidden}
 .track{display:flex;white-space:nowrap;animation:scroll var(--dur,120s) linear infinite;will-change:transform}
 .bar:hover .track{animation-play-state:paused}
 @keyframes scroll{to{transform:translateX(-50%)}}
-.item{display:inline-flex;align-items:center;gap:.55em;padding:0 1.6em;font:14px/1 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:var(--text);text-decoration:none}
-.item i{width:.55em;height:.55em;border-radius:50%;background:var(--c)}
-.item b{font-size:.75em;letter-spacing:.08em;text-transform:uppercase;color:var(--c)}
+.item{display:inline-flex;align-items:center;gap:.55em;padding:0 1.8em;font:500 14px/1 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;color:var(--text);text-decoration:none}
+.item b{font-size:.72em;font-weight:600;padding:.3em .6em;border-radius:3px;color:var(--c);background:color-mix(in srgb,var(--c) 16%,transparent)}
 .item small{color:var(--muted);font-size:.85em}
 a.item:hover span{text-decoration:underline}
 .grip{display:none}
@@ -32,16 +31,18 @@ a.item:hover span{text-decoration:underline}
 <script>
 const SAMPLE=[
  {cat:"weather",title:"Sample: wildfire evacuations ordered as winds strengthen",source:"GDACS",place:"Southern Europe"},
- {cat:"film",title:"Sample: production begins on long-awaited sequel",source:"Variety",place:"Film industry"},
- {cat:"artist",title:"Sample: surprise album drops with no prior announcement",source:"NME",place:"Music"}
+ {cat:"conflict",title:"Sample: missile strike reported near port as ceasefire talks stall",source:"BBC World",place:"World"},
+ {cat:"film",title:"Sample: production halted on series after stunt injury",source:"Deadline",place:"Film & TV"},
+ {cat:"contingency",title:"Sample: festival cancelled after storm warning",source:"IQ Magazine",place:"Live music"}
 ];
-const COL={weather:"var(--weather)",festival:"var(--festival)",artist:"var(--artist)",actor:"var(--actor)",film:"var(--film)"};
-const LAB={weather:"Weather",festival:"Festival",artist:"Artist",actor:"Actor",film:"Film"};
+const COL={weather:"var(--weather)",conflict:"var(--conflict)",security:"var(--security)",contingency:"var(--contingency)",film:"var(--film)",live:"var(--live)",motorsport:"var(--motorsport)"};
+const LAB={weather:"Nat Cat",conflict:"Conflict",security:"Unrest",contingency:"Contingency",film:"Film/TV",live:"Live",motorsport:"Motor"};
+const ALIAS={festival:"contingency",venue:"live"};
 const SPEED=70; // pixels per second
 const esc=s=>String(s??"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 function item(i){
   const url=/^https?:\/\//.test(i.link||"")?i.link:"";
-  const inner=`<i></i><b>${LAB[i.cat]||""}</b><span>${esc(i.title)}</span><small>${esc(i.source)}</small>`;
+  const inner=`<b>${LAB[i.cat]||""}</b><span>${esc(i.title)}</span><small>${esc(i.source)}</small>`;
   const st=`style="--c:${COL[i.cat]||COL.weather}"`;
   return url?`<a class="item" ${st} href="${esc(url)}" target="_blank" rel="noopener">${inner}</a>`:`<span class="item" ${st}>${inner}</span>`;
 }
@@ -57,7 +58,7 @@ async function load(){
   let items=SAMPLE;
   try{
     const r=await fetch("feed.json",{cache:"no-store"});
-    if(r.ok){const d=await r.json();if(Array.isArray(d)&&d.length)items=d}
+    if(r.ok){const d=await r.json();if(Array.isArray(d)&&d.length)items=d.map(i=>({...i,cat:ALIAS[i.cat]||i.cat}))}
   }catch(e){}
   build(items);
 }
