@@ -1,390 +1,480 @@
 [
   {
-    "cat": "artist",
-    "title": "BIGBANG Adds World Tour Finale at L.A.’s SoFi Stadium",
-    "source": "Billboard",
-    "place": "Music",
-    "time": "2 min ago",
-    "published": "2026-11-05T06:54:56.000Z",
-    "link": "https://www.billboard.com/music/concerts/bigbang-world-tour-finale-sofi-stadium-1236374554/"
-  },
-  {
     "cat": "film",
-    "title": "‘Spider-Man: Brand New Day’ Spins Up Massive Numbers for Sony’s Quarterly Earnings",
-    "source": "Variety",
+    "title": "‘Sicario 3’ Starts Filming in Mexico City in April 2027",
+    "source": "The Cinemaholic",
     "place": "Film industry",
-    "time": "6 min ago",
-    "published": "2026-11-05T06:51:13.000Z",
-    "link": "https://variety.com/2026/film/news/sony-pictures-earnings-spider-man-brand-new-day-1236939997/"
-  },
-  {
-    "cat": "weather",
-    "title": "Flooding risk at the Băița Mine / Bihor County Committee for Emergency Situations declares a state of emergency",
-    "source": "Informat.ro",
-    "place": "Worldwide",
-    "time": "10 min ago",
-    "published": "2026-11-05T06:47:46.000Z",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaWNQazFKSjJtZVRQZ0RMY29YN0lZNnpVeVZsaHpZemllclZzTHotbTZFUjlZaGhsSVBtcTZRVENHdHhEY3lXdUlocm9MZW1Ydi1fRnN3RTJLUDhZb1JvbDRmVzNxY1NwcUZ6cDk1dXd2UmhCNHpzNGpTaHJCR2Q1Qk1fUEFiTmh4NGY4MTNJeFRpZWVoTlBZTTIxbWwzS3hEd2YtT0Jzaw?oc=5"
-  },
-  {
-    "cat": "festival",
-    "title": "46 Years Ago This Week, Dolly Parton Released the Biggest Pop Song of Her Entire Career",
-    "source": "Parade Magazine",
-    "place": "Glastonbury",
-    "time": "4 hr ago",
-    "published": "2026-11-05T03:25:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3JRTEVBZmFwR0F2WkRnTFNlYmFqYTdhSGpuZFA5d2s4RmRwbkhHc0ItQjZ3UmtJLUhwaDZQSVFDYkhOMnhRLTBlajROb0J1bUtUOTVpU3lTbHN2dy14QVVlTC1LWUc3bUw1X3R4Um9CSmF5c1otaFhJZGRSM1dPWjVoT1Z0Y2kxSkNXUkp3VzdiTVZhRDhQT2Y1eFlRbHhDZVB3Rm9oMy1kb1dVSnY1Wktn?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "Former Disney AI Executive Joins Studio Making Antonio Banderas Film With Artificial Intelligence",
-    "source": "SoaplandTV",
-    "place": "Star Wars",
-    "time": "4 hr ago",
-    "published": "2026-11-05T03:09:09.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObjE3S2JMZTQzSzdGZkh1TnRUakJzMEdzRzQ3ajU3b3A3Tlo0RTNhRC1HeVRUaGU2TlVOX1pXeE5GUTFacnRneWZ0dlljU1F4U2dLTVZXdVh5THpaeUU0ZU9yRjNvZERZaGtyWm9xSWd1ZWhMMDlsUUs3Vno1d3JFeHdGQWJLaTM5aDd2TU5CNVM3TVNsbWc0S0pWYURlbTRfNy1pT0NpRVhkd3QyQ1hXUXFFRkNjbExMRjY1VDhWNDFZeE1XZWEzR2Zn?oc=5"
-  },
-  {
-    "cat": "artist",
-    "title": "Fontaines D.C. – Demolition",
-    "source": "TrendyHipHop",
-    "place": "Fontaines D.C.",
-    "time": "43 min ago",
-    "published": "2026-11-05T06:13:55.000Z",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpYWppbzlORXFzU0E5ZUo0QzlHRWdMTEVnN3k3N2liMldPdVBkYl9ORGRYV05IQ0g1ZkYtbEtqU01ydGJyUTREVXo0dlhXNUVLYWZoZUhhbGlYTHFqWlJIVlY4U2NhYXNYdmtLS3NB?oc=5"
-  },
-  {
-    "cat": "film",
-    "title": "Ranbir Kapoor and Yash’s ‘Ramayana’ Makers on Retelling India’s Epic for the World, as Amazon Music and T-Series Bet on A.R. Rahman and Hans Zimmer’s Soundtrack",
-    "source": "Variety",
-    "place": "Film industry",
-    "time": "1 hr ago",
-    "published": "2026-11-05T05:30:00.000Z",
-    "link": "https://variety.com/2026/film/news/ranbir-kapoor-yash-ramayana-makers-epic-rahman-zimmer-score-1236939831/"
-  },
-  {
-    "cat": "weather",
-    "title": "Floods and severe weather beset parts of the U.S. on Election Day",
-    "source": "NBC News",
-    "place": "Worldwide",
-    "time": "2 hr ago",
-    "published": "2026-11-05T04:57:16.000Z",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaDRzTjJaSmI3NHBodDlTNWJhWVRlRmhFeGNFV1FDeU94cUxEb2h0V05ybTFZOEl0N0JUOWl0UExPY2dEdDJUUmplMEJjekM0aDZ1YkJTS3NtMTJ2RnlHZHJXTzlkQ2gxYi1tb3prVGtqb2REMU1JS0Nncm1XZDVaTWk0WFRhOVNidVJwT2pSYlQ4Z3FWRjVWNzZzSjBkLWt0?oc=5"
-  },
-  {
-    "cat": "festival",
-    "title": "Madonna says her Coachella outfits are 'missing,' offers reward",
-    "source": "ABC7 Bay Area",
-    "place": "Coachella",
-    "time": "6 hr ago",
-    "published": "2026-11-05T01:24:04.000Z",
-    "link": "https://news.google.com/rss/articles/CBMijgtBVV95cUxOLTN3VXJGUjFuZG9qUFlsM3FRWE5WWHdISkNleXNWM2xfTlMzU1JoVUZpb2dqYXhPeDJiMnQxTnF2RGQ5TG5tbnFDOXI5ZURfTFd5N3k0OHFHbjVZQk80cnJ5bWluNEV2aEE1V3ZzQ3VrM2dBSFNmblBGa3JZTmZGQTEyTEhUR216NHowRWZBdlpLa3BlMkhsaGd2N05EY1pnSlhSYTJKWEVpc0VkUTBfeUJoVElDa1lNb1lYV1RMYWlOeENMdno2N3M1RHdRQjdoVzJIT0UtQVY5bmpLQV9qMGRwdTY0Rk53NTAyREYydDBCVU41Y1hHcHdtNXpONWtMdXotbExlMldRRWJxMC1STmVDOWpPWHNGVkxCMjRVRW9rTE5iUkVYWVQ5V1FLVVppTGNoXzlLUUh4VDhoaGdjMEY2NTVvVmJDU2V3NDdXN1hqb19jNERmRFhuVFNjVTNSTGc1Q25WYjNqVDR4dXFreEszSHdXaDJjME1yb1dQWEhxSnZtMmtPWlpyQkVBWHowVm1Qa3lFd0xWUEkzV3NQQUpvdEFsX255bXVod21JeEF6c0p0bEpuQkdQS2lCVmQzc204R0VzMU5WYWF4ZFY4N3RVcDlPZE1KV09CVnB4Ukl5WDNfZTY3M19ja0NWbnBiS05rVVliZzc0YkNwdDdydEw2a1hKWHFsMXhZVXVRYVgxZUYxX00zOEpTeG1iR3RoWTJmamphVmJFYndqeFFYUHB0bUl4LUc2aXRmMmtsWDZDajZOMDhReTR0LThsS2dmOFhDOFRpZ2x6RUdTLThZOFNPUzVISkhSSjdZWFB0b0ZJZmxXcG50VTBxY3paSWxjZ1U2QngzajhsMk5aM1d1dWFNQ0JPRVBWV0h6N0ZlZDZUbzNjS05YN0RtNFlXcGRPU2daNnluamlOcnV3c0FJVVQwYlU1Ry1QajJDd3JMX205M285UjVZQVZxdFFQQUs3M3FfQ1dZQkRFUjBVZDRCdGYta3dCSWNIWC1xekVVZTFTMzItZTBnQ3R0N1JuWlJnX19kU1ZRZmZEN3hvNmVqWnEwVGpROVd1aWZlNUVEbXpzaDYzbG9rTjVaX1BFM0F0MEx5Y1RLSk9BZjl1bU14OW9CRGpKWXh5dkl6UVlVTVdBOG1iQ0Z0R3lxRzNsSkltNW4tejVQc1V5YWRPNHJyaTJoUmRfSURnZk9vV2lHYUp6ZmwxMzVkVmpHZEV5eGpqSlZydnVsaTd5T3hlWjByMHREaVB4MWtvQVQ0eHF1YzlSVVkxZzJ3eEhiQndSM0tpTUh5YlNJQTM1SnRtQ3lUQldoV1lsdXZCaWIyUVVEd2dfRXpPT2oySnFJTFEzS05zMi1IZjZuWDg1VFNfN0g1bXozeGtPQTBCY1ZxaUZ6R1ZEYjhzc0JNZlVKb1otSWR2MWNLajUwRlpwMXREOThTMU1WZGk4VXVOdmhQYTVKZGVwUm9sSVRzXy11QUE4Q0RCZnlEOG1SNTJQbnJwTk5DUFIwb0V0MzFDVXh0Q1FvUHlOWnh4c1pKbTI0MHNoRURfM0NKSXF3LUcwbUpidVZJYnpRTFBqNmJ6X0o1d1M5Ui02QUdZQnJhMjJqVjh6TFcyclpNU0pyRl9LRmRZZVlwSmJvWnBDVDlxOHNUZXFtZzh2MmFZRDZjSEI5bVVqZFlhRVFSUFFxenlid1FOUTZCeG04U2l6WTd1NWQzS2ZQcGFPSUl6WjI1MkZ3MXR0WGR6TFltbms3NHF0aV9UZS1HMmp1dXJuSUpId05hX2ZnYzFzOWdkRXhTbzJmb3JNb2hYaTg2RDlkZWxrSU9FM05ENm4tVW1IbUY1TmtYbHZLN1NDSTJlaG9KNU9uOEpQY0NvOGcyQzltVFVOMWMwdmfSAZwBQVVfeXFMT3d0YmRYNVhHd0VZa2N4ZVlHenYzNzJFYjE3Z2IxdHlIakEwSEhZUGZNTmMwdVNWaWNkbWktcjA0MG9WRlhJRTNQT091X2RfRk9jbGtDbEp0NUJsbVUtaVhodTAtbmQtZVlKbVRZZ2xZbFVkUlpTS3VkWlRBRE5zZXZFdktBdWQ5eFl5UGd0VGdwSk4zbDZKb0p1Zkln?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "Charles Porter Dies: ‘Finding Faith’ Producer & Actor Was 47",
-    "source": "Deadline",
-    "place": "Film industry",
-    "time": "5 hr ago",
-    "published": "2026-11-05T02:17:17.000Z",
-    "link": "https://deadline.com/2026/11/charles-porter-actor-dead-1237213861/"
-  },
-  {
-    "cat": "artist",
-    "title": "‘A Vast Landgrab’: ICMP Weighs-In on Big AI’s Australian Copyright Battleground (EXCLUSIVE)",
-    "source": "Billboard",
-    "place": "Music",
-    "time": "47 min ago",
-    "published": "2026-11-05T06:09:59.000Z",
-    "link": "https://www.billboard.com/pro/icmp-john-phelan-interview-big-ai-australian-copyright/"
-  },
-  {
-    "cat": "film",
-    "title": "Adam Driver Says ‘The Ship Has Sailed’ on ‘The Hunt for Ben Solo’ and He’s Done Playing Kylo Ren: ‘It’s Over’",
-    "source": "Variety",
-    "place": "Film industry",
-    "time": "2 hr ago",
-    "published": "2026-11-05T05:06:39.000Z",
-    "link": "https://variety.com/2026/film/news/adam-driver-the-hunt-for-ben-solo-kylo-ren-1236939988/"
-  },
-  {
-    "cat": "weather",
-    "title": "DeSantis expands flooding state of emergency to 7 more Florida counties, including Glades and Hendry",
-    "source": "Gulf Coast News and Weather",
-    "place": "Worldwide",
-    "time": "2 hr ago",
-    "published": "2026-11-05T04:56:46.000Z",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOd2poNHM3bTRjZkhiQzJwZDRzSFFPOV9UOTFNU1RtMFpBeG5qWGg5N213SGhrQk5hWWhCWjlVSkhfZnlMXy15cllJSHpxVmxnZEppQ1RnZWVsM25TMmVqUmwwUUtTMm5WclJucG0yNXg3NGRKdFFEeTVJMkZRcWw1dTF6MU9seTN6ZGJ2ZWo0a01SeUNfU3B1RQ?oc=5"
-  },
-  {
-    "cat": "festival",
-    "title": "In the early hours of April 29, 2001, Armand Van Helden closed out the first-ever Primavera Sound Barcelona; in 2027, Primavera Bits will bring the festival to a close with an 8-hour party at the Parc del Fòrum",
-    "source": "Barcelona Secreta",
-    "place": "Primavera Sound",
-    "time": "15 hr ago",
-    "published": "2026-11-04T15:49:22.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0ZpZFVDemJUbFd1MmhVZkExeENsTnRfcFlkSDU3c0dBc1gxa2VYbDNjbEI1UkpzUVFvMEhGdFptc3lBOWVDRUtraDFtT2EzUVp1YW02Wmk4Tm5aYW1GbmF5NUUydDJZd09MTVJHSkh1RVFtbjFfSF9qZ0xERFdiLTF2SEJ6U21VUzloRGNSVFB3WGZHZElkdnNkNU1nYVZ1VmlibURGM1U?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "FEARLESS VISION: ANNIE LEIBOVITZ UNITES BRITISH ORIGINALS, JAGUAR TYPE 01 AND FLORENCE PUGH",
-    "source": "JLR Corporate Website",
-    "place": "Florence Pugh",
-    "time": "5 hr ago",
-    "published": "2026-11-05T01:58:34.000Z",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNW9FSXBiUUszT052NFU2Q3h4X0NLRWVqN3E1eGM2eUx5cXZGNDRsczJlOUJCaElaWGs5OHZYeWtaRHV4MENELVZVb2hRTzdlQm05NVF3OEpWQnA4c3VzX2VsaFJaaDBVNlpWc25nbkoyZW5oMDBuZnVaRWpBdUxrSk83WkhaUW1EVzg3U2JfaVVpbEVGSWZmRlNlRUxheDEtVm9YQmdBWHh0Y3RPR0NINWtLV2hVZ2FyYWpsc05mSElQMEk5?oc=5"
-  },
-  {
-    "cat": "artist",
-    "title": "Texas’ New Attorney General Nathan Johnson Is a Former ‘Dragon Ball Z’ Composer",
-    "source": "Billboard",
-    "place": "Music",
-    "time": "2 hr ago",
-    "published": "2026-11-05T05:23:00.000Z",
-    "link": "https://www.billboard.com/music/music-news/texas-ag-nathan-johnson-dragon-ball-z-composer-1236374532/"
-  },
-  {
-    "cat": "film",
-    "title": "Netflix's Addictive 2-Season Western Is a Near-Perfect Streaming Binge",
-    "source": "Collider",
-    "place": "Film industry",
-    "time": "2 hr ago",
-    "published": "2026-11-05T05:06:12.000Z",
-    "link": "https://collider.com/ransom-canyon-netflix-western-streaming-binge/"
-  },
-  {
-    "cat": "weather",
-    "title": "These Florida Counties are now under a state of emergency for Floods",
-    "source": "WFTV",
-    "place": "Worldwide",
-    "time": "2 hr ago",
-    "published": "2026-11-05T04:31:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd2YtZl9VazlwRUljRlhISWFmMnZ0U0x0RWNDbzdVM05Tak1sSXZyakViaDVqR0hQcFZVVDVIeVJfZlZKbDNWRV9UWnZIWjk2d3E4SEMtMW9tcHRfLVpLeG9CcS1NWnE0TE1ERkpLbWtic2VVMXFRQ0FPRHA5WmY1dEtRaXRHVEZ2dzhXLW9aeHN3c1V3X1ZHSjkxWlprTjctWEItM2xuX3ZnYUFoOEs1WU80dVhXNWVOaS040gHPAUFVX3lxTE91WFZVTVZ2eldlNGRsUXMyREJ2eHFPUldCdnB4cXpPRXRKQUIzUFloVWxlek5waEpZR3dqX3Vkcl94Q0p0MjJ2V2tkd1BvYlZiTk1FeXNMdmllOTFpenlBazI5eTdHYmZkc2p2cEVaeXY2Sng0c2dKRmUxd1hDei1LSGd1Y2E0M1o1bkZRWnJfWmRFSGVxN1Y0eGtrVVNoUGpzUmxzb3M3OHlDWXoxTUtHYUFSSEtxalJNQXRjay0zT1drZkp1RzdfYlZYMVlTdw?oc=5"
-  },
-  {
-    "cat": "festival",
-    "title": "The Cure’s Robert Smith Teases 2027 Tour Dates Will Be ‘Bursting With New Songs’",
-    "source": "Billboard",
-    "place": "Glastonbury",
-    "time": "17 hr ago",
-    "published": "2026-11-04T14:13:39.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzlCeV83dVY5WUJVdmxXLVd2S3JFSm9QUWJtS19QdG5FTmFlY2lkVU5peUpMSHZEWm8tYU5EQl95SjZmWmxtMlJ3NkozSF9yNkwxTEJWelJYbFpaMXFSUmRyejlrVHFtdnd1enNNVE8tNU8zSXFnd0RzTlZ6OFB6OV9ud2w1V3U1STJ5YlZjdk45RkxsRGwtc0plTGJuQ3M0ak5pZUFQLXk?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "‘Scrubs’ Star Sarah Chalke On J.D. & Elliot’s Big Reveal & Surprise Twist, Sean & Charlie’s Quick Exit, Ollie’s Arrival & What Comes Next",
-    "source": "Deadline",
-    "place": "Film industry",
-    "time": "5 hr ago",
-    "published": "2026-11-05T01:31:00.000Z",
-    "link": "https://deadline.com/2026/11/scrubs-sarah-chalke-j-d-elliot-sean-charlie-interview-1237211745/"
-  },
-  {
-    "cat": "artist",
-    "title": "The $1.4 Billion ‘No-Brainer’ Opportunity The Music Industry Is Missing",
-    "source": "Billboard",
-    "place": "Music",
-    "time": "2 hr ago",
-    "published": "2026-11-05T05:08:53.000Z",
-    "link": "https://www.billboard.com/pro/soundtrack-opportunity-music-industry-missing/"
-  },
-  {
-    "cat": "film",
-    "title": "The Best Fantasy Book You Haven't Read Hits Harder Today Than Ever Before",
-    "source": "Collider",
-    "place": "Film industry",
-    "time": "2 hr ago",
-    "published": "2026-11-05T05:05:12.000Z",
-    "link": "https://collider.com/heroes-die-matthew-woodring-stover-fantasy-sci-fi-book-still-hits-hard/"
-  },
-  {
-    "cat": "weather",
-    "title": "Cyclone Murasu 2026, Tracker, Affected Areas, Warnings, Latest Updates",
-    "source": "Vajiram & Ravi",
-    "place": "Worldwide",
-    "time": "3 hr ago",
-    "published": "2026-11-05T04:25:33.000Z",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyVlVWNk5PLVhZaFJLY3lFaVBNNzZmdGtRcFRsQUx1R2JVMTU5ck53UVZCeHhhYU5WckNvSnpfMGRxVHhYMEtzT05ZQ0FpNTNhaDFGREJJMy0wenJ3UkRIeDgwM1ltRm5WOGpSX3BHYms?oc=5"
-  },
-  {
-    "cat": "festival",
-    "title": "Clash Live x Jack Coulter Starring Kara Marni & Amahla At Clash Lounge Wednesday November 18th",
-    "source": "Clash Magazine",
-    "place": "Glastonbury",
-    "time": "17 hr ago",
-    "published": "2026-11-04T13:47:34.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYWRlRkExQWp3WXRrNVhLcVBIa2pVbVAwTlBjcTJfelRsb1hNUm92SXpDV1RRMDdUc2QxWWlyZXJxaTlOLTVsd0Zya2Y2Zi15aDdIMVVXcnRiUjFVMTZZS2tCZjl4R2tnV3dlS0RCenRBYkhRQm5qc055aWQ5bjRjYkdNaG1FUHZ0cmpqSUY4NWFEOGhkTGliMzkxQ0k1YzNLV1VlOWprNHdZa2pqLXA2V0R6eU1LYVRKSHF1cHUtQ2x1bzQ?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "Charles F. Porter, Actor and ‘Finding Faith’ Producer, Dies at 47",
-    "source": "The Hollywood Reporter",
-    "place": "Film industry",
-    "time": "6 hr ago",
-    "published": "2026-11-05T00:28:31.000Z",
-    "link": "https://www.hollywoodreporter.com/movies/movie-news/charles-porter-dead-finding-faith-duke-wendell-scott-1236748133/"
-  },
-  {
-    "cat": "artist",
-    "title": "Fontaines D.C. – Mimesis",
-    "source": "TrendyHipHop",
-    "place": "Fontaines D.C.",
-    "time": "2 hr ago",
-    "published": "2026-11-05T05:04:40.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YOEc1cmlYTFBReGFGR1EtbHUzOFNjQnR1a3N4WGFKV205LTJ3R0ktZEZHLUJRTWloUFdQWHFLV001MG4yQWZobTc2TUxxYlNGcFFNUW9SZENxc0hJdnJoQjQ4ODhNcEpGRnc?oc=5"
-  },
-  {
-    "cat": "film",
-    "title": "Rajinikanth’s ‘Jailer 2’ Sets Global Streaming Premiere Date on Prime Video",
-    "source": "Variety",
-    "place": "Film industry",
-    "time": "2 hr ago",
-    "published": "2026-11-05T05:02:47.000Z",
-    "link": "https://variety.com/2026/film/news/rajinikanth-jailer-2-global-streaming-premiere-prime-video-1236939984/"
-  },
-  {
-    "cat": "weather",
-    "title": "Green forest fire notification in Brazil",
-    "source": "GDACS",
-    "place": "Brazil",
-    "time": "3 hr ago",
-    "published": "2026-11-05T04:19:16.000Z",
-    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033501"
-  },
-  {
-    "cat": "festival",
-    "title": "Lewis Capaldi makes major announcement – and it’s bad news for fans",
-    "source": "The Scottish Sun",
-    "place": "Glastonbury",
-    "time": "19 hr ago",
-    "published": "2026-11-04T12:08:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSndISU94MVhkdTY4WXNHRXRhd2U3d3Ztc0hfLW10UUtmLXViX1h2REd6ZTVTMm9iZXZqWGgxaWs0cnlybF9oZFQ0ZFNEb1NzOGktX3E5OV9PR0FNc1E2V0lnUUxrNUt3cUNqbWNIQk42WFVpWmhOZGFwcTNjNE1sYlU0WjhTRVU2YnNzalVoU2dmeVZ0cEVvajRWOFRlMmg0MDJ5Q3BR?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "Adam Driver Closes the Door on ‘Star Wars’ After a Ben Solo Movie That Never Was",
-    "source": "Comic Basics",
-    "place": "Star Wars",
-    "time": "7 hr ago",
-    "published": "2026-11-05T00:23:19.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVld1cmJTY3FadXZSRE9lSy1ObFdOdVVGU0JwTkdTR1g3RzRQOThBNmRkRTVFN2MzU25YVHB1OFp3VFlVaFRhVThrTDMybFY5amxjblZxSC1rNURld1RyWHpJS0NOdlNkQmRkdkt1Ykc4aHNrcUhCRWw3eGJNSWF3NGdVVE5sRUZwZFk0bzlJOUFPYmFYc25DNVJ4a1VsX1FWV1NBODZQbHVBNWc?oc=5"
-  },
-  {
-    "cat": "artist",
-    "title": "Jonny Greenwood: Bio And Career Highlights",
-    "source": "Bored Panda",
-    "place": "Radiohead",
-    "time": "4 hr ago",
-    "published": "2026-11-05T03:12:50.000Z",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11UF81bm9ldFVwdV9ud3hNSkh4LTdfaWlHejBvNzYydHZaTTBJejJTZjF4NUsxbllSQkFYS09sUE85bVo4U1dmNXQwRjZqU2VRYzlQc3l6clM4MHQ0VXY2dllpNkxVcmlSTVJUZmYtc0NXMEV5UU02aQ?oc=5"
-  },
-  {
-    "cat": "film",
-    "title": "Nicolas Cage Weighs in on Ryan Gosling’s Ghost Rider, 20 Years After His Version",
-    "source": "The Hollywood Reporter",
-    "place": "Film industry",
-    "time": "2 hr ago",
-    "published": "2026-11-05T04:29:09.000Z",
-    "link": "https://www.hollywoodreporter.com/movies/movie-news/nicolas-cage-ryan-gosling-ghost-rider-20-years-1236748268/"
-  },
-  {
-    "cat": "weather",
-    "title": "Green forest fire notification in South Sudan",
-    "source": "GDACS",
-    "place": "South Sudan",
-    "time": "3 hr ago",
-    "published": "2026-11-05T04:14:42.000Z",
-    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033498"
-  },
-  {
-    "cat": "festival",
-    "title": "Boulder's new Airbnb rules sparked a gold rush ahead of the Sundance Film Festival",
-    "source": "Yahoo Finance UK",
-    "place": "Glastonbury",
-    "time": "21 hr ago",
-    "published": "2026-11-04T09:48:01.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVkVxMEQzU0FTbnF5cjhFenZaVTVrUlYwbnhaQzRMcTZpN1p1VVRfSkVKbTR6LTFUaElYUWgtVFZkTVhNV0hpM3pxamlpWDZtU0t4T3VEMVNOZWxvYlhRSkdSbUdSUWNpRXRHdlJ6S2xpLXE2M05kTTBHcDdHb3NJVGlkc0o0UEI2MHZN?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "‘Logan’ Star Dafne Keen Says She Was “Getting Offered Coke at Wrap Parties” at 11 Years Old",
-    "source": "The Hollywood Reporter",
-    "place": "Film industry",
-    "time": "7 hr ago",
-    "published": "2026-11-04T23:59:46.000Z",
-    "link": "https://www.hollywoodreporter.com/movies/movie-news/logan-dafne-keen-getting-offered-coke-11-years-old-1236748110/"
-  },
-  {
-    "cat": "artist",
-    "title": "Billboard’s Music Industry Events Calendar",
-    "source": "Billboard",
-    "place": "Music",
-    "time": "5 hr ago",
-    "published": "2026-11-05T01:47:00.000Z",
-    "link": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/"
-  },
-  {
-    "cat": "film",
-    "title": "Ridley Scott's Apple TV Crime Thriller Is a 10/10 Binge-Watch",
-    "source": "Collider",
-    "place": "Film industry",
-    "time": "3 hr ago",
-    "published": "2026-11-05T04:15:12.000Z",
-    "link": "https://collider.com/dope-thief-apple-tv-ridley-scott-crime-thriller/"
+    "time": "1 min ago",
+    "published": "2026-11-05T08:15:59.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56eVlDLV9mdmE5bEJoaVlBQm1zTkhKMDhYV0pqQzNmVldpZTNhaEQzaC1EY2N0RV9XS0hGZ2FBYlhDeDM5VVZjaXdkVVROUk9vWElZUThKdWY?oc=5"
   },
   {
     "cat": "weather",
     "title": "Green forest fire notification in Central African Republic",
     "source": "GDACS",
     "place": "Central African Republic",
-    "time": "3 hr ago",
-    "published": "2026-11-05T04:13:03.000Z",
+    "time": "4 min ago",
+    "published": "2026-11-05T08:13:02.000Z",
     "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033442"
   },
   {
+    "cat": "artist",
+    "title": "‘Black Doves’ season two review: ludicrously enjoyable spy thriller continues",
+    "source": "NME",
+    "place": "Music",
+    "time": "14 min ago",
+    "published": "2026-11-05T08:02:43.000Z",
+    "link": "https://www.nme.com/reviews/tv-reviews/black-doves-season-2-review-keira-knightley-ben-whishaw-netflix-3974984?utm_source=rss&utm_medium=rss&utm_campaign=black-doves-season-2-review-keira-knightley-ben-whishaw-netflix"
+  },
+  {
     "cat": "festival",
-    "title": "Paraorchestra Musician Callout 2026: Apply",
-    "source": "Neon Music",
+    "title": "Glastonbury Festival 2025 - Latest News, Live Music & Line Ups - Bristol Live - Page 64",
+    "source": "Bristol Live",
     "place": "Glastonbury",
-    "time": "22 hr ago",
-    "published": "2026-11-04T09:09:21.000Z",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHRGMxVkVJZWd2SE80R1BSYjc1RWZrSXk4WUx0cHNINWJ6MzhOU1dGSU53cWozaGt3OEdkVi1pSU1CZDRsZXBURmFDMUtGWFJRakdXaEJjZjlGRm1XaEF0MERwTk9BQTJsSUtr?oc=5"
+    "time": "2 hr ago",
+    "published": "2026-11-05T06:33:27.000Z",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM3c3aEFwRDNqam5UcngwMEQwUzhXT2wxUTFvNkxYdjNWNVFtQ3Z6RGROeXNlcVdnV1pVU2pneDVFQURaSldaTlpTeV9VMU1BanlYX29OVjluMDlnajIyc3ZPdmNOZDU4MHpxaUJSU25rZ2NnX1dpbVNBY1JyNm1XTU9hNmwySWlKRkFGTnBCU2Q5SlhvRDAxYw?oc=5"
   },
   {
     "cat": "actor",
-    "title": "Cillian Murphy's son Aran, 19, becomes the nepo baby of the hour with starring roles in War, Klara And The Sun and Youth as he looks set to rival his famous father for screentime",
-    "source": "Daily Mail",
-    "place": "Cillian Murphy",
-    "time": "7 hr ago",
-    "published": "2026-11-04T23:43:24.000Z",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSEhzeWtzTW9ZODBfQlN3b2kycjIxLW5vQ28zQk9lMk9jUHp4NkpWU1BVa2lPWDFmcTBGTG9IemZsTHh2c2hHUzlLaW5aR1V6ZHpRaG42Z010Zm5yQk5ULUZiQmZhUWpKQlZuWjJZam91N0pvTFZyMzhuM19XWXR6MHNSc0hWV1dmT1lTdTFaUXZZWFRxYmFneVhvZ1hqd2xQX1BRLW1la9IBrAFBVV95cUxOOHRrdmNHc3VJUkczYUc4T2Q3VzlJZ1c4VkJpd1JHRmh0RWkxZU1DelZYNlVzVmtDWjgwQnVzaHkzTmJLTUFralh5Q2hrSURkX2IwVXVvSy1pN2RWMXpXVE1HaUUxX3pHR3Fta0g2SEVsLWFpamppdWNUeFJZdDR6eE5WUlBEUUpsVDltZDZGV2dRU0VIZ3lPbV9SZlFXQ21LSE5fdklsMW5pbHZL?oc=5"
-  },
-  {
-    "cat": "artist",
-    "title": "Judge Torn on Lil Durk Bail Question After Murder-for-Hire Verdict: ‘A Question of Psychology’",
-    "source": "Billboard",
-    "place": "Music",
-    "time": "6 hr ago",
-    "published": "2026-11-05T01:11:32.000Z",
-    "link": "https://www.billboard.com/pro/lil-durk-bail-motion-judge-torn-rapper-jail/"
+    "title": "Annie Leibovitz X Florence Pugh BTS",
+    "source": "JLR Corporate Website",
+    "place": "Florence Pugh",
+    "time": "5 hr ago",
+    "published": "2026-11-05T03:41:36.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMmJQekpTc1FpQXZZVTJhZm10RndGa21SbThPT3hjX2VRdjNiOWRzdFA4X0VmVU9Qdi1sNkhFQWFBdEcxQkgyb2NBeHVsTGpVRU1ZWkpReEZEWHMtWmtWNG01eE1MVTFPb3JJTHpFbVpOV2xSUWpoeUlSTlA1VDl3aXF3?oc=5"
   },
   {
     "cat": "film",
-    "title": "Denzel Washington's Sci-Fi Crime Thriller 'Déjà Vu' Is 'Minority Report' Meets 'Looper'",
-    "source": "Collider",
+    "title": "Cs Amudhan Announces 'Tamizh Padam 3': Shiva Returns; Principal Photography Begins",
+    "source": "IMDb",
     "place": "Film industry",
-    "time": "3 hr ago",
-    "published": "2026-11-05T04:03:12.000Z",
-    "link": "https://collider.com/denzel-washington-deja-vu-thriller-streaming-free-tubi-november-2026/"
+    "time": "14 min ago",
+    "published": "2026-11-05T08:03:27.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBldDRzaVc2RW43ZkxiQVQ4SUF2OGF6TlZ3X0xqR3NXVVk5V2k2YjRKRDhvUUgxaC16cUNfYXZiWm1XTkEycTFuXzlXQ1FOZ0RUTkVFRC05bDN2WGxYY3lEU2poa2dLa1E?oc=5"
   },
   {
     "cat": "weather",
     "title": "Green forest fire notification in Sudan, South Sudan",
     "source": "GDACS",
     "place": "Sudan, South Sudan",
-    "time": "3 hr ago",
-    "published": "2026-11-05T04:11:40.000Z",
+    "time": "4 min ago",
+    "published": "2026-11-05T08:12:55.000Z",
     "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033497"
+  },
+  {
+    "cat": "artist",
+    "title": "BIGBANG Adds World Tour Finale at L.A.’s SoFi Stadium",
+    "source": "Billboard",
+    "place": "Music",
+    "time": "1 hr ago",
+    "published": "2026-11-05T06:54:56.000Z",
+    "link": "https://www.billboard.com/music/concerts/bigbang-world-tour-finale-sofi-stadium-1236374554/"
+  },
+  {
+    "cat": "festival",
+    "title": "In the early hours of April 29, 2001, Armand Van Helden closed out the first-ever Primavera Sound Barcelona; in 2027, Primavera Bits will bring the festival to a close with an 8-hour party at the Parc del Fòrum",
+    "source": "Barcelona Secreta",
+    "place": "Primavera Sound",
+    "time": "16 hr ago",
+    "published": "2026-11-04T15:49:22.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQU0ZpZFVDemJUbFd1MmhVZkExeENsTnRfcFlkSDU3c0dBc1gxa2VYbDNjbEI1UkpzUVFvMEhGdFptc3lBOWVDRUtraDFtT2EzUVp1YW02Wmk4Tm5aYW1GbmF5NUUydDJZd09MTVJHSkh1RVFtbjFfSF9qZ0xERFdiLTF2SEJ6U21VUzloRGNSVFB3WGZHZElkdnNkNU1nYVZ1VmlibURGM1U?oc=5"
+  },
+  {
+    "cat": "actor",
+    "title": "Former Disney AI Executive Joins Studio Making Antonio Banderas Film With Artificial Intelligence",
+    "source": "SoaplandTV",
+    "place": "Star Wars",
+    "time": "5 hr ago",
+    "published": "2026-11-05T03:09:09.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObjE3S2JMZTQzSzdGZkh1TnRUakJzMEdzRzQ3ajU3b3A3Tlo0RTNhRC1HeVRUaGU2TlVOX1pXeE5GUTFacnRneWZ0dlljU1F4U2dLTVZXdVh5THpaeUU0ZU9yRjNvZERZaGtyWm9xSWd1ZWhMMDlsUUs3Vno1d3JFeHdGQWJLaTM5aDd2TU5CNVM3TVNsbWc0S0pWYURlbTRfNy1pT0NpRVhkd3QyQ1hXUXFFRkNjbExMRjY1VDhWNDFZeE1XZWEzR2Zn?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "'Black Doves' Season 2 Is Bigger and Better in Every Way | Review",
+    "source": "Collider",
+    "place": "Film industry",
+    "time": "16 min ago",
+    "published": "2026-11-05T08:01:13.000Z",
+    "link": "https://collider.com/black-doves-season-2-review/"
+  },
+  {
+    "cat": "weather",
+    "title": "Green forest fire notification in Central African Republic, Chad",
+    "source": "GDACS",
+    "place": "Central African Republic, Chad",
+    "time": "5 min ago",
+    "published": "2026-11-05T08:11:50.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033473"
+  },
+  {
+    "cat": "artist",
+    "title": "‘A Vast Landgrab’: ICMP Weighs-In on Big AI’s Australian Copyright Battleground (EXCLUSIVE)",
+    "source": "Billboard",
+    "place": "Music",
+    "time": "2 hr ago",
+    "published": "2026-11-05T06:09:59.000Z",
+    "link": "https://www.billboard.com/pro/icmp-john-phelan-interview-big-ai-australian-copyright/"
+  },
+  {
+    "cat": "festival",
+    "title": "The Cure’s Robert Smith Teases 2027 Tour Dates Will Be ‘Bursting With New Songs’",
+    "source": "Billboard",
+    "place": "Glastonbury",
+    "time": "18 hr ago",
+    "published": "2026-11-04T14:13:39.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYzlCeV83dVY5WUJVdmxXLVd2S3JFSm9QUWJtS19QdG5FTmFlY2lkVU5peUpMSHZEWm8tYU5EQl95SjZmWmxtMlJ3NkozSF9yNkwxTEJWelJYbFpaMXFSUmRyejlrVHFtdnd1enNNVE8tNU8zSXFnd0RzTlZ6OFB6OV9ud2w1V3U1STJ5YlZjdk45RkxsRGwtc0plTGJuQ3M0ak5pZUFQLXk?oc=5"
+  },
+  {
+    "cat": "actor",
+    "title": "Charles Porter Dies: ‘Finding Faith’ Producer & Actor Was 47",
+    "source": "Deadline",
+    "place": "Film industry",
+    "time": "6 hr ago",
+    "published": "2026-11-05T02:17:17.000Z",
+    "link": "https://deadline.com/2026/11/charles-porter-actor-dead-1237213861/"
+  },
+  {
+    "cat": "film",
+    "title": "Sophie Stone Has Been Writing a Play and a Sitcom and Says, “There’s So Much to Gain” From Our Differences",
+    "source": "The Hollywood Reporter",
+    "place": "Film industry",
+    "time": "16 min ago",
+    "published": "2026-11-05T08:01:00.000Z",
+    "link": "https://www.hollywoodreporter.com/tv/tv-news/sophie-stone-play-sitcom-retreat-falling-bafta-breakthrough-1236746119/"
+  },
+  {
+    "cat": "weather",
+    "title": "Green forest fire notification in Botswana",
+    "source": "GDACS",
+    "place": "Botswana",
+    "time": "6 min ago",
+    "published": "2026-11-05T08:11:32.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033406"
+  },
+  {
+    "cat": "artist",
+    "title": "Texas’ New Attorney General Nathan Johnson Is a Former ‘Dragon Ball Z’ Composer",
+    "source": "Billboard",
+    "place": "Music",
+    "time": "3 hr ago",
+    "published": "2026-11-05T05:23:00.000Z",
+    "link": "https://www.billboard.com/music/music-news/texas-ag-nathan-johnson-dragon-ball-z-composer-1236374532/"
+  },
+  {
+    "cat": "festival",
+    "title": "Clash Live x Jack Coulter Starring Kara Marni & Amahla At Clash Lounge Wednesday November 18th",
+    "source": "Clash Magazine",
+    "place": "Glastonbury",
+    "time": "19 hr ago",
+    "published": "2026-11-04T13:47:34.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYWRlRkExQWp3WXRrNVhLcVBIa2pVbVAwTlBjcTJfelRsb1hNUm92SXpDV1RRMDdUc2QxWWlyZXJxaTlOLTVsd0Zya2Y2Zi15aDdIMVVXcnRiUjFVMTZZS2tCZjl4R2tnV3dlS0RCenRBYkhRQm5qc055aWQ5bjRjYkdNaG1FUHZ0cmpqSUY4NWFEOGhkTGliMzkxQ0k1YzNLV1VlOWprNHdZa2pqLXA2V0R6eU1LYVRKSHF1cHUtQ2x1bzQ?oc=5"
+  },
+  {
+    "cat": "actor",
+    "title": "FEARLESS VISION: ANNIE LEIBOVITZ UNITES BRITISH ORIGINALS, JAGUAR TYPE 01 AND FLORENCE PUGH",
+    "source": "JLR Corporate Website",
+    "place": "Florence Pugh",
+    "time": "6 hr ago",
+    "published": "2026-11-05T01:58:34.000Z",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNW9FSXBiUUszT052NFU2Q3h4X0NLRWVqN3E1eGM2eUx5cXZGNDRsczJlOUJCaElaWGs5OHZYeWtaRHV4MENELVZVb2hRTzdlQm05NVF3OEpWQnA4c3VzX2VsaFJaaDBVNlpWc25nbkoyZW5oMDBuZnVaRWpBdUxrSk83WkhaUW1EVzg3U2JfaVVpbEVGSWZmRlNlRUxheDEtVm9YQmdBWHh0Y3RPR0NINWtLV2hVZ2FyYWpsc05mSElQMEk5?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "‘Black Doves’ Season 2 Review: Keira Knightley and Ben Whishaw Return for More Crackling Chemistry and Bittersweet Thrills in Netflix Spy Thriller",
+    "source": "The Hollywood Reporter",
+    "place": "Film industry",
+    "time": "16 min ago",
+    "published": "2026-11-05T08:01:00.000Z",
+    "link": "https://www.hollywoodreporter.com/tv/tv-reviews/black-doves-season-2-review-keira-knightley-netflix-1236747277/"
+  },
+  {
+    "cat": "weather",
+    "title": "Green forest fire notification in Suriname, Brazil",
+    "source": "GDACS",
+    "place": "Suriname, Brazil",
+    "time": "8 min ago",
+    "published": "2026-11-05T08:08:58.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033504"
+  },
+  {
+    "cat": "artist",
+    "title": "Just announced: DJ Shadow joins Melbourne’s huge Live at the Gardens season",
+    "source": "Beat Magazine",
+    "place": "Radiohead",
+    "time": "3 hr ago",
+    "published": "2026-11-05T05:11:01.000Z",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPa2NmQ2ZVTzNObGtnaXB4Tm9VRFlFVEVxdjdBZnBZekxRa3lOZ2lRdXhVY0hURUc1RkhyY0Mwa2kzY1BNaDJVaHJSbGJ2enh4OWQ0dU5HWnJYci1Wc2ZHYVhpWU1Cc2RjWk1GOHB0NHN5TVZNSkV2QU5iMHdlRWxfM01JNDB5U2hwQWI2OWpxcENmUU5fNC1RYzdR?oc=5"
+  },
+  {
+    "cat": "festival",
+    "title": "Lewis Capaldi makes major announcement – and it’s bad news for fans",
+    "source": "The Scottish Sun",
+    "place": "Glastonbury",
+    "time": "20 hr ago",
+    "published": "2026-11-04T12:08:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSndISU94MVhkdTY4WXNHRXRhd2U3d3Ztc0hfLW10UUtmLXViX1h2REd6ZTVTMm9iZXZqWGgxaWs0cnlybF9oZFQ0ZFNEb1NzOGktX3E5OV9PR0FNc1E2V0lnUUxrNUt3cUNqbWNIQk42WFVpWmhOZGFwcTNjNE1sYlU0WjhTRVU2YnNzalVoU2dmeVZ0cEVvajRWOFRlMmg0MDJ5Q3BR?oc=5"
+  },
+  {
+    "cat": "actor",
+    "title": "‘Scrubs’ Star Sarah Chalke On J.D. & Elliot’s Big Reveal & Surprise Twist, Sean & Charlie’s Quick Exit, Ollie’s Arrival & What Comes Next",
+    "source": "Deadline",
+    "place": "Film industry",
+    "time": "7 hr ago",
+    "published": "2026-11-05T01:31:00.000Z",
+    "link": "https://deadline.com/2026/11/scrubs-sarah-chalke-j-d-elliot-sean-charlie-interview-1237211745/"
+  },
+  {
+    "cat": "film",
+    "title": "Olivier Dahan’s Period Drama ‘Nana’ Kicks Off Marvelous Productions, Kapa Studios Pact (EXCLUSIVE)",
+    "source": "Variety",
+    "place": "Film industry",
+    "time": "17 min ago",
+    "published": "2026-11-05T08:00:00.000Z",
+    "link": "https://variety.com/2026/film/global/olivier-dahan-nana-marvelous-productions-kapa-studios-1236937292/"
+  },
+  {
+    "cat": "weather",
+    "title": "Green forest fire notification in Brazil, Guyana",
+    "source": "GDACS",
+    "place": "Brazil, Guyana",
+    "time": "9 min ago",
+    "published": "2026-11-05T08:07:42.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033503"
+  },
+  {
+    "cat": "artist",
+    "title": "The $1.4 Billion ‘No-Brainer’ Opportunity The Music Industry Is Missing",
+    "source": "Billboard",
+    "place": "Music",
+    "time": "3 hr ago",
+    "published": "2026-11-05T05:08:53.000Z",
+    "link": "https://www.billboard.com/pro/soundtrack-opportunity-music-industry-missing/"
+  },
+  {
+    "cat": "festival",
+    "title": "Susan Sarandon, Will Ferrell, Sam Elliott light up Sabrina Carpenter’s Coachella performance",
+    "source": "Telegraph India",
+    "place": "Coachella",
+    "time": "21 hr ago",
+    "published": "2026-11-04T11:44:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdXVtbW10QXF2WnpCNF85eWZyWkdFaXlpYnp3cjAxQXpiQ280SlZraXR3WEtBeWpFM00ybXpoNS1tUExLR0UwR1dFX1JjUEVPcHpmN0RHaWt3a0VFWFVvbkZaYVlhNW9JdHVtdGw0RXRKUmdUMjIwR05VeDQwMG5GRXpXYVhFZUlTUDRubGI1bURoOC1XZGFMTW5zTnQ1MlNWaEU2aW14dldDbkRYeVgxNFIwZ0Zfc3JRMG9PMXVvUWx4a3E5TDJDY0xTMEdrVzFManNvcmVVaTJHbkVlSjFpZEkyeS0yaFZFV2w3UTVQZUzSAfYBQVVfeXFMUEg0MFVMOUNIcjhmOGNzSjdYX1JGRHJtUXY5emY4ZFR2elotaTM4SG4xUTR0OTI2OGNLbWxXSVNwbU9hanc0S0E0bTc0bzlNSDBLVUdFOWNPNzJDYTBOR2pJckxHRm9GV1IwQ2lQLUhwT3hzN2Y2TVRoQV9GdUg1MlNQdWpfSlh1YnBMVV9INjd6QnhCUFV5bGZ0akVFSHFsWE5ETE94ZGVRdEx0OFJacU00aS13QVBmeHNvTzA1RzFGbjMzcVh0a2d4WDhaQS05ajEzM2NBWHVxd0JnMURZWTBQRjBpeVpOeFptUVpqRWUwTmc2NnZ3?oc=5"
+  },
+  {
+    "cat": "actor",
+    "title": "Charles F. Porter, Actor and ‘Finding Faith’ Producer, Dies at 47",
+    "source": "The Hollywood Reporter",
+    "place": "Film industry",
+    "time": "8 hr ago",
+    "published": "2026-11-05T00:28:31.000Z",
+    "link": "https://www.hollywoodreporter.com/movies/movie-news/charles-porter-dead-finding-faith-duke-wendell-scott-1236748133/"
+  },
+  {
+    "cat": "film",
+    "title": "‘Sea of Glass’ Brings ‘Country Gothic Noir’ Tradition to Greece With Story of Two Women Finding Solidarity Across Generations",
+    "source": "Variety",
+    "place": "Film industry",
+    "time": "17 min ago",
+    "published": "2026-11-05T08:00:00.000Z",
+    "link": "https://variety.com/2026/film/global/sea-of-glass-country-gothic-noir-greece-women-solidarity-1236938537/"
+  },
+  {
+    "cat": "weather",
+    "title": "Green forest fire notification in Mozambique",
+    "source": "GDACS",
+    "place": "Mozambique",
+    "time": "10 min ago",
+    "published": "2026-11-05T08:07:25.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033492"
+  },
+  {
+    "cat": "artist",
+    "title": "Fontaines D.C. – Mimesis",
+    "source": "TrendyHipHop",
+    "place": "Fontaines D.C.",
+    "time": "3 hr ago",
+    "published": "2026-11-05T05:04:40.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9YOEc1cmlYTFBReGFGR1EtbHUzOFNjQnR1a3N4WGFKV205LTJ3R0ktZEZHLUJRTWloUFdQWHFLV001MG4yQWZobTc2TUxxYlNGcFFNUW9SZENxc0hJdnJoQjQ4ODhNcEpGRnc?oc=5"
+  },
+  {
+    "cat": "festival",
+    "title": "Glastonbury Headliners 2027 Latest Odds: The 11 artists tipped to top the Pyramid Stage bill",
+    "source": "The Scotsman",
+    "place": "Glastonbury",
+    "time": "21 hr ago",
+    "published": "2026-11-04T11:16:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQTU9IT292UXVCa2JUck1mZGF4NzBPVE02Um85MXUwOU9pMy0tQWNmeURGQ2dlSFdVTlpTVjhFcnFpeF9iVGl2ZllRczBpVk5XUHlwR3JkSFliQXJzWmROeVVaQ21mMVNaMnRlSHBhOG0wVXNCMWtudlp6bkxNN01KSkZFYllhYjJMSFhDSkNkamlfZnZsbnd1cGhnNFlkb2xTUXJ5RDlxSGM3Q192cVhfeFlOdUlVNC1mZHd2X0tXdktpT3BueGJ2SDFyYWZKZVVjMnl6ek9BSk9Fa25rUF85Q0hkQUVwZENKckFQTHRKT0lzZi1DUGZGYzIzdzhuUGp1OUhxeUVwNXp1dw?oc=5"
+  },
+  {
+    "cat": "actor",
+    "title": "Adam Driver Closes the Door on ‘Star Wars’ After a Ben Solo Movie That Never Was",
+    "source": "Comic Basics",
+    "place": "Star Wars",
+    "time": "8 hr ago",
+    "published": "2026-11-05T00:23:19.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVld1cmJTY3FadXZSRE9lSy1ObFdOdVVGU0JwTkdTR1g3RzRQOThBNmRkRTVFN2MzU25YVHB1OFp3VFlVaFRhVThrTDMybFY5amxjblZxSC1rNURld1RyWHpJS0NOdlNkQmRkdkt1Ykc4aHNrcUhCRWw3eGJNSWF3NGdVVE5sRUZwZFk0bzlJOUFPYmFYc25DNVJ4a1VsX1FWV1NBODZQbHVBNWc?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "‘Spider-Man: Brand New Day’ Propels Sony Pictures To Huge Q2 Profit Boost",
+    "source": "Deadline",
+    "place": "Film industry",
+    "time": "1 hr ago",
+    "published": "2026-11-05T07:05:49.000Z",
+    "link": "https://deadline.com/2026/11/sony-q2-earnings-spider-man-brand-new-day-1237214122/"
+  },
+  {
+    "cat": "weather",
+    "title": "Green forest fire notification in South Sudan",
+    "source": "GDACS",
+    "place": "South Sudan",
+    "time": "10 min ago",
+    "published": "2026-11-05T08:07:01.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033494"
+  },
+  {
+    "cat": "artist",
+    "title": "Jonny Greenwood: Bio And Career Highlights",
+    "source": "Bored Panda",
+    "place": "Radiohead",
+    "time": "5 hr ago",
+    "published": "2026-11-05T03:12:50.000Z",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11UF81bm9ldFVwdV9ud3hNSkh4LTdfaWlHejBvNzYydHZaTTBJejJTZjF4NUsxbllSQkFYS09sUE85bVo4U1dmNXQwRjZqU2VRYzlQc3l6clM4MHQ0VXY2dllpNkxVcmlSTVJUZmYtc0NXMEV5UU02aQ?oc=5"
+  },
+  {
+    "cat": "festival",
+    "title": "Boulder's new Airbnb rules sparked a gold rush ahead of the Sundance Film Festival",
+    "source": "Yahoo Finance UK",
+    "place": "Glastonbury",
+    "time": "22 hr ago",
+    "published": "2026-11-04T09:48:01.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVkVxMEQzU0FTbnF5cjhFenZaVTVrUlYwbnhaQzRMcTZpN1p1VVRfSkVKbTR6LTFUaElYUWgtVFZkTVhNV0hpM3pxamlpWDZtU0t4T3VEMVNOZWxvYlhRSkdSbUdSUWNpRXRHdlJ6S2xpLXE2M05kTTBHcDdHb3NJVGlkc0o0UEI2MHZN?oc=5"
+  },
+  {
+    "cat": "actor",
+    "title": "Cillian Murphy's son Aran, 19, becomes the nepo baby of the hour with starring roles in War, Klara And The Sun and Youth as he looks set to rival his famous father for screentime",
+    "source": "Daily Mail",
+    "place": "Cillian Murphy",
+    "time": "9 hr ago",
+    "published": "2026-11-04T23:43:24.000Z",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSEhzeWtzTW9ZODBfQlN3b2kycjIxLW5vQ28zQk9lMk9jUHp4NkpWU1BVa2lPWDFmcTBGTG9IemZsTHh2c2hHUzlLaW5aR1V6ZHpRaG42Z010Zm5yQk5ULUZiQmZhUWpKQlZuWjJZam91N0pvTFZyMzhuM19XWXR6MHNSc0hWV1dmT1lTdTFaUXZZWFRxYmFneVhvZ1hqd2xQX1BRLW1la9IBrAFBVV95cUxOOHRrdmNHc3VJUkczYUc4T2Q3VzlJZ1c4VkJpd1JHRmh0RWkxZU1DelZYNlVzVmtDWjgwQnVzaHkzTmJLTUFralh5Q2hrSURkX2IwVXVvSy1pN2RWMXpXVE1HaUUxX3pHR3Fta0g2SEVsLWFpamppdWNUeFJZdDR6eE5WUlBEUUpsVDltZDZGV2dRU0VIZ3lPbV9SZlFXQ21LSE5fdklsMW5pbHZL?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "Former KABC and KCBS News Anchor Harold Greene Dies at 82",
+    "source": "Variety",
+    "place": "Film industry",
+    "time": "1 hr ago",
+    "published": "2026-11-05T07:00:52.000Z",
+    "link": "https://variety.com/2026/tv/news/harold-greene-dies-dead-82-kabc-kcbs-1236940011/"
+  },
+  {
+    "cat": "weather",
+    "title": "Green forest fire notification in Sudan",
+    "source": "GDACS",
+    "place": "Sudan",
+    "time": "10 min ago",
+    "published": "2026-11-05T08:06:59.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033495"
+  },
+  {
+    "cat": "artist",
+    "title": "Billboard’s Music Industry Events Calendar",
+    "source": "Billboard",
+    "place": "Music",
+    "time": "7 hr ago",
+    "published": "2026-11-05T01:47:00.000Z",
+    "link": "https://www.billboard.com/pro/music-industry-events-calendar-festivals-awards-conferences/"
+  },
+  {
+    "cat": "festival",
+    "title": "Paraorchestra Musician Callout 2026: Apply",
+    "source": "Neon Music",
+    "place": "Glastonbury",
+    "time": "23 hr ago",
+    "published": "2026-11-04T09:09:21.000Z",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBHRGMxVkVJZWd2SE80R1BSYjc1RWZrSXk4WUx0cHNINWJ6MzhOU1dGSU53cWozaGt3OEdkVi1pSU1CZDRsZXBURmFDMUtGWFJRakdXaEJjZjlGRm1XaEF0MERwTk9BQTJsSUtr?oc=5"
+  },
+  {
+    "cat": "actor",
+    "title": "Marvel Really Wants Fans To Forget Fantastic Four's Biggest Retcon",
+    "source": "ScreenRant",
+    "place": "Pedro Pascal",
+    "time": "9 hr ago",
+    "published": "2026-11-04T23:06:17.000Z",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4taFVKemMtUEI3aElkUC1XU0RFNEF3SEQxR3cxMzZXTmUxQjIzcS1qM0RJSTJLVTFQN1U4RXMxTVloZkpsVmh2Zi1UN2RtUTlkVXE5RmJNT040TlphUUo0STRBS3N0NjQ?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "‘Sounds of the Desert’ Explores Lives, Music and Cosmic Visions of Two Members of the Sun Ra Arkestra (Exclusive Tallinn Trailer)",
+    "source": "The Hollywood Reporter",
+    "place": "Film industry",
+    "time": "1 hr ago",
+    "published": "2026-11-05T07:00:00.000Z",
+    "link": "https://www.hollywoodreporter.com/movies/movie-news/tallinn-sounds-of-the-desert-doc-film-trailer-sun-ra-arkestra-1236744161/"
+  },
+  {
+    "cat": "weather",
+    "title": "Green forest fire notification in Bolivia",
+    "source": "GDACS",
+    "place": "Bolivia",
+    "time": "11 min ago",
+    "published": "2026-11-05T08:06:29.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033500"
+  },
+  {
+    "cat": "artist",
+    "title": "Judge Torn on Lil Durk Bail Question After Murder-for-Hire Verdict: ‘A Question of Psychology’",
+    "source": "Billboard",
+    "place": "Music",
+    "time": "7 hr ago",
+    "published": "2026-11-05T01:11:32.000Z",
+    "link": "https://www.billboard.com/pro/lil-durk-bail-motion-judge-torn-rapper-jail/"
+  },
+  {
+    "cat": "festival",
+    "title": "What time does Justin Bieber perform at Coachella 2026? Everything to know about the livestream schedule",
+    "source": "primetimer.com",
+    "place": "Coachella",
+    "time": "1 day ago",
+    "published": "2026-11-04T07:13:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQM1BGd1VaZmtIaVUtcVI4bUptanRRNkpnNmVJblR5cGpEZWt3RFlRbmMwY0pvVnphcWJtbEdDREI2cndmMjJEWW9MN2otajNoS2RZZ0dFWGIzYzl1ejVxSXR3cGpzWk85b05iWDVaQjFJdjBJZ2dnWG9hNzdQckhJcWktMkk1QzF0WV80MVN6cFZORDQ5aUt4UHRrbEs5djBkRFZvZ2VUMHJWMkhSZ3owM0pQX0ZZeW45NVBSVXVwWlloczFnZ0pxZXc2YnhlRlBmVlNwWnF3?oc=5"
+  },
+  {
+    "cat": "actor",
+    "title": "US election through celebrity eyes: How Pascal, Lawrence and other stars voted",
+    "source": "RBC-Ukraine",
+    "place": "Pedro Pascal",
+    "time": "10 hr ago",
+    "published": "2026-11-04T22:35:00.000Z",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa3hWbUxQeHBuTU9zUWFaVHdwalNTbXo5Nmx4ekdMNllZVUluaU1ENDFkalphNVUwYXY3dm9vT2RLRnZzSlE4aHpJNmhKbElEdlNnWWRnbEdWYzRfV2luVTV1N2k3OGNxMUlEZDUtX1o0ZlhJcXowM2YzVFdFd1YtWmRRaWpNczZkOWRLVEJOcmlzemZXQ2JIWQ?oc=5"
+  },
+  {
+    "cat": "film",
+    "title": "‘Spider-Man: Brand New Day’ Spins Up Massive Numbers for Sony’s Quarterly Earnings",
+    "source": "Variety",
+    "place": "Film industry",
+    "time": "1 hr ago",
+    "published": "2026-11-05T06:51:13.000Z",
+    "link": "https://variety.com/2026/film/news/sony-pictures-earnings-spider-man-brand-new-day-1236939997/"
+  },
+  {
+    "cat": "weather",
+    "title": "Green forest fire notification in China",
+    "source": "GDACS",
+    "place": "China",
+    "time": "12 min ago",
+    "published": "2026-11-05T08:05:29.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033417"
+  },
+  {
+    "cat": "artist",
+    "title": "50 Cent Jokingly Sends Diddy a Happy Birthday Message With Jail Photo: ‘Wishing You Many More LOL’",
+    "source": "Billboard",
+    "place": "Music",
+    "time": "7 hr ago",
+    "published": "2026-11-05T00:59:33.000Z",
+    "link": "https://www.billboard.com/music/rb-hip-hop/50-cent-diddy-happy-birthday-1236374084/"
   },
   {
     "cat": "festival",
@@ -397,84 +487,39 @@
   },
   {
     "cat": "actor",
-    "title": "‘The Secret Lives of Mormon Wives’ Star Jen Affleck Files for Divorce from Zac Affleck",
-    "source": "Variety",
-    "place": "Film industry",
-    "time": "8 hr ago",
-    "published": "2026-11-04T23:25:40.000Z",
-    "link": "https://variety.com/2026/tv/news/the-secret-lives-of-mormon-wives-jen-affleck-divorce-zac-affleck-1236939836/"
-  },
-  {
-    "cat": "artist",
-    "title": "50 Cent Jokingly Sends Diddy a Happy Birthday Message With Jail Photo: ‘Wishing You Many More LOL’",
-    "source": "Billboard",
-    "place": "Music",
-    "time": "6 hr ago",
-    "published": "2026-11-05T00:59:33.000Z",
-    "link": "https://www.billboard.com/music/rb-hip-hop/50-cent-diddy-happy-birthday-1236374084/"
+    "title": "Daisy Ridley Joins New Horror Movie As Star Wars Future Remains Uncertain",
+    "source": "ScreenRant",
+    "place": "Star Wars",
+    "time": "11 hr ago",
+    "published": "2026-11-04T21:34:47.000Z",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SZUwySE1nQTFWTDVXdkJtWXRLbU9RVTFxd1pvaGZKbXBwajZpMFBTc19Ram1rWTVwYWgtX0lXdU9NWlptX2JWRVhjNEg0cDRzRWdFTjdOdHVfdWU5Q3YxYjgtaFRRc1lib0dwNzhJakU4SGNUWVA4?oc=5"
   },
   {
     "cat": "film",
-    "title": "5 Sci-Fi Books You Can Finish in a Weekend",
-    "source": "Collider",
+    "title": "Ranbir Kapoor and Yash’s ‘Ramayana’ Makers on Retelling India’s Epic for the World, as Amazon Music and T-Series Bet on A.R. Rahman and Hans Zimmer’s Soundtrack",
+    "source": "Variety",
     "place": "Film industry",
     "time": "3 hr ago",
-    "published": "2026-11-05T04:01:12.000Z",
-    "link": "https://collider.com/sci-fi-books-read-in-one-weekend/"
+    "published": "2026-11-05T05:30:00.000Z",
+    "link": "https://variety.com/2026/film/news/ranbir-kapoor-yash-ramayana-makers-epic-rahman-zimmer-score-1236939831/"
   },
   {
     "cat": "weather",
-    "title": "Green forest fire notification in Botswana",
+    "title": "Green forest fire notification in Nigeria",
     "source": "GDACS",
-    "place": "Botswana",
-    "time": "3 hr ago",
-    "published": "2026-11-05T04:11:16.000Z",
-    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033406"
-  },
-  {
-    "cat": "festival",
-    "title": "Stagecoach Announces Dates for 2027 Festival",
-    "source": "TicketNews",
-    "place": "Coachella",
-    "time": "1 day ago",
-    "published": "2026-11-03T21:41:41.000Z",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQX2hFY3FfOWVkbkhQUXBRX2tSQU8wbDYtamdHYWhSTGc3YjBxNUs4NHl6cWJEOEdONkNnYVotUkQ0NDdHeldtQV9nQm81dEhwUkFOaDFTdUUxS2xoY0dJM1ZOejZBSG9XMTNteXBHbTBtV3A1R0RRWFAyTG42V1hxeE1UUUN4akE?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "‘Logan’ Star Dafne Keen Says ‘I Was Offered Cocaine’ as an 11-Year-Old in Hollywood and Hugh Jackman ‘Made Sure No One Abused My Hours’ on Set",
-    "source": "Variety",
-    "place": "Film industry",
-    "time": "8 hr ago",
-    "published": "2026-11-04T23:10:58.000Z",
-    "link": "https://variety.com/2026/film/news/logan-dafne-keen-cocaine-11-years-old-hollywood-1236939718/"
+    "place": "Nigeria",
+    "time": "13 min ago",
+    "published": "2026-11-05T08:04:27.000Z",
+    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033399"
   },
   {
     "cat": "artist",
     "title": "Jimmy Kimmel Takes Dig at Trump With Nicki Minaj Joke: ‘The Only A– on Trump’s Mind Tonight Is the One That Got Handed to Him’",
     "source": "Billboard",
     "place": "Music",
-    "time": "7 hr ago",
+    "time": "8 hr ago",
     "published": "2026-11-05T00:18:56.000Z",
     "link": "https://www.billboard.com/culture/politics/jimmy-kimmel-president-donald-trump-nicki-minaj-ass-joke-1236374399/"
-  },
-  {
-    "cat": "film",
-    "title": "India's 'Lord of the Rings': filmmakers hail 'Ramayana' epic",
-    "source": "AFP.com",
-    "place": "Star Wars",
-    "time": "3 hr ago",
-    "published": "2026-11-05T03:44:49.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1QV0tENGtXdDdhRnRCYU10UGFWZXZWNXhTVmtxNVp3UFZUNUcxVmpPT1hMMklSMnd2dktNSXp1MUpSMnZQRVJMeEl1Zw?oc=5"
-  },
-  {
-    "cat": "weather",
-    "title": "Flash flood emergency issued for parts of Fannin and Gilmer counties Wednesday night",
-    "source": "Local 3 News",
-    "place": "Worldwide",
-    "time": "3 hr ago",
-    "published": "2026-11-05T04:11:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWFRfVFljM2c5c0VuN1lNOWM0cEFVRzFOMUNfR1QzUmZyY0pxbnNfM1FzOG0wdks3ZmpUU1hpWVZsWjBOQnVDdXh1SEJRWkl3NjQzNXlxTWVUNDZoSGF6bmlrM0lvRm55N1pxdDdCM3ZMYWdvaGJwOXJkUHRFNlU4Zm1aRU1kQmRrSDBaQlBNSk51LXBEYi1VOFhGX3VYT1hkd0NwVzZDR2J6aTZpLTFCb2lFTEhPd0Y5TldSVy1RWlpHa0VISzY2QXlVaV9ZWC1sYTBHOVF6NTNHTE53YjRYT1FOLVRiVVlieXF5a29CcF9Xd0Fra0ZWRmd1VGJuYjczc2c?oc=5"
   },
   {
     "cat": "festival",
@@ -487,56 +532,11 @@
   },
   {
     "cat": "actor",
-    "title": "Marvel Really Wants Fans To Forget Fantastic Four's Biggest Retcon",
-    "source": "ScreenRant",
-    "place": "Pedro Pascal",
-    "time": "8 hr ago",
-    "published": "2026-11-04T23:06:17.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4taFVKemMtUEI3aElkUC1XU0RFNEF3SEQxR3cxMzZXTmUxQjIzcS1qM0RJSTJLVTFQN1U4RXMxTVloZkpsVmh2Zi1UN2RtUTlkVXE5RmJNT040TlphUUo0STRBS3N0NjQ?oc=5"
-  },
-  {
-    "cat": "artist",
-    "title": "Today’s Wordle answer and hints for #1965 on November 05",
-    "source": "NME",
-    "place": "Music",
-    "time": "7 hr ago",
-    "published": "2026-11-05T00:01:34.000Z",
-    "link": "https://www.nme.com/guides/gaming-guides/heres-the-wordle-answer-for-today-3171240?utm_source=rss&utm_medium=rss&utm_campaign=heres-the-wordle-answer-for-today"
-  },
-  {
-    "cat": "film",
-    "title": "Naga Chaitanya’s ‘Vrushakarma’ Begins Musical Promotions",
-    "source": "IndiaGlitz",
-    "place": "Avatar",
-    "time": "3 hr ago",
-    "published": "2026-11-05T03:40:38.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdHd3bkxyOWVwZE9LUmxMT1EzOGthSnFhUF9Rb1ZHVlpfU0ZFd3ZEUWRfdTFZeXBXYkJRMVlqTEVuc1paSDN5Ymd4bFlzS2RWRTI2aG9BNGdQSDVzcFNYN0NlaWJyVklTdG9XbGpKZFhqSHdoZmZIYV95OFdqUXhUM2lR?oc=5"
-  },
-  {
-    "cat": "weather",
-    "title": "Green forest fire notification in Central African Republic, Chad",
-    "source": "GDACS",
-    "place": "Central African Republic, Chad",
-    "time": "3 hr ago",
-    "published": "2026-11-05T04:10:13.000Z",
-    "link": "http://www.gdacs.org/report.aspx?eventtype=WF&eventid=1033473"
-  },
-  {
-    "cat": "festival",
-    "title": "Max Cooper in Lisboa, Porto and Madrid - Tickets November 2026",
-    "source": "Primavera Sound",
-    "place": "Primavera Sound",
-    "time": "1 day ago",
-    "published": "2026-11-03T20:39:52.000Z",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzFVQ3VseWRyQkR0QWRLYU9KNkl5U2pGVkdsbGJNdVJMZ29fV3ZqMDF5YjkzV2V3azIwZ28yNEh4RUNJVTJtUENDWC1Ma01YRF9Qd0lVRi05N0pTRk1vV3lIMWRRNkh2OUdkNU5xelB4dzlVOGo1U3pFeDFPUzk5RFlGVjlyblZKUTVzeXJZQWVaNzdCNmtKaEx0dUdJV19yZGdN?oc=5"
-  },
-  {
-    "cat": "actor",
-    "title": "US election through celebrity eyes: How Pascal, Lawrence and other stars voted",
-    "source": "RBC-Ukraine",
-    "place": "Pedro Pascal",
-    "time": "8 hr ago",
-    "published": "2026-11-04T22:35:00.000Z",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa3hWbUxQeHBuTU9zUWFaVHdwalNTbXo5Nmx4ekdMNllZVUluaU1ENDFkalphNVUwYXY3dm9vT2RLRnZzSlE4aHpJNmhKbElEdlNnWWRnbEdWYzRfV2luVTV1N2k3OGNxMUlEZDUtX1o0ZlhJcXowM2YzVFdFd1YtWmRRaWpNczZkOWRLVEJOcmlzemZXQ2JIWQ?oc=5"
+    "title": "Where was Peaky Blinders: The Immortal Man filmed?",
+    "source": "The Worldwide Guide To Movie Locations",
+    "place": "Cillian Murphy",
+    "time": "11 hr ago",
+    "published": "2026-11-04T20:56:33.000Z",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBucnBIUmxCR0VkZWZDQTd3clBoNm9aczFpR2hOenBST2U1RzZrdjFNRVRtVDhBRkhkUTZaQWRNZExlblpESWkweU9nVW9fTE82R2RpbE1KX0xTOVJfRGxZV3BHZ1ptcENraGlzM1dJOVVINjc0X3BuQ3BUb1k?oc=5"
   }
 ]
